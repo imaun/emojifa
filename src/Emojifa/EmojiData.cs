@@ -6,7 +6,7 @@ namespace Emojifa
     public class EmojiData
     {
         public string Title { get; set; }
-        public string Code { get; set; }
+        public string HexCode => $"U+{Convert.ToUInt16(Raw[0]):X4}";
         public string Raw { get; set; }
         public string? Category { get; set; }
         public string[] Aliases { get; set; }
