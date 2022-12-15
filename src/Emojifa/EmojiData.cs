@@ -5,7 +5,7 @@ namespace Emojifa
 
     public class EmojiData
     {
-        public string Name { get; set; }
+        public string Title { get; set; }
         public string Code { get; set; }
         public string Raw { get; set; }
         public string? Category { get; set; }
@@ -14,5 +14,6 @@ namespace Emojifa
         public string? UnicodeVersion { get; set; }
         public string? IosVersion { get; set; }
         public string[]? PersianNames { get; set; }
+        public string? Filename { get; set; }
     }
 }
