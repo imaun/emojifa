@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1DF64C46-818B-4098-BC75-BF4A26F1E2BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Emojifa", "src\Emojifa\Emojifa.csproj", "{20906B4A-CF63-405A-81B6-D3668CB07565}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emojifa.Cli", "src\Emojifa.Cli\Emojifa.Cli.csproj", "{4B8E72B3-8485-4BD7-A036-AD19554CE7F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20906B4A-CF63-405A-81B6-D3668CB07565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20906B4A-CF63-405A-81B6-D3668CB07565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20906B4A-CF63-405A-81B6-D3668CB07565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20906B4A-CF63-405A-81B6-D3668CB07565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B8E72B3-8485-4BD7-A036-AD19554CE7F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B8E72B3-8485-4BD7-A036-AD19554CE7F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B8E72B3-8485-4BD7-A036-AD19554CE7F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B8E72B3-8485-4BD7-A036-AD19554CE7F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{20906B4A-CF63-405A-81B6-D3668CB07565} = {1DF64C46-818B-4098-BC75-BF4A26F1E2BF}
+		{4B8E72B3-8485-4BD7-A036-AD19554CE7F8} = {1DF64C46-818B-4098-BC75-BF4A26F1E2BF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AD59AC7-D1D7-404E-A7F9-593E5E849068}
+	EndGlobalSection
+EndGlobal
