@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Emojifa
+﻿namespace Emojifa
 {
     public static partial class Emoji
     {
