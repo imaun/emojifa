@@ -7,10 +7,9 @@ using Newtonsoft.Json;
 namespace Emojifa;
 
 
-public class EmojifaContext
+public static class EmojifaContext
 {
-
-    private async Task<IReadOnlyCollection<EmojiJsonItem>> GetJsonDataAsync()
+    public static async Task<IReadOnlyCollection<EmojiJsonItem>> GetJsonDataAsync()
     {
         await using var stream = Assembly
             .GetExecutingAssembly()
@@ -21,6 +20,7 @@ public class EmojifaContext
 
         return data!;
     }
+    
     
     
 }
