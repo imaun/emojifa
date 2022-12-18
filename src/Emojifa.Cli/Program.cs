@@ -1,7 +1,12 @@
 ﻿using Emojifa;
+using Emojifa.Cli;
 
 // See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
+
+Console.WriteLine("Building EmojiArray.cs...");
+await EmojifaBuilder.BuildArrayAsync();
+Console.WriteLine("Build success.");
 
 var _con = true;
 var all = await EmojifaContext.GetJsonDataAsync();
