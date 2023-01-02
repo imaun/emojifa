@@ -8,8 +8,8 @@ public class EmojiData
     public string Category { get; set; }
     public string[]? Aliases { get; set; }
     public string[]? Tags { get; set; }
-    public string[]? Eomticons { get; set; }
+    public string[]? Emoticons { get; set; }
+    public string[]? PersianKeywords { get; set; }
     public string? UnicodeVersion { get; set; }
     public string? IosVersion { get; set; }
-
 }

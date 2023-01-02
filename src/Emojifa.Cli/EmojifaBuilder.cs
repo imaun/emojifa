@@ -1,11 +1,16 @@
 using System.Text;
 using System.Globalization;
+using GoogleTranslateFreeApi;
 
 namespace Emojifa.Cli;
 
 public static class EmojifaBuilder
 {
 
+    private static GoogleTranslator _translator = new GoogleTranslator();
+    private static Language from = Language.English;
+    private static Language to = Language.Persian;
+    
     public static async Task BuildArrayAsync()
     {
         var all = await EmojifaContext.GetJsonDataAsync();
@@ -16,6 +21,7 @@ public static class EmojifaBuilder
         sb.AppendLine("{");
         foreach (var item in all)
         {
+            var persianKeywords = new List<string>();
             sb.AppendLine($"    public static EmojiData {getEmojiName(item.description)} = new EmojiData ");
             sb.AppendLine("     {");
             sb.AppendLine($"         Emoji = \"{item.emoji}\", ");
@@ -29,6 +35,7 @@ public static class EmojifaBuilder
                 sb.AppendLine("        {");
                 foreach (var alias in item.aliases)
                 {
+                    persianKeywords.Add(alias);
                     string _next = idx < totalAliases ? "," : "";
                     sb.AppendLine($"        \"{alias}\"" + _next);
                     idx++;
@@ -44,6 +51,7 @@ public static class EmojifaBuilder
                 sb.AppendLine("        {");
                 foreach (var tag in item.tags)
                 {
+                    persianKeywords.Add(tag);
                     string _next = idx < totalTags ? "," : "";
                     sb.AppendLine($"        \"{tag}\"" + _next);
                     idx++;
@@ -61,6 +69,23 @@ public static class EmojifaBuilder
                 {
                     string _next = idx < totalEmos ? "," : "";
                     sb.AppendLine("         @" + $"\"{emo}\"" + _next);
+                    idx++;
+                }
+                sb.AppendLine("        }, ");
+            }
+
+            if (persianKeywords.Any())
+            {
+                var totalPk = persianKeywords.Count;
+                int idx = 1;
+                sb.AppendLine("         PersianKeywords = new[] ");
+                sb.AppendLine("         {");
+                foreach (var pk in persianKeywords)
+                {
+                    string _next = idx < totalPk ? "," : "";
+                    // var keyword = 
+                    var keyword = pk;
+                    sb.AppendLine($"         \"{keyword}\" {_next}");
                     idx++;
                 }
                 sb.AppendLine("        }, ");
@@ -90,6 +115,9 @@ public static class EmojifaBuilder
             var fixWord = word
                 .Replace(":", "").Replace("-", "")
                 .Replace("&", "").Replace(".", "")
+                .Replace(",", "")
+                .Replace("“", "")
+                .Replace(Environment.NewLine, "")
                 .Replace("’", "");
             name += toUpperFirstLetter(fixWord);
         }
@@ -101,4 +129,6 @@ public static class EmojifaBuilder
     {
         return CultureInfo.CurrentCulture.TextInfo.ToTitleCase(what);
     }
+
+    
 }

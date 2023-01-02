@@ -16,6 +16,12 @@ public static partial class Emojis
             "smile",
             "happy"
         },
+        PersianKeywords = new[]
+        {
+            "grinning",
+            "smile",
+            "happy"
+        },
         UnicodeVersion = "6.1",
         IosVersion = "6.0"
     };
@@ -46,6 +52,13 @@ public static partial class Emojis
             @"=-)",
             @"=-]"
         },
+        PersianKeywords = new[]
+        {
+            "smiley",
+            "happy",
+            "joy",
+            "haha"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -73,6 +86,14 @@ public static partial class Emojis
             @"=D",
             @"=-D"
         },
+        PersianKeywords = new[]
+        {
+            "smile",
+            "happy",
+            "joy",
+            "laugh",
+            "pleased"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -83,6 +104,10 @@ public static partial class Emojis
         Description = "beaming face with smiling eyes",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "grin"
+        },
+        PersianKeywords = new[]
         {
             "grin"
         },
@@ -118,6 +143,13 @@ public static partial class Emojis
             @"X-)",
             @"X-]",
             @"X-D"
+        },
+        PersianKeywords = new[]
+        {
+            "laughing",
+            "satisfied",
+            "happy",
+            "haha"
         },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
@@ -163,6 +195,11 @@ public static partial class Emojis
             @"'=-]",
             @"'=-D"
         },
+        PersianKeywords = new[]
+        {
+            "sweat_smile",
+            "hot"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -178,6 +215,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "lol",
+            "laughing"
+        },
+        PersianKeywords = new[]
+        {
+            "rofl",
             "lol",
             "laughing"
         },
@@ -225,6 +268,11 @@ public static partial class Emojis
             @"='-]",
             @"='-D"
         },
+        PersianKeywords = new[]
+        {
+            "joy",
+            "tears"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -238,6 +286,10 @@ public static partial class Emojis
         {
             "slightly_smiling_face"
         },
+        PersianKeywords = new[]
+        {
+            "slightly_smiling_face"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -248,6 +300,10 @@ public static partial class Emojis
         Description = "upside-down face",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "upside_down_face"
+        },
+        PersianKeywords = new[]
         {
             "upside_down_face"
         },
@@ -276,6 +332,11 @@ public static partial class Emojis
             @";-)",
             @";-]",
             @";-D"
+        },
+        PersianKeywords = new[]
+        {
+            "wink",
+            "flirt"
         },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
@@ -308,6 +369,11 @@ public static partial class Emojis
             @"=-)",
             @"=-]",
             @"=-D"
+        },
+        PersianKeywords = new[]
+        {
+            "blush",
+            "proud"
         },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
@@ -365,6 +431,11 @@ public static partial class Emojis
             @"0=-]",
             @"0=-D"
         },
+        PersianKeywords = new[]
+        {
+            "innocent",
+            "angel"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -380,6 +451,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "love"
+        },
+        PersianKeywords = new[]
+        {
+            "smiling_face_with_three_hearts",
             "love"
         },
         UnicodeVersion = "11.0",
@@ -400,6 +476,12 @@ public static partial class Emojis
             "love",
             "crush"
         },
+        PersianKeywords = new[]
+        {
+            "heart_eyes",
+            "love",
+            "crush"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -417,6 +499,11 @@ public static partial class Emojis
         {
             "eyes"
         },
+        PersianKeywords = new[]
+        {
+            "star_struck",
+            "eyes"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -432,6 +519,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "flirt"
+        },
+        PersianKeywords = new[]
+        {
+            "kissing_heart",
             "flirt"
         },
         UnicodeVersion = "6.0",
@@ -454,6 +546,10 @@ public static partial class Emojis
             @"=*",
             @"=-*"
         },
+        PersianKeywords = new[]
+        {
+            "kissing"
+        },
         UnicodeVersion = "6.1",
         IosVersion = "6.0"
     };
@@ -472,6 +568,12 @@ public static partial class Emojis
             "blush",
             "pleased"
         },
+        PersianKeywords = new[]
+        {
+            "relaxed",
+            "blush",
+            "pleased"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -485,6 +587,10 @@ public static partial class Emojis
         {
             "kissing_closed_eyes"
         },
+        PersianKeywords = new[]
+        {
+            "kissing_closed_eyes"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -495,6 +601,10 @@ public static partial class Emojis
         Description = "kissing face with smiling eyes",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "kissing_smiling_eyes"
+        },
+        PersianKeywords = new[]
         {
             "kissing_smiling_eyes"
         },
@@ -513,6 +623,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "tongue",
+            "lick"
+        },
+        PersianKeywords = new[]
+        {
+            "yum",
             "tongue",
             "lick"
         },
@@ -544,6 +660,10 @@ public static partial class Emojis
             @"=-P",
             @"=-d"
         },
+        PersianKeywords = new[]
+        {
+            "stuck_out_tongue"
+        },
         UnicodeVersion = "6.1",
         IosVersion = "6.0"
     };
@@ -571,6 +691,12 @@ public static partial class Emojis
             @";-P",
             @";-d"
         },
+        PersianKeywords = new[]
+        {
+            "stuck_out_tongue_winking_eye",
+            "prank",
+            "silly"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -586,6 +712,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "goofy",
+            "wacky"
+        },
+        PersianKeywords = new[]
+        {
+            "zany_face",
             "goofy",
             "wacky"
         },
@@ -618,6 +750,11 @@ public static partial class Emojis
             @"X-P",
             @"X-d"
         },
+        PersianKeywords = new[]
+        {
+            "stuck_out_tongue_closed_eyes",
+            "prank"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -635,6 +772,11 @@ public static partial class Emojis
         {
             "rich"
         },
+        PersianKeywords = new[]
+        {
+            "money_mouth_face",
+            "rich"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -645,6 +787,10 @@ public static partial class Emojis
         Description = "hugging face",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "hugs"
+        },
+        PersianKeywords = new[]
         {
             "hugs"
         },
@@ -666,6 +812,12 @@ public static partial class Emojis
             "quiet",
             "whoops"
         },
+        PersianKeywords = new[]
+        {
+            "hand_over_mouth",
+            "quiet",
+            "whoops"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -684,6 +836,12 @@ public static partial class Emojis
             "silence",
             "quiet"
         },
+        PersianKeywords = new[]
+        {
+            "shushing_face",
+            "silence",
+            "quiet"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -694,6 +852,10 @@ public static partial class Emojis
         Description = "thinking face",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "thinking"
+        },
+        PersianKeywords = new[]
         {
             "thinking"
         },
@@ -715,6 +877,12 @@ public static partial class Emojis
             "silence",
             "hush"
         },
+        PersianKeywords = new[]
+        {
+            "zipper_mouth_face",
+            "silence",
+            "hush"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -730,6 +898,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "suspicious"
+        },
+        PersianKeywords = new[]
+        {
+            "raised_eyebrow",
             "suspicious"
         },
         UnicodeVersion = "11.0",
@@ -756,6 +929,11 @@ public static partial class Emojis
             @"=|",
             @"=-|"
         },
+        PersianKeywords = new[]
+        {
+            "neutral_face",
+            "meh"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -766,6 +944,10 @@ public static partial class Emojis
         Description = "expressionless face",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "expressionless"
+        },
+        PersianKeywords = new[]
         {
             "expressionless"
         },
@@ -791,6 +973,12 @@ public static partial class Emojis
         {
             @":-"
         },
+        PersianKeywords = new[]
+        {
+            "no_mouth",
+            "mute",
+            "silence"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -806,6 +994,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "smug"
+        },
+        PersianKeywords = new[]
+        {
+            "smirk",
             "smug"
         },
         UnicodeVersion = "6.0",
@@ -848,6 +1041,11 @@ public static partial class Emojis
             @"=-S",
             @"=-Z"
         },
+        PersianKeywords = new[]
+        {
+            "unamused",
+            "meh"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -861,6 +1059,10 @@ public static partial class Emojis
         {
             "roll_eyes"
         },
+        PersianKeywords = new[]
+        {
+            "roll_eyes"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -871,6 +1073,10 @@ public static partial class Emojis
         Description = "grimacing face",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "grimacing"
+        },
+        PersianKeywords = new[]
         {
             "grimacing"
         },
@@ -891,6 +1097,11 @@ public static partial class Emojis
         {
             "liar"
         },
+        PersianKeywords = new[]
+        {
+            "lying_face",
+            "liar"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -908,6 +1119,11 @@ public static partial class Emojis
         {
             "whew"
         },
+        PersianKeywords = new[]
+        {
+            "relieved",
+            "whew"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -918,6 +1134,10 @@ public static partial class Emojis
         Description = "pensive face",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "pensive"
+        },
+        PersianKeywords = new[]
         {
             "pensive"
         },
@@ -938,6 +1158,11 @@ public static partial class Emojis
         {
             "tired"
         },
+        PersianKeywords = new[]
+        {
+            "sleepy",
+            "tired"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -948,6 +1173,10 @@ public static partial class Emojis
         Description = "drooling face",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "drooling_face"
+        },
+        PersianKeywords = new[]
         {
             "drooling_face"
         },
@@ -968,6 +1197,11 @@ public static partial class Emojis
         {
             "zzz"
         },
+        PersianKeywords = new[]
+        {
+            "sleeping",
+            "zzz"
+        },
         UnicodeVersion = "6.1",
         IosVersion = "6.0"
     };
@@ -983,6 +1217,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "sick",
+            "ill"
+        },
+        PersianKeywords = new[]
+        {
+            "mask",
             "sick",
             "ill"
         },
@@ -1003,6 +1243,11 @@ public static partial class Emojis
         {
             "sick"
         },
+        PersianKeywords = new[]
+        {
+            "face_with_thermometer",
+            "sick"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -1020,6 +1265,11 @@ public static partial class Emojis
         {
             "hurt"
         },
+        PersianKeywords = new[]
+        {
+            "face_with_head_bandage",
+            "hurt"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -1035,6 +1285,13 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "sick",
+            "barf",
+            "disgusted"
+        },
+        PersianKeywords = new[]
+        {
+            "nauseated_face",
             "sick",
             "barf",
             "disgusted"
@@ -1057,6 +1314,12 @@ public static partial class Emojis
             "barf",
             "sick"
         },
+        PersianKeywords = new[]
+        {
+            "vomiting_face",
+            "barf",
+            "sick"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -1072,6 +1335,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "achoo",
+            "sick"
+        },
+        PersianKeywords = new[]
+        {
+            "sneezing_face",
             "achoo",
             "sick"
         },
@@ -1093,6 +1362,12 @@ public static partial class Emojis
             "heat",
             "sweating"
         },
+        PersianKeywords = new[]
+        {
+            "hot_face",
+            "heat",
+            "sweating"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -1108,6 +1383,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "freezing",
+            "ice"
+        },
+        PersianKeywords = new[]
+        {
+            "cold_face",
             "freezing",
             "ice"
         },
@@ -1128,6 +1409,11 @@ public static partial class Emojis
         {
             "groggy"
         },
+        PersianKeywords = new[]
+        {
+            "woozy_face",
+            "groggy"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -1138,6 +1424,10 @@ public static partial class Emojis
         Description = "dizzy face",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "dizzy_face"
+        },
+        PersianKeywords = new[]
         {
             "dizzy_face"
         },
@@ -1159,6 +1449,12 @@ public static partial class Emojis
             "mind",
             "blown"
         },
+        PersianKeywords = new[]
+        {
+            "exploding_head",
+            "mind",
+            "blown"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -1169,6 +1465,10 @@ public static partial class Emojis
         Description = "cowboy hat face",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "cowboy_hat_face"
+        },
+        PersianKeywords = new[]
         {
             "cowboy_hat_face"
         },
@@ -1187,6 +1487,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "celebration",
+            "birthday"
+        },
+        PersianKeywords = new[]
+        {
+            "partying_face",
             "celebration",
             "birthday"
         },
@@ -1221,6 +1527,11 @@ public static partial class Emojis
             @"B-]",
             @"B-D"
         },
+        PersianKeywords = new[]
+        {
+            "sunglasses",
+            "cool"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -1239,6 +1550,12 @@ public static partial class Emojis
             "geek",
             "glasses"
         },
+        PersianKeywords = new[]
+        {
+            "nerd_face",
+            "geek",
+            "glasses"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -1249,6 +1566,10 @@ public static partial class Emojis
         Description = "face with monocle",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "monocle_face"
+        },
+        PersianKeywords = new[]
         {
             "monocle_face"
         },
@@ -1276,6 +1597,10 @@ public static partial class Emojis
             @"=-/",
             @"=-\"
         },
+        PersianKeywords = new[]
+        {
+            "confused"
+        },
         UnicodeVersion = "6.1",
         IosVersion = "6.0"
     };
@@ -1293,6 +1618,11 @@ public static partial class Emojis
         {
             "nervous"
         },
+        PersianKeywords = new[]
+        {
+            "worried",
+            "nervous"
+        },
         UnicodeVersion = "6.1",
         IosVersion = "6.0"
     };
@@ -1306,6 +1636,10 @@ public static partial class Emojis
         {
             "slightly_frowning_face"
         },
+        PersianKeywords = new[]
+        {
+            "slightly_frowning_face"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -1316,6 +1650,10 @@ public static partial class Emojis
         Description = "frowning face",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "frowning_face"
+        },
+        PersianKeywords = new[]
         {
             "frowning_face"
         },
@@ -1353,6 +1691,13 @@ public static partial class Emojis
             @"=-O",
             @"=-0"
         },
+        PersianKeywords = new[]
+        {
+            "open_mouth",
+            "surprise",
+            "impressed",
+            "wow"
+        },
         UnicodeVersion = "6.1",
         IosVersion = "6.0"
     };
@@ -1368,6 +1713,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "silence",
+            "speechless"
+        },
+        PersianKeywords = new[]
+        {
+            "hushed",
             "silence",
             "speechless"
         },
@@ -1389,6 +1740,12 @@ public static partial class Emojis
             "amazed",
             "gasp"
         },
+        PersianKeywords = new[]
+        {
+            "astonished",
+            "amazed",
+            "gasp"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -1399,6 +1756,10 @@ public static partial class Emojis
         Description = "flushed face",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "flushed"
+        },
+        PersianKeywords = new[]
         {
             "flushed"
         },
@@ -1417,6 +1778,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "puppy",
+            "eyes"
+        },
+        PersianKeywords = new[]
+        {
+            "pleading_face",
             "puppy",
             "eyes"
         },
@@ -1444,6 +1811,10 @@ public static partial class Emojis
             @"=-(",
             @"=-["
         },
+        PersianKeywords = new[]
+        {
+            "frowning"
+        },
         UnicodeVersion = "6.1",
         IosVersion = "6.0"
     };
@@ -1459,6 +1830,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "stunned"
+        },
+        PersianKeywords = new[]
+        {
+            "anguished",
             "stunned"
         },
         UnicodeVersion = "6.1",
@@ -1480,6 +1856,13 @@ public static partial class Emojis
             "shocked",
             "oops"
         },
+        PersianKeywords = new[]
+        {
+            "fearful",
+            "scared",
+            "shocked",
+            "oops"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -1497,6 +1880,11 @@ public static partial class Emojis
         {
             "nervous"
         },
+        PersianKeywords = new[]
+        {
+            "cold_sweat",
+            "nervous"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -1512,6 +1900,13 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "phew",
+            "sweat",
+            "nervous"
+        },
+        PersianKeywords = new[]
+        {
+            "disappointed_relieved",
             "phew",
             "sweat",
             "nervous"
@@ -1561,6 +1956,12 @@ public static partial class Emojis
             @"='-[",
             @"='-|"
         },
+        PersianKeywords = new[]
+        {
+            "cry",
+            "sad",
+            "tear"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -1599,6 +2000,13 @@ public static partial class Emojis
             @"=',-(",
             @"=',-["
         },
+        PersianKeywords = new[]
+        {
+            "sob",
+            "sad",
+            "cry",
+            "bawling"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -1617,6 +2025,12 @@ public static partial class Emojis
             "horror",
             "shocked"
         },
+        PersianKeywords = new[]
+        {
+            "scream",
+            "horror",
+            "shocked"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -1627,6 +2041,10 @@ public static partial class Emojis
         Description = "confounded face",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "confounded"
+        },
+        PersianKeywords = new[]
         {
             "confounded"
         },
@@ -1647,6 +2065,11 @@ public static partial class Emojis
         {
             "struggling"
         },
+        PersianKeywords = new[]
+        {
+            "persevere",
+            "struggling"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -1662,6 +2085,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "sad"
+        },
+        PersianKeywords = new[]
+        {
+            "disappointed",
             "sad"
         },
         UnicodeVersion = "6.0",
@@ -1696,6 +2124,10 @@ public static partial class Emojis
             @"'=-(",
             @"'=-["
         },
+        PersianKeywords = new[]
+        {
+            "sweat"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -1711,6 +2143,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "tired"
+        },
+        PersianKeywords = new[]
+        {
+            "weary",
             "tired"
         },
         UnicodeVersion = "6.0",
@@ -1731,6 +2168,12 @@ public static partial class Emojis
             "upset",
             "whine"
         },
+        PersianKeywords = new[]
+        {
+            "tired_face",
+            "upset",
+            "whine"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -1741,6 +2184,10 @@ public static partial class Emojis
         Description = "yawning face",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "yawning_face"
+        },
+        PersianKeywords = new[]
         {
             "yawning_face"
         },
@@ -1759,6 +2206,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "smug"
+        },
+        PersianKeywords = new[]
+        {
+            "triumph",
             "smug"
         },
         UnicodeVersion = "6.0",
@@ -1785,6 +2237,12 @@ public static partial class Emojis
             @":-@",
             @"=@",
             @"=-@"
+        },
+        PersianKeywords = new[]
+        {
+            "rage",
+            "pout",
+            "angry"
         },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
@@ -1815,6 +2273,12 @@ public static partial class Emojis
             @">=-(",
             @">=-["
         },
+        PersianKeywords = new[]
+        {
+            "angry",
+            "mad",
+            "annoyed"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -1830,6 +2294,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "foul"
+        },
+        PersianKeywords = new[]
+        {
+            "cursing_face",
             "foul"
         },
         UnicodeVersion = "11.0",
@@ -1866,6 +2335,13 @@ public static partial class Emojis
             @"]=-]",
             @"]=-D"
         },
+        PersianKeywords = new[]
+        {
+            "smiling_imp",
+            "devil",
+            "evil",
+            "horns"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -1897,6 +2373,14 @@ public static partial class Emojis
             @"]=-(",
             @"]=-["
         },
+        PersianKeywords = new[]
+        {
+            "imp",
+            "angry",
+            "devil",
+            "evil",
+            "horns"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -1912,6 +2396,13 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "dead",
+            "danger",
+            "poison"
+        },
+        PersianKeywords = new[]
+        {
+            "skull",
             "dead",
             "danger",
             "poison"
@@ -1934,6 +2425,12 @@ public static partial class Emojis
             "danger",
             "pirate"
         },
+        PersianKeywords = new[]
+        {
+            "skull_and_crossbones",
+            "danger",
+            "pirate"
+        },
         UnicodeVersion = "",
         IosVersion = "9.1"
     };
@@ -1953,6 +2450,13 @@ public static partial class Emojis
         {
             "crap"
         },
+        PersianKeywords = new[]
+        {
+            "hankey",
+            "poop",
+            "shit",
+            "crap"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -1963,6 +2467,10 @@ public static partial class Emojis
         Description = "clown face",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "clown_face"
+        },
+        PersianKeywords = new[]
         {
             "clown_face"
         },
@@ -1983,6 +2491,11 @@ public static partial class Emojis
         {
             "monster"
         },
+        PersianKeywords = new[]
+        {
+            "japanese_ogre",
+            "monster"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -1993,6 +2506,10 @@ public static partial class Emojis
         Description = "goblin",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "japanese_goblin"
+        },
+        PersianKeywords = new[]
         {
             "japanese_goblin"
         },
@@ -2013,6 +2530,11 @@ public static partial class Emojis
         {
             "halloween"
         },
+        PersianKeywords = new[]
+        {
+            "ghost",
+            "halloween"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2028,6 +2550,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "ufo"
+        },
+        PersianKeywords = new[]
+        {
+            "alien",
             "ufo"
         },
         UnicodeVersion = "6.0",
@@ -2048,6 +2575,12 @@ public static partial class Emojis
             "game",
             "retro"
         },
+        PersianKeywords = new[]
+        {
+            "space_invader",
+            "game",
+            "retro"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2058,6 +2591,10 @@ public static partial class Emojis
         Description = "robot",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "robot"
+        },
+        PersianKeywords = new[]
         {
             "robot"
         },
@@ -2074,6 +2611,10 @@ public static partial class Emojis
         {
             "smiley_cat"
         },
+        PersianKeywords = new[]
+        {
+            "smiley_cat"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2084,6 +2625,10 @@ public static partial class Emojis
         Description = "grinning cat with smiling eyes",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "smile_cat"
+        },
+        PersianKeywords = new[]
         {
             "smile_cat"
         },
@@ -2100,6 +2645,10 @@ public static partial class Emojis
         {
             "joy_cat"
         },
+        PersianKeywords = new[]
+        {
+            "joy_cat"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2110,6 +2659,10 @@ public static partial class Emojis
         Description = "smiling cat with heart-eyes",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "heart_eyes_cat"
+        },
+        PersianKeywords = new[]
         {
             "heart_eyes_cat"
         },
@@ -2126,6 +2679,10 @@ public static partial class Emojis
         {
             "smirk_cat"
         },
+        PersianKeywords = new[]
+        {
+            "smirk_cat"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2136,6 +2693,10 @@ public static partial class Emojis
         Description = "kissing cat",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "kissing_cat"
+        },
+        PersianKeywords = new[]
         {
             "kissing_cat"
         },
@@ -2156,6 +2717,11 @@ public static partial class Emojis
         {
             "horror"
         },
+        PersianKeywords = new[]
+        {
+            "scream_cat",
+            "horror"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2174,6 +2740,12 @@ public static partial class Emojis
             "sad",
             "tear"
         },
+        PersianKeywords = new[]
+        {
+            "crying_cat_face",
+            "sad",
+            "tear"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2184,6 +2756,10 @@ public static partial class Emojis
         Description = "pouting cat",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "pouting_cat"
+        },
+        PersianKeywords = new[]
         {
             "pouting_cat"
         },
@@ -2206,6 +2782,13 @@ public static partial class Emojis
             "blind",
             "ignore"
         },
+        PersianKeywords = new[]
+        {
+            "see_no_evil",
+            "monkey",
+            "blind",
+            "ignore"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2221,6 +2804,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "monkey",
+            "deaf"
+        },
+        PersianKeywords = new[]
+        {
+            "hear_no_evil",
             "monkey",
             "deaf"
         },
@@ -2243,6 +2832,13 @@ public static partial class Emojis
             "mute",
             "hush"
         },
+        PersianKeywords = new[]
+        {
+            "speak_no_evil",
+            "monkey",
+            "mute",
+            "hush"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2260,6 +2856,11 @@ public static partial class Emojis
         {
             "lipstick"
         },
+        PersianKeywords = new[]
+        {
+            "kiss",
+            "lipstick"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2275,6 +2876,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "email",
+            "envelope"
+        },
+        PersianKeywords = new[]
+        {
+            "love_letter",
             "email",
             "envelope"
         },
@@ -2296,6 +2903,12 @@ public static partial class Emojis
             "love",
             "heart"
         },
+        PersianKeywords = new[]
+        {
+            "cupid",
+            "love",
+            "heart"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2313,6 +2926,11 @@ public static partial class Emojis
         {
             "chocolates"
         },
+        PersianKeywords = new[]
+        {
+            "gift_heart",
+            "chocolates"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2323,6 +2941,10 @@ public static partial class Emojis
         Description = "sparkling heart",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "sparkling_heart"
+        },
+        PersianKeywords = new[]
         {
             "sparkling_heart"
         },
@@ -2339,6 +2961,10 @@ public static partial class Emojis
         {
             "heartpulse"
         },
+        PersianKeywords = new[]
+        {
+            "heartpulse"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2349,6 +2975,10 @@ public static partial class Emojis
         Description = "beating heart",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "heartbeat"
+        },
+        PersianKeywords = new[]
         {
             "heartbeat"
         },
@@ -2365,6 +2995,10 @@ public static partial class Emojis
         {
             "revolving_hearts"
         },
+        PersianKeywords = new[]
+        {
+            "revolving_hearts"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2375,6 +3009,10 @@ public static partial class Emojis
         Description = "two hearts",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "two_hearts"
+        },
+        PersianKeywords = new[]
         {
             "two_hearts"
         },
@@ -2391,6 +3029,10 @@ public static partial class Emojis
         {
             "heart_decoration"
         },
+        PersianKeywords = new[]
+        {
+            "heart_decoration"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2401,6 +3043,10 @@ public static partial class Emojis
         Description = "heart exclamation",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "heavy_heart_exclamation"
+        },
+        PersianKeywords = new[]
         {
             "heavy_heart_exclamation"
         },
@@ -2421,6 +3067,10 @@ public static partial class Emojis
         {
             @"<\3",
             @"</3"
+        },
+        PersianKeywords = new[]
+        {
+            "broken_heart"
         },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
@@ -2443,6 +3093,11 @@ public static partial class Emojis
         {
             @"<3"
         },
+        PersianKeywords = new[]
+        {
+            "heart",
+            "love"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -2453,6 +3108,10 @@ public static partial class Emojis
         Description = "orange heart",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "orange_heart"
+        },
+        PersianKeywords = new[]
         {
             "orange_heart"
         },
@@ -2469,6 +3128,10 @@ public static partial class Emojis
         {
             "yellow_heart"
         },
+        PersianKeywords = new[]
+        {
+            "yellow_heart"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2479,6 +3142,10 @@ public static partial class Emojis
         Description = "green heart",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "green_heart"
+        },
+        PersianKeywords = new[]
         {
             "green_heart"
         },
@@ -2495,6 +3162,10 @@ public static partial class Emojis
         {
             "blue_heart"
         },
+        PersianKeywords = new[]
+        {
+            "blue_heart"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2505,6 +3176,10 @@ public static partial class Emojis
         Description = "purple heart",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "purple_heart"
+        },
+        PersianKeywords = new[]
         {
             "purple_heart"
         },
@@ -2521,6 +3196,10 @@ public static partial class Emojis
         {
             "brown_heart"
         },
+        PersianKeywords = new[]
+        {
+            "brown_heart"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -2534,6 +3213,10 @@ public static partial class Emojis
         {
             "black_heart"
         },
+        PersianKeywords = new[]
+        {
+            "black_heart"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -2544,6 +3227,10 @@ public static partial class Emojis
         Description = "white heart",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "white_heart"
+        },
+        PersianKeywords = new[]
         {
             "white_heart"
         },
@@ -2565,6 +3252,12 @@ public static partial class Emojis
             "score",
             "perfect"
         },
+        PersianKeywords = new[]
+        {
+            "100",
+            "score",
+            "perfect"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2580,6 +3273,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "angry"
+        },
+        PersianKeywords = new[]
+        {
+            "anger",
             "angry"
         },
         UnicodeVersion = "6.0",
@@ -2600,6 +3298,12 @@ public static partial class Emojis
         {
             "explode"
         },
+        PersianKeywords = new[]
+        {
+            "boom",
+            "collision",
+            "explode"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2617,6 +3321,11 @@ public static partial class Emojis
         {
             "star"
         },
+        PersianKeywords = new[]
+        {
+            "dizzy",
+            "star"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2632,6 +3341,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "water",
+            "workout"
+        },
+        PersianKeywords = new[]
+        {
+            "sweat_drops",
             "water",
             "workout"
         },
@@ -2654,6 +3369,13 @@ public static partial class Emojis
             "blow",
             "fast"
         },
+        PersianKeywords = new[]
+        {
+            "dash",
+            "wind",
+            "blow",
+            "fast"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2664,6 +3386,10 @@ public static partial class Emojis
         Description = "hole",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "hole"
+        },
+        PersianKeywords = new[]
         {
             "hole"
         },
@@ -2684,6 +3410,11 @@ public static partial class Emojis
         {
             "boom"
         },
+        PersianKeywords = new[]
+        {
+            "bomb",
+            "boom"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2701,6 +3432,11 @@ public static partial class Emojis
         {
             "comment"
         },
+        PersianKeywords = new[]
+        {
+            "speech_balloon",
+            "comment"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2711,6 +3447,10 @@ public static partial class Emojis
         Description = "eye in speech bubble",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "eye_speech_bubble"
+        },
+        PersianKeywords = new[]
         {
             "eye_speech_bubble"
         },
@@ -2727,6 +3467,10 @@ public static partial class Emojis
         {
             "left_speech_bubble"
         },
+        PersianKeywords = new[]
+        {
+            "left_speech_bubble"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -2737,6 +3481,10 @@ public static partial class Emojis
         Description = "right anger bubble",
         Category = "Smileys & Emotion",
         Aliases = new[]
+        {
+            "right_anger_bubble"
+        },
+        PersianKeywords = new[]
         {
             "right_anger_bubble"
         },
@@ -2757,6 +3505,11 @@ public static partial class Emojis
         {
             "thinking"
         },
+        PersianKeywords = new[]
+        {
+            "thought_balloon",
+            "thinking"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2772,6 +3525,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "sleeping"
+        },
+        PersianKeywords = new[]
+        {
+            "zzz",
             "sleeping"
         },
         UnicodeVersion = "6.0",
@@ -2791,6 +3549,11 @@ public static partial class Emojis
         {
             "goodbye"
         },
+        PersianKeywords = new[]
+        {
+            "wave",
+            "goodbye"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2804,6 +3567,10 @@ public static partial class Emojis
         {
             "raised_back_of_hand"
         },
+        PersianKeywords = new[]
+        {
+            "raised_back_of_hand"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -2814,6 +3581,10 @@ public static partial class Emojis
         Description = "hand with fingers splayed",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "raised_hand_with_fingers_splayed"
+        },
+        PersianKeywords = new[]
         {
             "raised_hand_with_fingers_splayed"
         },
@@ -2836,6 +3607,13 @@ public static partial class Emojis
             "highfive",
             "stop"
         },
+        PersianKeywords = new[]
+        {
+            "hand",
+            "raised_hand",
+            "highfive",
+            "stop"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2854,6 +3632,12 @@ public static partial class Emojis
             "prosper",
             "spock"
         },
+        PersianKeywords = new[]
+        {
+            "vulcan_salute",
+            "prosper",
+            "spock"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "8.3"
     };
@@ -2867,6 +3651,10 @@ public static partial class Emojis
         {
             "ok_hand"
         },
+        PersianKeywords = new[]
+        {
+            "ok_hand"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2877,6 +3665,10 @@ public static partial class Emojis
         Description = "pinching hand",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "pinching_hand"
+        },
+        PersianKeywords = new[]
         {
             "pinching_hand"
         },
@@ -2898,6 +3690,12 @@ public static partial class Emojis
             "victory",
             "peace"
         },
+        PersianKeywords = new[]
+        {
+            "v",
+            "victory",
+            "peace"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -2916,6 +3714,12 @@ public static partial class Emojis
             "luck",
             "hopeful"
         },
+        PersianKeywords = new[]
+        {
+            "crossed_fingers",
+            "luck",
+            "hopeful"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -2926,6 +3730,10 @@ public static partial class Emojis
         Description = "love-you gesture",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "love_you_gesture"
+        },
+        PersianKeywords = new[]
         {
             "love_you_gesture"
         },
@@ -2942,6 +3750,10 @@ public static partial class Emojis
         {
             "metal"
         },
+        PersianKeywords = new[]
+        {
+            "metal"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -2952,6 +3764,10 @@ public static partial class Emojis
         Description = "call me hand",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "call_me_hand"
+        },
+        PersianKeywords = new[]
         {
             "call_me_hand"
         },
@@ -2968,6 +3784,10 @@ public static partial class Emojis
         {
             "point_left"
         },
+        PersianKeywords = new[]
+        {
+            "point_left"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2981,6 +3801,10 @@ public static partial class Emojis
         {
             "point_right"
         },
+        PersianKeywords = new[]
+        {
+            "point_right"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -2991,6 +3815,10 @@ public static partial class Emojis
         Description = "backhand index pointing up",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "point_up_2"
+        },
+        PersianKeywords = new[]
         {
             "point_up_2"
         },
@@ -3008,6 +3836,11 @@ public static partial class Emojis
             "middle_finger",
             "fu"
         },
+        PersianKeywords = new[]
+        {
+            "middle_finger",
+            "fu"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -3021,6 +3854,10 @@ public static partial class Emojis
         {
             "point_down"
         },
+        PersianKeywords = new[]
+        {
+            "point_down"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -3031,6 +3868,10 @@ public static partial class Emojis
         Description = "index pointing up",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "point_up"
+        },
+        PersianKeywords = new[]
         {
             "point_up"
         },
@@ -3053,6 +3894,13 @@ public static partial class Emojis
             "approve",
             "ok"
         },
+        PersianKeywords = new[]
+        {
+            "+1",
+            "thumbsup",
+            "approve",
+            "ok"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -3069,6 +3917,13 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "disapprove",
+            "bury"
+        },
+        PersianKeywords = new[]
+        {
+            "-1",
+            "thumbsdown",
             "disapprove",
             "bury"
         },
@@ -3090,6 +3945,12 @@ public static partial class Emojis
         {
             "power"
         },
+        PersianKeywords = new[]
+        {
+            "fist_raised",
+            "fist",
+            "power"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -3109,6 +3970,13 @@ public static partial class Emojis
         {
             "attack"
         },
+        PersianKeywords = new[]
+        {
+            "fist_oncoming",
+            "facepunch",
+            "punch",
+            "attack"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -3122,6 +3990,10 @@ public static partial class Emojis
         {
             "fist_left"
         },
+        PersianKeywords = new[]
+        {
+            "fist_left"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -3132,6 +4004,10 @@ public static partial class Emojis
         Description = "right-facing fist",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "fist_right"
+        },
+        PersianKeywords = new[]
         {
             "fist_right"
         },
@@ -3153,6 +4029,12 @@ public static partial class Emojis
             "praise",
             "applause"
         },
+        PersianKeywords = new[]
+        {
+            "clap",
+            "praise",
+            "applause"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -3170,6 +4052,11 @@ public static partial class Emojis
         {
             "hooray"
         },
+        PersianKeywords = new[]
+        {
+            "raised_hands",
+            "hooray"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -3183,6 +4070,10 @@ public static partial class Emojis
         {
             "open_hands"
         },
+        PersianKeywords = new[]
+        {
+            "open_hands"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -3193,6 +4084,10 @@ public static partial class Emojis
         Description = "palms up together",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "palms_up_together"
+        },
+        PersianKeywords = new[]
         {
             "palms_up_together"
         },
@@ -3211,6 +4106,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "deal"
+        },
+        PersianKeywords = new[]
+        {
+            "handshake",
             "deal"
         },
         UnicodeVersion = "9.0",
@@ -3232,6 +4132,13 @@ public static partial class Emojis
             "hope",
             "wish"
         },
+        PersianKeywords = new[]
+        {
+            "pray",
+            "please",
+            "hope",
+            "wish"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -3242,6 +4149,10 @@ public static partial class Emojis
         Description = "writing hand",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "writing_hand"
+        },
+        PersianKeywords = new[]
         {
             "writing_hand"
         },
@@ -3263,6 +4174,12 @@ public static partial class Emojis
             "beauty",
             "manicure"
         },
+        PersianKeywords = new[]
+        {
+            "nail_care",
+            "beauty",
+            "manicure"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -3273,6 +4190,10 @@ public static partial class Emojis
         Description = "selfie",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "selfie"
+        },
+        PersianKeywords = new[]
         {
             "selfie"
         },
@@ -3296,6 +4217,14 @@ public static partial class Emojis
             "strong",
             "workout"
         },
+        PersianKeywords = new[]
+        {
+            "muscle",
+            "flex",
+            "bicep",
+            "strong",
+            "workout"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -3306,6 +4235,10 @@ public static partial class Emojis
         Description = "mechanical arm",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "mechanical_arm"
+        },
+        PersianKeywords = new[]
         {
             "mechanical_arm"
         },
@@ -3322,6 +4255,10 @@ public static partial class Emojis
         {
             "mechanical_leg"
         },
+        PersianKeywords = new[]
+        {
+            "mechanical_leg"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -3335,6 +4272,10 @@ public static partial class Emojis
         {
             "leg"
         },
+        PersianKeywords = new[]
+        {
+            "leg"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -3345,6 +4286,10 @@ public static partial class Emojis
         Description = "foot",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "foot"
+        },
+        PersianKeywords = new[]
         {
             "foot"
         },
@@ -3367,6 +4312,13 @@ public static partial class Emojis
             "sound",
             "listen"
         },
+        PersianKeywords = new[]
+        {
+            "ear",
+            "hear",
+            "sound",
+            "listen"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -3377,6 +4329,10 @@ public static partial class Emojis
         Description = "ear with hearing aid",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "ear_with_hearing_aid"
+        },
+        PersianKeywords = new[]
         {
             "ear_with_hearing_aid"
         },
@@ -3397,6 +4353,11 @@ public static partial class Emojis
         {
             "smell"
         },
+        PersianKeywords = new[]
+        {
+            "nose",
+            "smell"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -3407,6 +4368,10 @@ public static partial class Emojis
         Description = "brain",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "brain"
+        },
+        PersianKeywords = new[]
         {
             "brain"
         },
@@ -3423,6 +4388,10 @@ public static partial class Emojis
         {
             "tooth"
         },
+        PersianKeywords = new[]
+        {
+            "tooth"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -3433,6 +4402,10 @@ public static partial class Emojis
         Description = "bone",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "bone"
+        },
+        PersianKeywords = new[]
         {
             "bone"
         },
@@ -3455,6 +4428,13 @@ public static partial class Emojis
             "see",
             "watch"
         },
+        PersianKeywords = new[]
+        {
+            "eyes",
+            "look",
+            "see",
+            "watch"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -3465,6 +4445,10 @@ public static partial class Emojis
         Description = "eye",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "eye"
+        },
+        PersianKeywords = new[]
         {
             "eye"
         },
@@ -3485,6 +4469,11 @@ public static partial class Emojis
         {
             "taste"
         },
+        PersianKeywords = new[]
+        {
+            "tongue",
+            "taste"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -3500,6 +4489,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "kiss"
+        },
+        PersianKeywords = new[]
+        {
+            "lips",
             "kiss"
         },
         UnicodeVersion = "6.0",
@@ -3520,6 +4514,12 @@ public static partial class Emojis
             "child",
             "newborn"
         },
+        PersianKeywords = new[]
+        {
+            "baby",
+            "child",
+            "newborn"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -3530,6 +4530,10 @@ public static partial class Emojis
         Description = "child",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "child"
+        },
+        PersianKeywords = new[]
         {
             "child"
         },
@@ -3550,6 +4554,11 @@ public static partial class Emojis
         {
             "child"
         },
+        PersianKeywords = new[]
+        {
+            "boy",
+            "child"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -3567,6 +4576,11 @@ public static partial class Emojis
         {
             "child"
         },
+        PersianKeywords = new[]
+        {
+            "girl",
+            "child"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -3580,6 +4594,10 @@ public static partial class Emojis
         {
             "adult"
         },
+        PersianKeywords = new[]
+        {
+            "adult"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -3590,6 +4608,10 @@ public static partial class Emojis
         Description = "person: blond hair",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "blond_haired_person"
+        },
+        PersianKeywords = new[]
         {
             "blond_haired_person"
         },
@@ -3625,6 +4647,13 @@ public static partial class Emojis
             @"X3",
             @"X-3"
         },
+        PersianKeywords = new[]
+        {
+            "man",
+            "mustache",
+            "father",
+            "dad"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -3635,6 +4664,10 @@ public static partial class Emojis
         Description = "man: beard",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "bearded_person"
+        },
+        PersianKeywords = new[]
         {
             "bearded_person"
         },
@@ -3651,6 +4684,10 @@ public static partial class Emojis
         {
             "red_haired_man"
         },
+        PersianKeywords = new[]
+        {
+            "red_haired_man"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -3661,6 +4698,10 @@ public static partial class Emojis
         Description = "man: curly hair",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "curly_haired_man"
+        },
+        PersianKeywords = new[]
         {
             "curly_haired_man"
         },
@@ -3677,6 +4718,10 @@ public static partial class Emojis
         {
             "white_haired_man"
         },
+        PersianKeywords = new[]
+        {
+            "white_haired_man"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -3687,6 +4732,10 @@ public static partial class Emojis
         Description = "man: bald",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "bald_man"
+        },
+        PersianKeywords = new[]
         {
             "bald_man"
         },
@@ -3707,6 +4756,11 @@ public static partial class Emojis
         {
             "girls"
         },
+        PersianKeywords = new[]
+        {
+            "woman",
+            "girls"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -3717,6 +4771,10 @@ public static partial class Emojis
         Description = "woman: red hair",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "red_haired_woman"
+        },
+        PersianKeywords = new[]
         {
             "red_haired_woman"
         },
@@ -3733,6 +4791,10 @@ public static partial class Emojis
         {
             "person_red_hair"
         },
+        PersianKeywords = new[]
+        {
+            "person_red_hair"
+        },
         UnicodeVersion = "12.1",
         IosVersion = "13.2"
     };
@@ -3743,6 +4805,10 @@ public static partial class Emojis
         Description = "woman: curly hair",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "curly_haired_woman"
+        },
+        PersianKeywords = new[]
         {
             "curly_haired_woman"
         },
@@ -3759,6 +4825,10 @@ public static partial class Emojis
         {
             "person_curly_hair"
         },
+        PersianKeywords = new[]
+        {
+            "person_curly_hair"
+        },
         UnicodeVersion = "12.1",
         IosVersion = "13.2"
     };
@@ -3769,6 +4839,10 @@ public static partial class Emojis
         Description = "woman: white hair",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "white_haired_woman"
+        },
+        PersianKeywords = new[]
         {
             "white_haired_woman"
         },
@@ -3785,6 +4859,10 @@ public static partial class Emojis
         {
             "person_white_hair"
         },
+        PersianKeywords = new[]
+        {
+            "person_white_hair"
+        },
         UnicodeVersion = "12.1",
         IosVersion = "13.2"
     };
@@ -3798,6 +4876,10 @@ public static partial class Emojis
         {
             "bald_woman"
         },
+        PersianKeywords = new[]
+        {
+            "bald_woman"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -3808,6 +4890,10 @@ public static partial class Emojis
         Description = "person: bald",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "person_bald"
+        },
+        PersianKeywords = new[]
         {
             "person_bald"
         },
@@ -3825,6 +4911,11 @@ public static partial class Emojis
             "blond_haired_woman",
             "blonde_woman"
         },
+        PersianKeywords = new[]
+        {
+            "blond_haired_woman",
+            "blonde_woman"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "10.0"
     };
@@ -3835,6 +4926,10 @@ public static partial class Emojis
         Description = "man: blond hair",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "blond_haired_man"
+        },
+        PersianKeywords = new[]
         {
             "blond_haired_man"
         },
@@ -3851,6 +4946,10 @@ public static partial class Emojis
         {
             "older_adult"
         },
+        PersianKeywords = new[]
+        {
+            "older_adult"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -3861,6 +4960,10 @@ public static partial class Emojis
         Description = "old man",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "older_man"
+        },
+        PersianKeywords = new[]
         {
             "older_man"
         },
@@ -3877,6 +4980,10 @@ public static partial class Emojis
         {
             "older_woman"
         },
+        PersianKeywords = new[]
+        {
+            "older_woman"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -3887,6 +4994,10 @@ public static partial class Emojis
         Description = "person frowning",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "frowning_person"
+        },
+        PersianKeywords = new[]
         {
             "frowning_person"
         },
@@ -3903,6 +5014,10 @@ public static partial class Emojis
         {
             "frowning_man"
         },
+        PersianKeywords = new[]
+        {
+            "frowning_man"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "10.0"
     };
@@ -3913,6 +5028,10 @@ public static partial class Emojis
         Description = "woman frowning",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "frowning_woman"
+        },
+        PersianKeywords = new[]
         {
             "frowning_woman"
         },
@@ -3929,6 +5048,10 @@ public static partial class Emojis
         {
             "pouting_face"
         },
+        PersianKeywords = new[]
+        {
+            "pouting_face"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -3942,6 +5065,10 @@ public static partial class Emojis
         {
             "pouting_man"
         },
+        PersianKeywords = new[]
+        {
+            "pouting_man"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "10.0"
     };
@@ -3952,6 +5079,10 @@ public static partial class Emojis
         Description = "woman pouting",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "pouting_woman"
+        },
+        PersianKeywords = new[]
         {
             "pouting_woman"
         },
@@ -3970,6 +5101,13 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "stop",
+            "halt",
+            "denied"
+        },
+        PersianKeywords = new[]
+        {
+            "no_good",
             "stop",
             "halt",
             "denied"
@@ -3994,6 +5132,14 @@ public static partial class Emojis
             "halt",
             "denied"
         },
+        PersianKeywords = new[]
+        {
+            "no_good_man",
+            "ng_man",
+            "stop",
+            "halt",
+            "denied"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "10.0"
     };
@@ -4014,6 +5160,14 @@ public static partial class Emojis
             "halt",
             "denied"
         },
+        PersianKeywords = new[]
+        {
+            "no_good_woman",
+            "ng_woman",
+            "stop",
+            "halt",
+            "denied"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -4024,6 +5178,10 @@ public static partial class Emojis
         Description = "person gesturing OK",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "ok_person"
+        },
+        PersianKeywords = new[]
         {
             "ok_person"
         },
@@ -4040,6 +5198,10 @@ public static partial class Emojis
         {
             "ok_man"
         },
+        PersianKeywords = new[]
+        {
+            "ok_man"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "10.0"
     };
@@ -4053,6 +5215,10 @@ public static partial class Emojis
         {
             "ok_woman"
         },
+        PersianKeywords = new[]
+        {
+            "ok_woman"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -4063,6 +5229,11 @@ public static partial class Emojis
         Description = "person tipping hand",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "tipping_hand_person",
+            "information_desk_person"
+        },
+        PersianKeywords = new[]
         {
             "tipping_hand_person",
             "information_desk_person"
@@ -4085,6 +5256,12 @@ public static partial class Emojis
         {
             "information"
         },
+        PersianKeywords = new[]
+        {
+            "tipping_hand_man",
+            "sassy_man",
+            "information"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "10.0"
     };
@@ -4103,6 +5280,12 @@ public static partial class Emojis
         {
             "information"
         },
+        PersianKeywords = new[]
+        {
+            "tipping_hand_woman",
+            "sassy_woman",
+            "information"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -4113,6 +5296,10 @@ public static partial class Emojis
         Description = "person raising hand",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "raising_hand"
+        },
+        PersianKeywords = new[]
         {
             "raising_hand"
         },
@@ -4129,6 +5316,10 @@ public static partial class Emojis
         {
             "raising_hand_man"
         },
+        PersianKeywords = new[]
+        {
+            "raising_hand_man"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "10.0"
     };
@@ -4139,6 +5330,10 @@ public static partial class Emojis
         Description = "woman raising hand",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "raising_hand_woman"
+        },
+        PersianKeywords = new[]
         {
             "raising_hand_woman"
         },
@@ -4155,6 +5350,10 @@ public static partial class Emojis
         {
             "deaf_person"
         },
+        PersianKeywords = new[]
+        {
+            "deaf_person"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -4168,6 +5367,10 @@ public static partial class Emojis
         {
             "deaf_man"
         },
+        PersianKeywords = new[]
+        {
+            "deaf_man"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -4178,6 +5381,10 @@ public static partial class Emojis
         Description = "deaf woman",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "deaf_woman"
+        },
+        PersianKeywords = new[]
         {
             "deaf_woman"
         },
@@ -4199,6 +5406,12 @@ public static partial class Emojis
             "respect",
             "thanks"
         },
+        PersianKeywords = new[]
+        {
+            "bow",
+            "respect",
+            "thanks"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -4214,6 +5427,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "respect",
+            "thanks"
+        },
+        PersianKeywords = new[]
+        {
+            "bowing_man",
             "respect",
             "thanks"
         },
@@ -4235,6 +5454,12 @@ public static partial class Emojis
             "respect",
             "thanks"
         },
+        PersianKeywords = new[]
+        {
+            "bowing_woman",
+            "respect",
+            "thanks"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "10.0"
     };
@@ -4245,6 +5470,10 @@ public static partial class Emojis
         Description = "person facepalming",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "facepalm"
+        },
+        PersianKeywords = new[]
         {
             "facepalm"
         },
@@ -4261,6 +5490,10 @@ public static partial class Emojis
         {
             "man_facepalming"
         },
+        PersianKeywords = new[]
+        {
+            "man_facepalming"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -4271,6 +5504,10 @@ public static partial class Emojis
         Description = "woman facepalming",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "woman_facepalming"
+        },
+        PersianKeywords = new[]
         {
             "woman_facepalming"
         },
@@ -4287,6 +5524,10 @@ public static partial class Emojis
         {
             "shrug"
         },
+        PersianKeywords = new[]
+        {
+            "shrug"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -4297,6 +5538,10 @@ public static partial class Emojis
         Description = "man shrugging",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "man_shrugging"
+        },
+        PersianKeywords = new[]
         {
             "man_shrugging"
         },
@@ -4313,6 +5558,10 @@ public static partial class Emojis
         {
             "woman_shrugging"
         },
+        PersianKeywords = new[]
+        {
+            "woman_shrugging"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -4323,6 +5572,10 @@ public static partial class Emojis
         Description = "health worker",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "health_worker"
+        },
+        PersianKeywords = new[]
         {
             "health_worker"
         },
@@ -4344,6 +5597,12 @@ public static partial class Emojis
             "doctor",
             "nurse"
         },
+        PersianKeywords = new[]
+        {
+            "man_health_worker",
+            "doctor",
+            "nurse"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4362,6 +5621,12 @@ public static partial class Emojis
             "doctor",
             "nurse"
         },
+        PersianKeywords = new[]
+        {
+            "woman_health_worker",
+            "doctor",
+            "nurse"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4372,6 +5637,10 @@ public static partial class Emojis
         Description = "student",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "student"
+        },
+        PersianKeywords = new[]
         {
             "student"
         },
@@ -4392,6 +5661,11 @@ public static partial class Emojis
         {
             "graduation"
         },
+        PersianKeywords = new[]
+        {
+            "man_student",
+            "graduation"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4409,6 +5683,11 @@ public static partial class Emojis
         {
             "graduation"
         },
+        PersianKeywords = new[]
+        {
+            "woman_student",
+            "graduation"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4419,6 +5698,10 @@ public static partial class Emojis
         Description = "teacher",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "teacher"
+        },
+        PersianKeywords = new[]
         {
             "teacher"
         },
@@ -4440,6 +5723,12 @@ public static partial class Emojis
             "school",
             "professor"
         },
+        PersianKeywords = new[]
+        {
+            "man_teacher",
+            "school",
+            "professor"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4458,6 +5747,12 @@ public static partial class Emojis
             "school",
             "professor"
         },
+        PersianKeywords = new[]
+        {
+            "woman_teacher",
+            "school",
+            "professor"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4468,6 +5763,10 @@ public static partial class Emojis
         Description = "judge",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "judge"
+        },
+        PersianKeywords = new[]
         {
             "judge"
         },
@@ -4488,6 +5787,11 @@ public static partial class Emojis
         {
             "justice"
         },
+        PersianKeywords = new[]
+        {
+            "man_judge",
+            "justice"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4505,6 +5809,11 @@ public static partial class Emojis
         {
             "justice"
         },
+        PersianKeywords = new[]
+        {
+            "woman_judge",
+            "justice"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4515,6 +5824,10 @@ public static partial class Emojis
         Description = "farmer",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "farmer"
+        },
+        PersianKeywords = new[]
         {
             "farmer"
         },
@@ -4531,6 +5844,10 @@ public static partial class Emojis
         {
             "man_farmer"
         },
+        PersianKeywords = new[]
+        {
+            "man_farmer"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4544,6 +5861,10 @@ public static partial class Emojis
         {
             "woman_farmer"
         },
+        PersianKeywords = new[]
+        {
+            "woman_farmer"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4554,6 +5875,10 @@ public static partial class Emojis
         Description = "cook",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "cook"
+        },
+        PersianKeywords = new[]
         {
             "cook"
         },
@@ -4574,6 +5899,11 @@ public static partial class Emojis
         {
             "chef"
         },
+        PersianKeywords = new[]
+        {
+            "man_cook",
+            "chef"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4591,6 +5921,11 @@ public static partial class Emojis
         {
             "chef"
         },
+        PersianKeywords = new[]
+        {
+            "woman_cook",
+            "chef"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4601,6 +5936,10 @@ public static partial class Emojis
         Description = "mechanic",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "mechanic"
+        },
+        PersianKeywords = new[]
         {
             "mechanic"
         },
@@ -4617,6 +5956,10 @@ public static partial class Emojis
         {
             "man_mechanic"
         },
+        PersianKeywords = new[]
+        {
+            "man_mechanic"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4627,6 +5970,10 @@ public static partial class Emojis
         Description = "woman mechanic",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "woman_mechanic"
+        },
+        PersianKeywords = new[]
         {
             "woman_mechanic"
         },
@@ -4643,6 +5990,10 @@ public static partial class Emojis
         {
             "factory_worker"
         },
+        PersianKeywords = new[]
+        {
+            "factory_worker"
+        },
         UnicodeVersion = "12.1",
         IosVersion = "13.2"
     };
@@ -4653,6 +6004,10 @@ public static partial class Emojis
         Description = "man factory worker",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "man_factory_worker"
+        },
+        PersianKeywords = new[]
         {
             "man_factory_worker"
         },
@@ -4669,6 +6024,10 @@ public static partial class Emojis
         {
             "woman_factory_worker"
         },
+        PersianKeywords = new[]
+        {
+            "woman_factory_worker"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4679,6 +6038,10 @@ public static partial class Emojis
         Description = "office worker",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "office_worker"
+        },
+        PersianKeywords = new[]
         {
             "office_worker"
         },
@@ -4699,6 +6062,11 @@ public static partial class Emojis
         {
             "business"
         },
+        PersianKeywords = new[]
+        {
+            "man_office_worker",
+            "business"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4716,6 +6084,11 @@ public static partial class Emojis
         {
             "business"
         },
+        PersianKeywords = new[]
+        {
+            "woman_office_worker",
+            "business"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4726,6 +6099,10 @@ public static partial class Emojis
         Description = "scientist",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "scientist"
+        },
+        PersianKeywords = new[]
         {
             "scientist"
         },
@@ -4746,6 +6123,11 @@ public static partial class Emojis
         {
             "research"
         },
+        PersianKeywords = new[]
+        {
+            "man_scientist",
+            "research"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4763,6 +6145,11 @@ public static partial class Emojis
         {
             "research"
         },
+        PersianKeywords = new[]
+        {
+            "woman_scientist",
+            "research"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4773,6 +6160,10 @@ public static partial class Emojis
         Description = "technologist",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "technologist"
+        },
+        PersianKeywords = new[]
         {
             "technologist"
         },
@@ -4793,6 +6184,11 @@ public static partial class Emojis
         {
             "coder"
         },
+        PersianKeywords = new[]
+        {
+            "man_technologist",
+            "coder"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4810,6 +6206,11 @@ public static partial class Emojis
         {
             "coder"
         },
+        PersianKeywords = new[]
+        {
+            "woman_technologist",
+            "coder"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4820,6 +6221,10 @@ public static partial class Emojis
         Description = "singer",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "singer"
+        },
+        PersianKeywords = new[]
         {
             "singer"
         },
@@ -4840,6 +6245,11 @@ public static partial class Emojis
         {
             "rockstar"
         },
+        PersianKeywords = new[]
+        {
+            "man_singer",
+            "rockstar"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4857,6 +6267,11 @@ public static partial class Emojis
         {
             "rockstar"
         },
+        PersianKeywords = new[]
+        {
+            "woman_singer",
+            "rockstar"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4867,6 +6282,10 @@ public static partial class Emojis
         Description = "artist",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "artist"
+        },
+        PersianKeywords = new[]
         {
             "artist"
         },
@@ -4887,6 +6306,11 @@ public static partial class Emojis
         {
             "painter"
         },
+        PersianKeywords = new[]
+        {
+            "man_artist",
+            "painter"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4904,6 +6328,11 @@ public static partial class Emojis
         {
             "painter"
         },
+        PersianKeywords = new[]
+        {
+            "woman_artist",
+            "painter"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4914,6 +6343,10 @@ public static partial class Emojis
         Description = "pilot",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "pilot"
+        },
+        PersianKeywords = new[]
         {
             "pilot"
         },
@@ -4930,6 +6363,10 @@ public static partial class Emojis
         {
             "man_pilot"
         },
+        PersianKeywords = new[]
+        {
+            "man_pilot"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4943,6 +6380,10 @@ public static partial class Emojis
         {
             "woman_pilot"
         },
+        PersianKeywords = new[]
+        {
+            "woman_pilot"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4953,6 +6394,10 @@ public static partial class Emojis
         Description = "astronaut",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "astronaut"
+        },
+        PersianKeywords = new[]
         {
             "astronaut"
         },
@@ -4973,6 +6418,11 @@ public static partial class Emojis
         {
             "space"
         },
+        PersianKeywords = new[]
+        {
+            "man_astronaut",
+            "space"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -4990,6 +6440,11 @@ public static partial class Emojis
         {
             "space"
         },
+        PersianKeywords = new[]
+        {
+            "woman_astronaut",
+            "space"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -5000,6 +6455,10 @@ public static partial class Emojis
         Description = "firefighter",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "firefighter"
+        },
+        PersianKeywords = new[]
         {
             "firefighter"
         },
@@ -5016,6 +6475,10 @@ public static partial class Emojis
         {
             "man_firefighter"
         },
+        PersianKeywords = new[]
+        {
+            "man_firefighter"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -5026,6 +6489,10 @@ public static partial class Emojis
         Description = "woman firefighter",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "woman_firefighter"
+        },
+        PersianKeywords = new[]
         {
             "woman_firefighter"
         },
@@ -5047,6 +6514,12 @@ public static partial class Emojis
         {
             "law"
         },
+        PersianKeywords = new[]
+        {
+            "police_officer",
+            "cop",
+            "law"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -5062,6 +6535,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "law",
+            "cop"
+        },
+        PersianKeywords = new[]
+        {
+            "policeman",
             "law",
             "cop"
         },
@@ -5083,6 +6562,12 @@ public static partial class Emojis
             "law",
             "cop"
         },
+        PersianKeywords = new[]
+        {
+            "policewoman",
+            "law",
+            "cop"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "10.0"
     };
@@ -5098,6 +6583,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "sleuth"
+        },
+        PersianKeywords = new[]
+        {
+            "detective",
             "sleuth"
         },
         UnicodeVersion = "7.0",
@@ -5117,6 +6607,11 @@ public static partial class Emojis
         {
             "sleuth"
         },
+        PersianKeywords = new[]
+        {
+            "male_detective",
+            "sleuth"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -5134,6 +6629,11 @@ public static partial class Emojis
         {
             "sleuth"
         },
+        PersianKeywords = new[]
+        {
+            "female_detective",
+            "sleuth"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "10.0"
     };
@@ -5144,6 +6644,10 @@ public static partial class Emojis
         Description = "guard",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "guard"
+        },
+        PersianKeywords = new[]
         {
             "guard"
         },
@@ -5160,6 +6664,10 @@ public static partial class Emojis
         {
             "guardsman"
         },
+        PersianKeywords = new[]
+        {
+            "guardsman"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -5170,6 +6678,10 @@ public static partial class Emojis
         Description = "woman guard",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "guardswoman"
+        },
+        PersianKeywords = new[]
         {
             "guardswoman"
         },
@@ -5190,6 +6702,11 @@ public static partial class Emojis
         {
             "helmet"
         },
+        PersianKeywords = new[]
+        {
+            "construction_worker",
+            "helmet"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -5205,6 +6722,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "helmet"
+        },
+        PersianKeywords = new[]
+        {
+            "construction_worker_man",
             "helmet"
         },
         UnicodeVersion = "11.0",
@@ -5224,6 +6746,11 @@ public static partial class Emojis
         {
             "helmet"
         },
+        PersianKeywords = new[]
+        {
+            "construction_worker_woman",
+            "helmet"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "10.0"
     };
@@ -5239,6 +6766,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "crown",
+            "royal"
+        },
+        PersianKeywords = new[]
+        {
+            "prince",
             "crown",
             "royal"
         },
@@ -5260,6 +6793,12 @@ public static partial class Emojis
             "crown",
             "royal"
         },
+        PersianKeywords = new[]
+        {
+            "princess",
+            "crown",
+            "royal"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -5270,6 +6809,10 @@ public static partial class Emojis
         Description = "person wearing turban",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "person_with_turban"
+        },
+        PersianKeywords = new[]
         {
             "person_with_turban"
         },
@@ -5286,6 +6829,10 @@ public static partial class Emojis
         {
             "man_with_turban"
         },
+        PersianKeywords = new[]
+        {
+            "man_with_turban"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -5299,6 +6846,10 @@ public static partial class Emojis
         {
             "woman_with_turban"
         },
+        PersianKeywords = new[]
+        {
+            "woman_with_turban"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "10.0"
     };
@@ -5309,6 +6860,10 @@ public static partial class Emojis
         Description = "man with skullcap",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "man_with_gua_pi_mao"
+        },
+        PersianKeywords = new[]
         {
             "man_with_gua_pi_mao"
         },
@@ -5329,6 +6884,11 @@ public static partial class Emojis
         {
             "hijab"
         },
+        PersianKeywords = new[]
+        {
+            "woman_with_headscarf",
+            "hijab"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -5344,6 +6904,13 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "groom",
+            "marriage",
+            "wedding"
+        },
+        PersianKeywords = new[]
+        {
+            "man_in_tuxedo",
             "groom",
             "marriage",
             "wedding"
@@ -5366,6 +6933,12 @@ public static partial class Emojis
             "marriage",
             "wedding"
         },
+        PersianKeywords = new[]
+        {
+            "bride_with_veil",
+            "marriage",
+            "wedding"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -5376,6 +6949,10 @@ public static partial class Emojis
         Description = "pregnant woman",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "pregnant_woman"
+        },
+        PersianKeywords = new[]
         {
             "pregnant_woman"
         },
@@ -5396,6 +6973,11 @@ public static partial class Emojis
         {
             "nursing"
         },
+        PersianKeywords = new[]
+        {
+            "breast_feeding",
+            "nursing"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -5406,6 +6988,10 @@ public static partial class Emojis
         Description = "baby angel",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "angel"
+        },
+        PersianKeywords = new[]
         {
             "angel"
         },
@@ -5426,6 +7012,11 @@ public static partial class Emojis
         {
             "christmas"
         },
+        PersianKeywords = new[]
+        {
+            "santa",
+            "christmas"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -5443,6 +7034,11 @@ public static partial class Emojis
         {
             "santa"
         },
+        PersianKeywords = new[]
+        {
+            "mrs_claus",
+            "santa"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -5453,6 +7049,10 @@ public static partial class Emojis
         Description = "superhero",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "superhero"
+        },
+        PersianKeywords = new[]
         {
             "superhero"
         },
@@ -5469,6 +7069,10 @@ public static partial class Emojis
         {
             "superhero_man"
         },
+        PersianKeywords = new[]
+        {
+            "superhero_man"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -5479,6 +7083,10 @@ public static partial class Emojis
         Description = "woman superhero",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "superhero_woman"
+        },
+        PersianKeywords = new[]
         {
             "superhero_woman"
         },
@@ -5495,6 +7103,10 @@ public static partial class Emojis
         {
             "supervillain"
         },
+        PersianKeywords = new[]
+        {
+            "supervillain"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -5508,6 +7120,10 @@ public static partial class Emojis
         {
             "supervillain_man"
         },
+        PersianKeywords = new[]
+        {
+            "supervillain_man"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -5518,6 +7134,10 @@ public static partial class Emojis
         Description = "woman supervillain",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "supervillain_woman"
+        },
+        PersianKeywords = new[]
         {
             "supervillain_woman"
         },
@@ -5538,6 +7158,11 @@ public static partial class Emojis
         {
             "wizard"
         },
+        PersianKeywords = new[]
+        {
+            "mage",
+            "wizard"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -5553,6 +7178,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "wizard"
+        },
+        PersianKeywords = new[]
+        {
+            "mage_man",
             "wizard"
         },
         UnicodeVersion = "11.0",
@@ -5572,6 +7202,11 @@ public static partial class Emojis
         {
             "wizard"
         },
+        PersianKeywords = new[]
+        {
+            "mage_woman",
+            "wizard"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -5582,6 +7217,10 @@ public static partial class Emojis
         Description = "fairy",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "fairy"
+        },
+        PersianKeywords = new[]
         {
             "fairy"
         },
@@ -5598,6 +7237,10 @@ public static partial class Emojis
         {
             "fairy_man"
         },
+        PersianKeywords = new[]
+        {
+            "fairy_man"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -5608,6 +7251,10 @@ public static partial class Emojis
         Description = "woman fairy",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "fairy_woman"
+        },
+        PersianKeywords = new[]
         {
             "fairy_woman"
         },
@@ -5624,6 +7271,10 @@ public static partial class Emojis
         {
             "vampire"
         },
+        PersianKeywords = new[]
+        {
+            "vampire"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -5634,6 +7285,10 @@ public static partial class Emojis
         Description = "man vampire",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "vampire_man"
+        },
+        PersianKeywords = new[]
         {
             "vampire_man"
         },
@@ -5650,6 +7305,10 @@ public static partial class Emojis
         {
             "vampire_woman"
         },
+        PersianKeywords = new[]
+        {
+            "vampire_woman"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -5660,6 +7319,10 @@ public static partial class Emojis
         Description = "merperson",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "merperson"
+        },
+        PersianKeywords = new[]
         {
             "merperson"
         },
@@ -5676,6 +7339,10 @@ public static partial class Emojis
         {
             "merman"
         },
+        PersianKeywords = new[]
+        {
+            "merman"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -5686,6 +7353,10 @@ public static partial class Emojis
         Description = "mermaid",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "mermaid"
+        },
+        PersianKeywords = new[]
         {
             "mermaid"
         },
@@ -5702,6 +7373,10 @@ public static partial class Emojis
         {
             "elf"
         },
+        PersianKeywords = new[]
+        {
+            "elf"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -5712,6 +7387,10 @@ public static partial class Emojis
         Description = "man elf",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "elf_man"
+        },
+        PersianKeywords = new[]
         {
             "elf_man"
         },
@@ -5728,6 +7407,10 @@ public static partial class Emojis
         {
             "elf_woman"
         },
+        PersianKeywords = new[]
+        {
+            "elf_woman"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -5738,6 +7421,10 @@ public static partial class Emojis
         Description = "genie",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "genie"
+        },
+        PersianKeywords = new[]
         {
             "genie"
         },
@@ -5754,6 +7441,10 @@ public static partial class Emojis
         {
             "genie_man"
         },
+        PersianKeywords = new[]
+        {
+            "genie_man"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -5764,6 +7455,10 @@ public static partial class Emojis
         Description = "woman genie",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "genie_woman"
+        },
+        PersianKeywords = new[]
         {
             "genie_woman"
         },
@@ -5780,6 +7475,10 @@ public static partial class Emojis
         {
             "zombie"
         },
+        PersianKeywords = new[]
+        {
+            "zombie"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -5793,6 +7492,10 @@ public static partial class Emojis
         {
             "zombie_man"
         },
+        PersianKeywords = new[]
+        {
+            "zombie_man"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -5803,6 +7506,10 @@ public static partial class Emojis
         Description = "woman zombie",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "zombie_woman"
+        },
+        PersianKeywords = new[]
         {
             "zombie_woman"
         },
@@ -5823,6 +7530,11 @@ public static partial class Emojis
         {
             "spa"
         },
+        PersianKeywords = new[]
+        {
+            "massage",
+            "spa"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -5838,6 +7550,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "spa"
+        },
+        PersianKeywords = new[]
+        {
+            "massage_man",
             "spa"
         },
         UnicodeVersion = "6.0",
@@ -5857,6 +7574,11 @@ public static partial class Emojis
         {
             "spa"
         },
+        PersianKeywords = new[]
+        {
+            "massage_woman",
+            "spa"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -5874,6 +7596,11 @@ public static partial class Emojis
         {
             "beauty"
         },
+        PersianKeywords = new[]
+        {
+            "haircut",
+            "beauty"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -5884,6 +7611,10 @@ public static partial class Emojis
         Description = "man getting haircut",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "haircut_man"
+        },
+        PersianKeywords = new[]
         {
             "haircut_man"
         },
@@ -5900,6 +7631,10 @@ public static partial class Emojis
         {
             "haircut_woman"
         },
+        PersianKeywords = new[]
+        {
+            "haircut_woman"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -5910,6 +7645,10 @@ public static partial class Emojis
         Description = "person walking",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "walking"
+        },
+        PersianKeywords = new[]
         {
             "walking"
         },
@@ -5926,6 +7665,10 @@ public static partial class Emojis
         {
             "walking_man"
         },
+        PersianKeywords = new[]
+        {
+            "walking_man"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -5936,6 +7679,10 @@ public static partial class Emojis
         Description = "woman walking",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "walking_woman"
+        },
+        PersianKeywords = new[]
         {
             "walking_woman"
         },
@@ -5952,6 +7699,10 @@ public static partial class Emojis
         {
             "standing_person"
         },
+        PersianKeywords = new[]
+        {
+            "standing_person"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -5962,6 +7713,10 @@ public static partial class Emojis
         Description = "man standing",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "standing_man"
+        },
+        PersianKeywords = new[]
         {
             "standing_man"
         },
@@ -5978,6 +7733,10 @@ public static partial class Emojis
         {
             "standing_woman"
         },
+        PersianKeywords = new[]
+        {
+            "standing_woman"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -5988,6 +7747,10 @@ public static partial class Emojis
         Description = "person kneeling",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "kneeling_person"
+        },
+        PersianKeywords = new[]
         {
             "kneeling_person"
         },
@@ -6004,6 +7767,10 @@ public static partial class Emojis
         {
             "kneeling_man"
         },
+        PersianKeywords = new[]
+        {
+            "kneeling_man"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -6014,6 +7781,10 @@ public static partial class Emojis
         Description = "woman kneeling",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "kneeling_woman"
+        },
+        PersianKeywords = new[]
         {
             "kneeling_woman"
         },
@@ -6030,6 +7801,10 @@ public static partial class Emojis
         {
             "person_with_probing_cane"
         },
+        PersianKeywords = new[]
+        {
+            "person_with_probing_cane"
+        },
         UnicodeVersion = "12.1",
         IosVersion = "13.2"
     };
@@ -6040,6 +7815,10 @@ public static partial class Emojis
         Description = "man with probing cane",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "man_with_probing_cane"
+        },
+        PersianKeywords = new[]
         {
             "man_with_probing_cane"
         },
@@ -6056,6 +7835,10 @@ public static partial class Emojis
         {
             "woman_with_probing_cane"
         },
+        PersianKeywords = new[]
+        {
+            "woman_with_probing_cane"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -6066,6 +7849,10 @@ public static partial class Emojis
         Description = "person in motorized wheelchair",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "person_in_motorized_wheelchair"
+        },
+        PersianKeywords = new[]
         {
             "person_in_motorized_wheelchair"
         },
@@ -6082,6 +7869,10 @@ public static partial class Emojis
         {
             "man_in_motorized_wheelchair"
         },
+        PersianKeywords = new[]
+        {
+            "man_in_motorized_wheelchair"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -6092,6 +7883,10 @@ public static partial class Emojis
         Description = "woman in motorized wheelchair",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "woman_in_motorized_wheelchair"
+        },
+        PersianKeywords = new[]
         {
             "woman_in_motorized_wheelchair"
         },
@@ -6108,6 +7903,10 @@ public static partial class Emojis
         {
             "person_in_manual_wheelchair"
         },
+        PersianKeywords = new[]
+        {
+            "person_in_manual_wheelchair"
+        },
         UnicodeVersion = "12.1",
         IosVersion = "13.2"
     };
@@ -6121,6 +7920,10 @@ public static partial class Emojis
         {
             "man_in_manual_wheelchair"
         },
+        PersianKeywords = new[]
+        {
+            "man_in_manual_wheelchair"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -6131,6 +7934,10 @@ public static partial class Emojis
         Description = "woman in manual wheelchair",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "woman_in_manual_wheelchair"
+        },
+        PersianKeywords = new[]
         {
             "woman_in_manual_wheelchair"
         },
@@ -6154,6 +7961,14 @@ public static partial class Emojis
             "workout",
             "marathon"
         },
+        PersianKeywords = new[]
+        {
+            "runner",
+            "running",
+            "exercise",
+            "workout",
+            "marathon"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -6169,6 +7984,13 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "exercise",
+            "workout",
+            "marathon"
+        },
+        PersianKeywords = new[]
+        {
+            "running_man",
             "exercise",
             "workout",
             "marathon"
@@ -6192,6 +8014,13 @@ public static partial class Emojis
             "workout",
             "marathon"
         },
+        PersianKeywords = new[]
+        {
+            "running_woman",
+            "exercise",
+            "workout",
+            "marathon"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "10.0"
     };
@@ -6208,6 +8037,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "dress"
+        },
+        PersianKeywords = new[]
+        {
+            "woman_dancing",
+            "dancer",
             "dress"
         },
         UnicodeVersion = "6.0",
@@ -6227,6 +8062,11 @@ public static partial class Emojis
         {
             "dancer"
         },
+        PersianKeywords = new[]
+        {
+            "man_dancing",
+            "dancer"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -6237,6 +8077,10 @@ public static partial class Emojis
         Description = "man in suit levitating",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "business_suit_levitating"
+        },
+        PersianKeywords = new[]
         {
             "business_suit_levitating"
         },
@@ -6257,6 +8101,11 @@ public static partial class Emojis
         {
             "bunny"
         },
+        PersianKeywords = new[]
+        {
+            "dancers",
+            "bunny"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -6272,6 +8121,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "bunny"
+        },
+        PersianKeywords = new[]
+        {
+            "dancing_men",
             "bunny"
         },
         UnicodeVersion = "6.0",
@@ -6291,6 +8145,11 @@ public static partial class Emojis
         {
             "bunny"
         },
+        PersianKeywords = new[]
+        {
+            "dancing_women",
+            "bunny"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -6306,6 +8165,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "steamy"
+        },
+        PersianKeywords = new[]
+        {
+            "sauna_person",
             "steamy"
         },
         UnicodeVersion = "11.0",
@@ -6325,6 +8189,11 @@ public static partial class Emojis
         {
             "steamy"
         },
+        PersianKeywords = new[]
+        {
+            "sauna_man",
+            "steamy"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -6340,6 +8209,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "steamy"
+        },
+        PersianKeywords = new[]
+        {
+            "sauna_woman",
             "steamy"
         },
         UnicodeVersion = "11.0",
@@ -6359,6 +8233,11 @@ public static partial class Emojis
         {
             "bouldering"
         },
+        PersianKeywords = new[]
+        {
+            "climbing",
+            "bouldering"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -6374,6 +8253,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "bouldering"
+        },
+        PersianKeywords = new[]
+        {
+            "climbing_man",
             "bouldering"
         },
         UnicodeVersion = "11.0",
@@ -6393,6 +8277,11 @@ public static partial class Emojis
         {
             "bouldering"
         },
+        PersianKeywords = new[]
+        {
+            "climbing_woman",
+            "bouldering"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -6403,6 +8292,10 @@ public static partial class Emojis
         Description = "person fencing",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "person_fencing"
+        },
+        PersianKeywords = new[]
         {
             "person_fencing"
         },
@@ -6419,6 +8312,10 @@ public static partial class Emojis
         {
             "horse_racing"
         },
+        PersianKeywords = new[]
+        {
+            "horse_racing"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -6429,6 +8326,10 @@ public static partial class Emojis
         Description = "skier",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "skier"
+        },
+        PersianKeywords = new[]
         {
             "skier"
         },
@@ -6445,6 +8346,10 @@ public static partial class Emojis
         {
             "snowboarder"
         },
+        PersianKeywords = new[]
+        {
+            "snowboarder"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -6455,6 +8360,10 @@ public static partial class Emojis
         Description = "person golfing",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "golfing"
+        },
+        PersianKeywords = new[]
         {
             "golfing"
         },
@@ -6471,6 +8380,10 @@ public static partial class Emojis
         {
             "golfing_man"
         },
+        PersianKeywords = new[]
+        {
+            "golfing_man"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -6481,6 +8394,10 @@ public static partial class Emojis
         Description = "woman golfing",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "golfing_woman"
+        },
+        PersianKeywords = new[]
         {
             "golfing_woman"
         },
@@ -6497,6 +8414,10 @@ public static partial class Emojis
         {
             "surfer"
         },
+        PersianKeywords = new[]
+        {
+            "surfer"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -6507,6 +8428,10 @@ public static partial class Emojis
         Description = "man surfing",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "surfing_man"
+        },
+        PersianKeywords = new[]
         {
             "surfing_man"
         },
@@ -6523,6 +8448,10 @@ public static partial class Emojis
         {
             "surfing_woman"
         },
+        PersianKeywords = new[]
+        {
+            "surfing_woman"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "10.0"
     };
@@ -6533,6 +8462,10 @@ public static partial class Emojis
         Description = "person rowing boat",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "rowboat"
+        },
+        PersianKeywords = new[]
         {
             "rowboat"
         },
@@ -6549,6 +8482,10 @@ public static partial class Emojis
         {
             "rowing_man"
         },
+        PersianKeywords = new[]
+        {
+            "rowing_man"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -6559,6 +8496,10 @@ public static partial class Emojis
         Description = "woman rowing boat",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "rowing_woman"
+        },
+        PersianKeywords = new[]
         {
             "rowing_woman"
         },
@@ -6575,6 +8516,10 @@ public static partial class Emojis
         {
             "swimmer"
         },
+        PersianKeywords = new[]
+        {
+            "swimmer"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -6588,6 +8533,10 @@ public static partial class Emojis
         {
             "swimming_man"
         },
+        PersianKeywords = new[]
+        {
+            "swimming_man"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -6598,6 +8547,10 @@ public static partial class Emojis
         Description = "woman swimming",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "swimming_woman"
+        },
+        PersianKeywords = new[]
         {
             "swimming_woman"
         },
@@ -6618,6 +8571,11 @@ public static partial class Emojis
         {
             "basketball"
         },
+        PersianKeywords = new[]
+        {
+            "bouncing_ball_person",
+            "basketball"
+        },
         UnicodeVersion = "5.2",
         IosVersion = "9.1"
     };
@@ -6632,6 +8590,11 @@ public static partial class Emojis
             "bouncing_ball_man",
             "basketball_man"
         },
+        PersianKeywords = new[]
+        {
+            "bouncing_ball_man",
+            "basketball_man"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -6642,6 +8605,11 @@ public static partial class Emojis
         Description = "woman bouncing ball",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "bouncing_ball_woman",
+            "basketball_woman"
+        },
+        PersianKeywords = new[]
         {
             "bouncing_ball_woman",
             "basketball_woman"
@@ -6664,6 +8632,12 @@ public static partial class Emojis
             "gym",
             "workout"
         },
+        PersianKeywords = new[]
+        {
+            "weight_lifting",
+            "gym",
+            "workout"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -6679,6 +8653,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "gym",
+            "workout"
+        },
+        PersianKeywords = new[]
+        {
+            "weight_lifting_man",
             "gym",
             "workout"
         },
@@ -6700,6 +8680,12 @@ public static partial class Emojis
             "gym",
             "workout"
         },
+        PersianKeywords = new[]
+        {
+            "weight_lifting_woman",
+            "gym",
+            "workout"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "10.0"
     };
@@ -6710,6 +8696,10 @@ public static partial class Emojis
         Description = "person biking",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "bicyclist"
+        },
+        PersianKeywords = new[]
         {
             "bicyclist"
         },
@@ -6726,6 +8716,10 @@ public static partial class Emojis
         {
             "biking_man"
         },
+        PersianKeywords = new[]
+        {
+            "biking_man"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -6736,6 +8730,10 @@ public static partial class Emojis
         Description = "woman biking",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "biking_woman"
+        },
+        PersianKeywords = new[]
         {
             "biking_woman"
         },
@@ -6752,6 +8750,10 @@ public static partial class Emojis
         {
             "mountain_bicyclist"
         },
+        PersianKeywords = new[]
+        {
+            "mountain_bicyclist"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -6762,6 +8764,10 @@ public static partial class Emojis
         Description = "man mountain biking",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "mountain_biking_man"
+        },
+        PersianKeywords = new[]
         {
             "mountain_biking_man"
         },
@@ -6778,6 +8784,10 @@ public static partial class Emojis
         {
             "mountain_biking_woman"
         },
+        PersianKeywords = new[]
+        {
+            "mountain_biking_woman"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "10.0"
     };
@@ -6788,6 +8798,10 @@ public static partial class Emojis
         Description = "person cartwheeling",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "cartwheeling"
+        },
+        PersianKeywords = new[]
         {
             "cartwheeling"
         },
@@ -6804,6 +8818,10 @@ public static partial class Emojis
         {
             "man_cartwheeling"
         },
+        PersianKeywords = new[]
+        {
+            "man_cartwheeling"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -6814,6 +8832,10 @@ public static partial class Emojis
         Description = "woman cartwheeling",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "woman_cartwheeling"
+        },
+        PersianKeywords = new[]
         {
             "woman_cartwheeling"
         },
@@ -6830,6 +8852,10 @@ public static partial class Emojis
         {
             "wrestling"
         },
+        PersianKeywords = new[]
+        {
+            "wrestling"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -6840,6 +8866,10 @@ public static partial class Emojis
         Description = "men wrestling",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "men_wrestling"
+        },
+        PersianKeywords = new[]
         {
             "men_wrestling"
         },
@@ -6856,6 +8886,10 @@ public static partial class Emojis
         {
             "women_wrestling"
         },
+        PersianKeywords = new[]
+        {
+            "women_wrestling"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -6866,6 +8900,10 @@ public static partial class Emojis
         Description = "person playing water polo",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "water_polo"
+        },
+        PersianKeywords = new[]
         {
             "water_polo"
         },
@@ -6882,6 +8920,10 @@ public static partial class Emojis
         {
             "man_playing_water_polo"
         },
+        PersianKeywords = new[]
+        {
+            "man_playing_water_polo"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -6892,6 +8934,10 @@ public static partial class Emojis
         Description = "woman playing water polo",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "woman_playing_water_polo"
+        },
+        PersianKeywords = new[]
         {
             "woman_playing_water_polo"
         },
@@ -6908,6 +8954,10 @@ public static partial class Emojis
         {
             "handball_person"
         },
+        PersianKeywords = new[]
+        {
+            "handball_person"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -6918,6 +8968,10 @@ public static partial class Emojis
         Description = "man playing handball",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "man_playing_handball"
+        },
+        PersianKeywords = new[]
         {
             "man_playing_handball"
         },
@@ -6934,6 +8988,10 @@ public static partial class Emojis
         {
             "woman_playing_handball"
         },
+        PersianKeywords = new[]
+        {
+            "woman_playing_handball"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -6944,6 +9002,10 @@ public static partial class Emojis
         Description = "person juggling",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "juggling_person"
+        },
+        PersianKeywords = new[]
         {
             "juggling_person"
         },
@@ -6960,6 +9022,10 @@ public static partial class Emojis
         {
             "man_juggling"
         },
+        PersianKeywords = new[]
+        {
+            "man_juggling"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -6970,6 +9036,10 @@ public static partial class Emojis
         Description = "woman juggling",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "woman_juggling"
+        },
+        PersianKeywords = new[]
         {
             "woman_juggling"
         },
@@ -6990,6 +9060,11 @@ public static partial class Emojis
         {
             "meditation"
         },
+        PersianKeywords = new[]
+        {
+            "lotus_position",
+            "meditation"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -7005,6 +9080,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "meditation"
+        },
+        PersianKeywords = new[]
+        {
+            "lotus_position_man",
             "meditation"
         },
         UnicodeVersion = "11.0",
@@ -7024,6 +9104,11 @@ public static partial class Emojis
         {
             "meditation"
         },
+        PersianKeywords = new[]
+        {
+            "lotus_position_woman",
+            "meditation"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -7041,6 +9126,11 @@ public static partial class Emojis
         {
             "shower"
         },
+        PersianKeywords = new[]
+        {
+            "bath",
+            "shower"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -7051,6 +9141,10 @@ public static partial class Emojis
         Description = "person in bed",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "sleeping_bed"
+        },
+        PersianKeywords = new[]
         {
             "sleeping_bed"
         },
@@ -7072,6 +9166,12 @@ public static partial class Emojis
             "couple",
             "date"
         },
+        PersianKeywords = new[]
+        {
+            "people_holding_hands",
+            "couple",
+            "date"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -7087,6 +9187,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "couple",
+            "date"
+        },
+        PersianKeywords = new[]
+        {
+            "two_women_holding_hands",
             "couple",
             "date"
         },
@@ -7107,6 +9213,11 @@ public static partial class Emojis
         {
             "date"
         },
+        PersianKeywords = new[]
+        {
+            "couple",
+            "date"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -7125,6 +9236,12 @@ public static partial class Emojis
             "couple",
             "date"
         },
+        PersianKeywords = new[]
+        {
+            "two_men_holding_hands",
+            "couple",
+            "date"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -7138,51 +9255,64 @@ public static partial class Emojis
         {
             "couplekiss"
         },
+        PersianKeywords = new[]
+        {
+            "couplekiss"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
 
-    public static EmojiData KissWoman,
-        Man = new EmojiData
+    public static EmojiData KissWomanMan = new EmojiData
+    {
+        Emoji = "👩‍❤️‍💋‍👨",
+        Description = "kiss: woman, man",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👩‍❤️‍💋‍👨",
-            Description = "kiss: woman, man",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "couplekiss_man_woman"
-            },
-            UnicodeVersion = "11.0",
-            IosVersion = "12.1"
-        };
+            "couplekiss_man_woman"
+        },
+        PersianKeywords = new[]
+        {
+            "couplekiss_man_woman"
+        },
+        UnicodeVersion = "11.0",
+        IosVersion = "12.1"
+    };
 
-    public static EmojiData KissMan,
-        Man = new EmojiData
+    public static EmojiData KissManMan = new EmojiData
+    {
+        Emoji = "👨‍❤️‍💋‍👨",
+        Description = "kiss: man, man",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👨‍❤️‍💋‍👨",
-            Description = "kiss: man, man",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "couplekiss_man_man"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "8.3"
-        };
+            "couplekiss_man_man"
+        },
+        PersianKeywords = new[]
+        {
+            "couplekiss_man_man"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "8.3"
+    };
 
-    public static EmojiData KissWoman,
-        Woman = new EmojiData
+    public static EmojiData KissWomanWoman = new EmojiData
+    {
+        Emoji = "👩‍❤️‍💋‍👩",
+        Description = "kiss: woman, woman",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👩‍❤️‍💋‍👩",
-            Description = "kiss: woman, woman",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "couplekiss_woman_woman"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "8.3"
-        };
+            "couplekiss_woman_woman"
+        },
+        PersianKeywords = new[]
+        {
+            "couplekiss_woman_woman"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "8.3"
+    };
 
     public static EmojiData CoupleWithHeart = new EmojiData
     {
@@ -7193,51 +9323,64 @@ public static partial class Emojis
         {
             "couple_with_heart"
         },
+        PersianKeywords = new[]
+        {
+            "couple_with_heart"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
 
-    public static EmojiData CoupleWithHeartWoman,
-        Man = new EmojiData
+    public static EmojiData CoupleWithHeartWomanMan = new EmojiData
+    {
+        Emoji = "👩‍❤️‍👨",
+        Description = "couple with heart: woman, man",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👩‍❤️‍👨",
-            Description = "couple with heart: woman, man",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "couple_with_heart_woman_man"
-            },
-            UnicodeVersion = "11.0",
-            IosVersion = "12.1"
-        };
+            "couple_with_heart_woman_man"
+        },
+        PersianKeywords = new[]
+        {
+            "couple_with_heart_woman_man"
+        },
+        UnicodeVersion = "11.0",
+        IosVersion = "12.1"
+    };
 
-    public static EmojiData CoupleWithHeartMan,
-        Man = new EmojiData
+    public static EmojiData CoupleWithHeartManMan = new EmojiData
+    {
+        Emoji = "👨‍❤️‍👨",
+        Description = "couple with heart: man, man",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👨‍❤️‍👨",
-            Description = "couple with heart: man, man",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "couple_with_heart_man_man"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "8.3"
-        };
+            "couple_with_heart_man_man"
+        },
+        PersianKeywords = new[]
+        {
+            "couple_with_heart_man_man"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "8.3"
+    };
 
-    public static EmojiData CoupleWithHeartWoman,
-        Woman = new EmojiData
+    public static EmojiData CoupleWithHeartWomanWoman = new EmojiData
+    {
+        Emoji = "👩‍❤️‍👩",
+        Description = "couple with heart: woman, woman",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👩‍❤️‍👩",
-            Description = "couple with heart: woman, woman",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "couple_with_heart_woman_woman"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "8.3"
-        };
+            "couple_with_heart_woman_woman"
+        },
+        PersianKeywords = new[]
+        {
+            "couple_with_heart_woman_woman"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "8.3"
+    };
 
     public static EmojiData Family = new EmojiData
     {
@@ -7250,6 +9393,13 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "home",
+            "parents",
+            "child"
+        },
+        PersianKeywords = new[]
+        {
+            "family",
             "home",
             "parents",
             "child"
@@ -7267,371 +9417,421 @@ public static partial class Emojis
         {
             "family_man_woman_boy"
         },
+        PersianKeywords = new[]
+        {
+            "family_man_woman_boy"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
 
-    public static EmojiData FamilyMan,
-        Woman,
-        Girl = new EmojiData
+    public static EmojiData FamilyManWomanGirl = new EmojiData
+    {
+        Emoji = "👨‍👩‍👧",
+        Description = "family: man, woman, girl",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👨‍👩‍👧",
-            Description = "family: man, woman, girl",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_man_woman_girl"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "8.3"
-        };
+            "family_man_woman_girl"
+        },
+        PersianKeywords = new[]
+        {
+            "family_man_woman_girl"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "8.3"
+    };
 
     public static EmojiData FamilyManWomanGirlBoy = new EmojiData
+    {
+        Emoji = "👨‍👩‍👧‍👦",
+        Description = "family: man, woman, girl, boy",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👨‍👩‍👧‍👦",
-            Description = "family: man, woman, girl, boy",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_man_woman_girl_boy"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "8.3"
-        };
+            "family_man_woman_girl_boy"
+        },
+        PersianKeywords = new[]
+        {
+            "family_man_woman_girl_boy"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "8.3"
+    };
 
-    public static EmojiData FamilyMan,
-        Woman,
-        Boy,
-        Boy = new EmojiData
+    public static EmojiData FamilyManWomanBoyBoy = new EmojiData
+    {
+        Emoji = "👨‍👩‍👦‍👦",
+        Description = "family: man, woman, boy, boy",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👨‍👩‍👦‍👦",
-            Description = "family: man, woman, boy, boy",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_man_woman_boy_boy"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "8.3"
-        };
+            "family_man_woman_boy_boy"
+        },
+        PersianKeywords = new[]
+        {
+            "family_man_woman_boy_boy"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "8.3"
+    };
 
-    public static EmojiData FamilyMan,
-        Woman,
-        Girl,
-        Girl = new EmojiData
+    public static EmojiData FamilyManWomanGirlGirl = new EmojiData
+    {
+        Emoji = "👨‍👩‍👧‍👧",
+        Description = "family: man, woman, girl, girl",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👨‍👩‍👧‍👧",
-            Description = "family: man, woman, girl, girl",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_man_woman_girl_girl"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "8.3"
-        };
+            "family_man_woman_girl_girl"
+        },
+        PersianKeywords = new[]
+        {
+            "family_man_woman_girl_girl"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "8.3"
+    };
 
-    public static EmojiData FamilyMan,
-        Man,
-        Boy = new EmojiData
+    public static EmojiData FamilyManManBoy = new EmojiData
+    {
+        Emoji = "👨‍👨‍👦",
+        Description = "family: man, man, boy",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👨‍👨‍👦",
-            Description = "family: man, man, boy",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_man_man_boy"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "8.3"
-        };
+            "family_man_man_boy"
+        },
+        PersianKeywords = new[]
+        {
+            "family_man_man_boy"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "8.3"
+    };
 
-    public static EmojiData FamilyMan,
-        Man,
-        Girl = new EmojiData
+    public static EmojiData FamilyManManGirl = new EmojiData
+    {
+        Emoji = "👨‍👨‍👧",
+        Description = "family: man, man, girl",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👨‍👨‍👧",
-            Description = "family: man, man, girl",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_man_man_girl"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "8.3"
-        };
+            "family_man_man_girl"
+        },
+        PersianKeywords = new[]
+        {
+            "family_man_man_girl"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "8.3"
+    };
 
-    public static EmojiData FamilyMan,
-        Man,
-        Girl,
-        Boy = new EmojiData
+    public static EmojiData FamilyManManGirlBoy = new EmojiData
+    {
+        Emoji = "👨‍👨‍👧‍👦",
+        Description = "family: man, man, girl, boy",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👨‍👨‍👧‍👦",
-            Description = "family: man, man, girl, boy",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_man_man_girl_boy"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "8.3"
-        };
+            "family_man_man_girl_boy"
+        },
+        PersianKeywords = new[]
+        {
+            "family_man_man_girl_boy"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "8.3"
+    };
 
-    public static EmojiData FamilyMan,
-        Man,
-        Boy,
-        Boy = new EmojiData
+    public static EmojiData FamilyManManBoyBoy = new EmojiData
+    {
+        Emoji = "👨‍👨‍👦‍👦",
+        Description = "family: man, man, boy, boy",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👨‍👨‍👦‍👦",
-            Description = "family: man, man, boy, boy",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_man_man_boy_boy"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "8.3"
-        };
+            "family_man_man_boy_boy"
+        },
+        PersianKeywords = new[]
+        {
+            "family_man_man_boy_boy"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "8.3"
+    };
 
-    public static EmojiData FamilyMan,
-        Man,
-        Girl,
-        Girl = new EmojiData
+    public static EmojiData FamilyManManGirlGirl = new EmojiData
+    {
+        Emoji = "👨‍👨‍👧‍👧",
+        Description = "family: man, man, girl, girl",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👨‍👨‍👧‍👧",
-            Description = "family: man, man, girl, girl",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_man_man_girl_girl"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "8.3"
-        };
+            "family_man_man_girl_girl"
+        },
+        PersianKeywords = new[]
+        {
+            "family_man_man_girl_girl"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "8.3"
+    };
 
-    public static EmojiData FamilyWoman,
-        Woman,
-        Boy = new EmojiData
+    public static EmojiData FamilyWomanWomanBoy = new EmojiData
+    {
+        Emoji = "👩‍👩‍👦",
+        Description = "family: woman, woman, boy",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👩‍👩‍👦",
-            Description = "family: woman, woman, boy",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_woman_woman_boy"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "8.3"
-        };
+            "family_woman_woman_boy"
+        },
+        PersianKeywords = new[]
+        {
+            "family_woman_woman_boy"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "8.3"
+    };
 
-    public static EmojiData FamilyWoman,
-        Woman,
-        Girl = new EmojiData
+    public static EmojiData FamilyWomanWomanGirl = new EmojiData
+    {
+        Emoji = "👩‍👩‍👧",
+        Description = "family: woman, woman, girl",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👩‍👩‍👧",
-            Description = "family: woman, woman, girl",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_woman_woman_girl"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "8.3"
-        };
+            "family_woman_woman_girl"
+        },
+        PersianKeywords = new[]
+        {
+            "family_woman_woman_girl"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "8.3"
+    };
 
-    public static EmojiData FamilyWoman,
-        Woman,
-        Girl,
-        Boy = new EmojiData
+    public static EmojiData FamilyWomanWomanGirlBoy = new EmojiData
+    {
+        Emoji = "👩‍👩‍👧‍👦",
+        Description = "family: woman, woman, girl, boy",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👩‍👩‍👧‍👦",
-            Description = "family: woman, woman, girl, boy",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_woman_woman_girl_boy"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "8.3"
-        };
+            "family_woman_woman_girl_boy"
+        },
+        PersianKeywords = new[]
+        {
+            "family_woman_woman_girl_boy"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "8.3"
+    };
 
-    public static EmojiData FamilyWoman,
-        Woman,
-        Boy,
-        Boy = new EmojiData
+    public static EmojiData FamilyWomanWomanBoyBoy = new EmojiData
+    {
+        Emoji = "👩‍👩‍👦‍👦",
+        Description = "family: woman, woman, boy, boy",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👩‍👩‍👦‍👦",
-            Description = "family: woman, woman, boy, boy",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_woman_woman_boy_boy"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "8.3"
-        };
+            "family_woman_woman_boy_boy"
+        },
+        PersianKeywords = new[]
+        {
+            "family_woman_woman_boy_boy"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "8.3"
+    };
 
-    public static EmojiData FamilyWoman,
-        Woman,
-        Girl,
-        Girl = new EmojiData
+    public static EmojiData FamilyWomanWomanGirlGirl = new EmojiData
+    {
+        Emoji = "👩‍👩‍👧‍👧",
+        Description = "family: woman, woman, girl, girl",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👩‍👩‍👧‍👧",
-            Description = "family: woman, woman, girl, girl",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_woman_woman_girl_girl"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "8.3"
-        };
+            "family_woman_woman_girl_girl"
+        },
+        PersianKeywords = new[]
+        {
+            "family_woman_woman_girl_girl"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "8.3"
+    };
 
-    public static EmojiData FamilyMan,
-        Boy = new EmojiData
+    public static EmojiData FamilyManBoy = new EmojiData
+    {
+        Emoji = "👨‍👦",
+        Description = "family: man, boy",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👨‍👦",
-            Description = "family: man, boy",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_man_boy"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "10.0"
-        };
+            "family_man_boy"
+        },
+        PersianKeywords = new[]
+        {
+            "family_man_boy"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "10.0"
+    };
 
-    public static EmojiData FamilyMan,
-        Boy,
-        Boy = new EmojiData
+    public static EmojiData FamilyManBoyBoy = new EmojiData
+    {
+        Emoji = "👨‍👦‍👦",
+        Description = "family: man, boy, boy",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👨‍👦‍👦",
-            Description = "family: man, boy, boy",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_man_boy_boy"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "10.0"
-        };
+            "family_man_boy_boy"
+        },
+        PersianKeywords = new[]
+        {
+            "family_man_boy_boy"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "10.0"
+    };
 
-    public static EmojiData FamilyMan,
-        Girl = new EmojiData
+    public static EmojiData FamilyManGirl = new EmojiData
+    {
+        Emoji = "👨‍👧",
+        Description = "family: man, girl",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👨‍👧",
-            Description = "family: man, girl",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_man_girl"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "10.0"
-        };
+            "family_man_girl"
+        },
+        PersianKeywords = new[]
+        {
+            "family_man_girl"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "10.0"
+    };
 
-    public static EmojiData FamilyMan,
-        Girl,
-        Boy = new EmojiData
+    public static EmojiData FamilyManGirlBoy = new EmojiData
+    {
+        Emoji = "👨‍👧‍👦",
+        Description = "family: man, girl, boy",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👨‍👧‍👦",
-            Description = "family: man, girl, boy",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_man_girl_boy"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "10.0"
-        };
+            "family_man_girl_boy"
+        },
+        PersianKeywords = new[]
+        {
+            "family_man_girl_boy"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "10.0"
+    };
 
-    public static EmojiData FamilyMan,
-        Girl,
-        Girl = new EmojiData
+    public static EmojiData FamilyManGirlGirl = new EmojiData
+    {
+        Emoji = "👨‍👧‍👧",
+        Description = "family: man, girl, girl",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👨‍👧‍👧",
-            Description = "family: man, girl, girl",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_man_girl_girl"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "10.0"
-        };
+            "family_man_girl_girl"
+        },
+        PersianKeywords = new[]
+        {
+            "family_man_girl_girl"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "10.0"
+    };
 
-    public static EmojiData FamilyWoman,
-        Boy = new EmojiData
+    public static EmojiData FamilyWomanBoy = new EmojiData
+    {
+        Emoji = "👩‍👦",
+        Description = "family: woman, boy",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👩‍👦",
-            Description = "family: woman, boy",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_woman_boy"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "10.0"
-        };
+            "family_woman_boy"
+        },
+        PersianKeywords = new[]
+        {
+            "family_woman_boy"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "10.0"
+    };
 
-    public static EmojiData FamilyWoman,
-        Boy,
-        Boy = new EmojiData
+    public static EmojiData FamilyWomanBoyBoy = new EmojiData
+    {
+        Emoji = "👩‍👦‍👦",
+        Description = "family: woman, boy, boy",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👩‍👦‍👦",
-            Description = "family: woman, boy, boy",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_woman_boy_boy"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "10.0"
-        };
+            "family_woman_boy_boy"
+        },
+        PersianKeywords = new[]
+        {
+            "family_woman_boy_boy"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "10.0"
+    };
 
-    public static EmojiData FamilyWoman,
-        Girl = new EmojiData
+    public static EmojiData FamilyWomanGirl = new EmojiData
+    {
+        Emoji = "👩‍👧",
+        Description = "family: woman, girl",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👩‍👧",
-            Description = "family: woman, girl",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_woman_girl"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "10.0"
-        };
+            "family_woman_girl"
+        },
+        PersianKeywords = new[]
+        {
+            "family_woman_girl"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "10.0"
+    };
 
-    public static EmojiData FamilyWoman,
-        Girl,
-        Boy = new EmojiData
+    public static EmojiData FamilyWomanGirlBoy = new EmojiData
+    {
+        Emoji = "👩‍👧‍👦",
+        Description = "family: woman, girl, boy",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👩‍👧‍👦",
-            Description = "family: woman, girl, boy",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_woman_girl_boy"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "10.0"
-        };
+            "family_woman_girl_boy"
+        },
+        PersianKeywords = new[]
+        {
+            "family_woman_girl_boy"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "10.0"
+    };
 
-    public static EmojiData FamilyWoman,
-        Girl,
-        Girl = new EmojiData
+    public static EmojiData FamilyWomanGirlGirl = new EmojiData
+    {
+        Emoji = "👩‍👧‍👧",
+        Description = "family: woman, girl, girl",
+        Category = "People & Body",
+        Aliases = new[]
         {
-            Emoji = "👩‍👧‍👧",
-            Description = "family: woman, girl, girl",
-            Category = "People & Body",
-            Aliases = new[]
-            {
-                "family_woman_girl_girl"
-            },
-            UnicodeVersion = "6.0",
-            IosVersion = "10.0"
-        };
+            "family_woman_girl_girl"
+        },
+        PersianKeywords = new[]
+        {
+            "family_woman_girl_girl"
+        },
+        UnicodeVersion = "6.0",
+        IosVersion = "10.0"
+    };
 
     public static EmojiData SpeakingHead = new EmojiData
     {
@@ -7639,6 +9839,10 @@ public static partial class Emojis
         Description = "speaking head",
         Category = "People & Body",
         Aliases = new[]
+        {
+            "speaking_head"
+        },
+        PersianKeywords = new[]
         {
             "speaking_head"
         },
@@ -7659,6 +9863,11 @@ public static partial class Emojis
         {
             "user"
         },
+        PersianKeywords = new[]
+        {
+            "bust_in_silhouette",
+            "user"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -7674,6 +9883,13 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "users",
+            "group",
+            "team"
+        },
+        PersianKeywords = new[]
+        {
+            "busts_in_silhouette",
             "users",
             "group",
             "team"
@@ -7696,6 +9912,12 @@ public static partial class Emojis
             "feet",
             "tracks"
         },
+        PersianKeywords = new[]
+        {
+            "footprints",
+            "feet",
+            "tracks"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -7706,6 +9928,10 @@ public static partial class Emojis
         Description = "monkey face",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "monkey_face"
+        },
+        PersianKeywords = new[]
         {
             "monkey_face"
         },
@@ -7722,6 +9948,10 @@ public static partial class Emojis
         {
             "monkey"
         },
+        PersianKeywords = new[]
+        {
+            "monkey"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -7735,6 +9965,10 @@ public static partial class Emojis
         {
             "gorilla"
         },
+        PersianKeywords = new[]
+        {
+            "gorilla"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -7745,6 +9979,10 @@ public static partial class Emojis
         Description = "orangutan",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "orangutan"
+        },
+        PersianKeywords = new[]
         {
             "orangutan"
         },
@@ -7765,6 +10003,11 @@ public static partial class Emojis
         {
             "pet"
         },
+        PersianKeywords = new[]
+        {
+            "dog",
+            "pet"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -7775,6 +10018,10 @@ public static partial class Emojis
         Description = "dog",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "dog2"
+        },
+        PersianKeywords = new[]
         {
             "dog2"
         },
@@ -7791,6 +10038,10 @@ public static partial class Emojis
         {
             "guide_dog"
         },
+        PersianKeywords = new[]
+        {
+            "guide_dog"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -7801,6 +10052,10 @@ public static partial class Emojis
         Description = "service dog",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "service_dog"
+        },
+        PersianKeywords = new[]
         {
             "service_dog"
         },
@@ -7821,6 +10076,11 @@ public static partial class Emojis
         {
             "dog"
         },
+        PersianKeywords = new[]
+        {
+            "poodle",
+            "dog"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -7831,6 +10091,10 @@ public static partial class Emojis
         Description = "wolf",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "wolf"
+        },
+        PersianKeywords = new[]
         {
             "wolf"
         },
@@ -7847,6 +10111,10 @@ public static partial class Emojis
         {
             "fox_face"
         },
+        PersianKeywords = new[]
+        {
+            "fox_face"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -7857,6 +10125,10 @@ public static partial class Emojis
         Description = "raccoon",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "raccoon"
+        },
+        PersianKeywords = new[]
         {
             "raccoon"
         },
@@ -7877,6 +10149,11 @@ public static partial class Emojis
         {
             "pet"
         },
+        PersianKeywords = new[]
+        {
+            "cat",
+            "pet"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -7887,6 +10164,10 @@ public static partial class Emojis
         Description = "cat",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "cat2"
+        },
+        PersianKeywords = new[]
         {
             "cat2"
         },
@@ -7903,6 +10184,10 @@ public static partial class Emojis
         {
             "lion"
         },
+        PersianKeywords = new[]
+        {
+            "lion"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -7913,6 +10198,10 @@ public static partial class Emojis
         Description = "tiger face",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "tiger"
+        },
+        PersianKeywords = new[]
         {
             "tiger"
         },
@@ -7929,6 +10218,10 @@ public static partial class Emojis
         {
             "tiger2"
         },
+        PersianKeywords = new[]
+        {
+            "tiger2"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -7942,6 +10235,10 @@ public static partial class Emojis
         {
             "leopard"
         },
+        PersianKeywords = new[]
+        {
+            "leopard"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -7952,6 +10249,10 @@ public static partial class Emojis
         Description = "horse face",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "horse"
+        },
+        PersianKeywords = new[]
         {
             "horse"
         },
@@ -7972,6 +10273,11 @@ public static partial class Emojis
         {
             "speed"
         },
+        PersianKeywords = new[]
+        {
+            "racehorse",
+            "speed"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -7982,6 +10288,10 @@ public static partial class Emojis
         Description = "unicorn",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "unicorn"
+        },
+        PersianKeywords = new[]
         {
             "unicorn"
         },
@@ -7998,6 +10308,10 @@ public static partial class Emojis
         {
             "zebra"
         },
+        PersianKeywords = new[]
+        {
+            "zebra"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -8008,6 +10322,10 @@ public static partial class Emojis
         Description = "deer",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "deer"
+        },
+        PersianKeywords = new[]
         {
             "deer"
         },
@@ -8024,6 +10342,10 @@ public static partial class Emojis
         {
             "cow"
         },
+        PersianKeywords = new[]
+        {
+            "cow"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8034,6 +10356,10 @@ public static partial class Emojis
         Description = "ox",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "ox"
+        },
+        PersianKeywords = new[]
         {
             "ox"
         },
@@ -8050,6 +10376,10 @@ public static partial class Emojis
         {
             "water_buffalo"
         },
+        PersianKeywords = new[]
+        {
+            "water_buffalo"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8060,6 +10390,10 @@ public static partial class Emojis
         Description = "cow",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "cow2"
+        },
+        PersianKeywords = new[]
         {
             "cow2"
         },
@@ -8076,6 +10410,10 @@ public static partial class Emojis
         {
             "pig"
         },
+        PersianKeywords = new[]
+        {
+            "pig"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8086,6 +10424,10 @@ public static partial class Emojis
         Description = "pig",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "pig2"
+        },
+        PersianKeywords = new[]
         {
             "pig2"
         },
@@ -8102,6 +10444,10 @@ public static partial class Emojis
         {
             "boar"
         },
+        PersianKeywords = new[]
+        {
+            "boar"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8112,6 +10458,10 @@ public static partial class Emojis
         Description = "pig nose",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "pig_nose"
+        },
+        PersianKeywords = new[]
         {
             "pig_nose"
         },
@@ -8128,6 +10478,10 @@ public static partial class Emojis
         {
             "ram"
         },
+        PersianKeywords = new[]
+        {
+            "ram"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8141,6 +10495,10 @@ public static partial class Emojis
         {
             "sheep"
         },
+        PersianKeywords = new[]
+        {
+            "sheep"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8151,6 +10509,10 @@ public static partial class Emojis
         Description = "goat",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "goat"
+        },
+        PersianKeywords = new[]
         {
             "goat"
         },
@@ -8171,6 +10533,11 @@ public static partial class Emojis
         {
             "desert"
         },
+        PersianKeywords = new[]
+        {
+            "dromedary_camel",
+            "desert"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8181,6 +10548,10 @@ public static partial class Emojis
         Description = "two-hump camel",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "camel"
+        },
+        PersianKeywords = new[]
         {
             "camel"
         },
@@ -8197,6 +10568,10 @@ public static partial class Emojis
         {
             "llama"
         },
+        PersianKeywords = new[]
+        {
+            "llama"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -8207,6 +10582,10 @@ public static partial class Emojis
         Description = "giraffe",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "giraffe"
+        },
+        PersianKeywords = new[]
         {
             "giraffe"
         },
@@ -8223,6 +10602,10 @@ public static partial class Emojis
         {
             "elephant"
         },
+        PersianKeywords = new[]
+        {
+            "elephant"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8233,6 +10616,10 @@ public static partial class Emojis
         Description = "rhinoceros",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "rhinoceros"
+        },
+        PersianKeywords = new[]
         {
             "rhinoceros"
         },
@@ -8249,6 +10636,10 @@ public static partial class Emojis
         {
             "hippopotamus"
         },
+        PersianKeywords = new[]
+        {
+            "hippopotamus"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -8259,6 +10650,10 @@ public static partial class Emojis
         Description = "mouse face",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "mouse"
+        },
+        PersianKeywords = new[]
         {
             "mouse"
         },
@@ -8275,6 +10670,10 @@ public static partial class Emojis
         {
             "mouse2"
         },
+        PersianKeywords = new[]
+        {
+            "mouse2"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8285,6 +10684,10 @@ public static partial class Emojis
         Description = "rat",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "rat"
+        },
+        PersianKeywords = new[]
         {
             "rat"
         },
@@ -8305,6 +10708,11 @@ public static partial class Emojis
         {
             "pet"
         },
+        PersianKeywords = new[]
+        {
+            "hamster",
+            "pet"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8322,6 +10730,11 @@ public static partial class Emojis
         {
             "bunny"
         },
+        PersianKeywords = new[]
+        {
+            "rabbit",
+            "bunny"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8332,6 +10745,10 @@ public static partial class Emojis
         Description = "rabbit",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "rabbit2"
+        },
+        PersianKeywords = new[]
         {
             "rabbit2"
         },
@@ -8348,6 +10765,10 @@ public static partial class Emojis
         {
             "chipmunk"
         },
+        PersianKeywords = new[]
+        {
+            "chipmunk"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -8358,6 +10779,10 @@ public static partial class Emojis
         Description = "hedgehog",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "hedgehog"
+        },
+        PersianKeywords = new[]
         {
             "hedgehog"
         },
@@ -8374,6 +10799,10 @@ public static partial class Emojis
         {
             "bat"
         },
+        PersianKeywords = new[]
+        {
+            "bat"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -8384,6 +10813,10 @@ public static partial class Emojis
         Description = "bear",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "bear"
+        },
+        PersianKeywords = new[]
         {
             "bear"
         },
@@ -8400,6 +10833,10 @@ public static partial class Emojis
         {
             "koala"
         },
+        PersianKeywords = new[]
+        {
+            "koala"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8410,6 +10847,10 @@ public static partial class Emojis
         Description = "panda",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "panda_face"
+        },
+        PersianKeywords = new[]
         {
             "panda_face"
         },
@@ -8426,6 +10867,10 @@ public static partial class Emojis
         {
             "sloth"
         },
+        PersianKeywords = new[]
+        {
+            "sloth"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -8436,6 +10881,10 @@ public static partial class Emojis
         Description = "otter",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "otter"
+        },
+        PersianKeywords = new[]
         {
             "otter"
         },
@@ -8452,6 +10901,10 @@ public static partial class Emojis
         {
             "skunk"
         },
+        PersianKeywords = new[]
+        {
+            "skunk"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -8462,6 +10915,10 @@ public static partial class Emojis
         Description = "kangaroo",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "kangaroo"
+        },
+        PersianKeywords = new[]
         {
             "kangaroo"
         },
@@ -8478,6 +10935,10 @@ public static partial class Emojis
         {
             "badger"
         },
+        PersianKeywords = new[]
+        {
+            "badger"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -8488,6 +10949,11 @@ public static partial class Emojis
         Description = "paw prints",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "feet",
+            "paw_prints"
+        },
+        PersianKeywords = new[]
         {
             "feet",
             "paw_prints"
@@ -8509,6 +10975,11 @@ public static partial class Emojis
         {
             "thanksgiving"
         },
+        PersianKeywords = new[]
+        {
+            "turkey",
+            "thanksgiving"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -8519,6 +10990,10 @@ public static partial class Emojis
         Description = "chicken",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "chicken"
+        },
+        PersianKeywords = new[]
         {
             "chicken"
         },
@@ -8535,6 +11010,10 @@ public static partial class Emojis
         {
             "rooster"
         },
+        PersianKeywords = new[]
+        {
+            "rooster"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8545,6 +11024,10 @@ public static partial class Emojis
         Description = "hatching chick",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "hatching_chick"
+        },
+        PersianKeywords = new[]
         {
             "hatching_chick"
         },
@@ -8561,6 +11044,10 @@ public static partial class Emojis
         {
             "baby_chick"
         },
+        PersianKeywords = new[]
+        {
+            "baby_chick"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8571,6 +11058,10 @@ public static partial class Emojis
         Description = "front-facing baby chick",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "hatched_chick"
+        },
+        PersianKeywords = new[]
         {
             "hatched_chick"
         },
@@ -8587,6 +11078,10 @@ public static partial class Emojis
         {
             "bird"
         },
+        PersianKeywords = new[]
+        {
+            "bird"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8597,6 +11092,10 @@ public static partial class Emojis
         Description = "penguin",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "penguin"
+        },
+        PersianKeywords = new[]
         {
             "penguin"
         },
@@ -8617,6 +11116,11 @@ public static partial class Emojis
         {
             "peace"
         },
+        PersianKeywords = new[]
+        {
+            "dove",
+            "peace"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -8627,6 +11131,10 @@ public static partial class Emojis
         Description = "eagle",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "eagle"
+        },
+        PersianKeywords = new[]
         {
             "eagle"
         },
@@ -8643,6 +11151,10 @@ public static partial class Emojis
         {
             "duck"
         },
+        PersianKeywords = new[]
+        {
+            "duck"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -8653,6 +11165,10 @@ public static partial class Emojis
         Description = "swan",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "swan"
+        },
+        PersianKeywords = new[]
         {
             "swan"
         },
@@ -8669,6 +11185,10 @@ public static partial class Emojis
         {
             "owl"
         },
+        PersianKeywords = new[]
+        {
+            "owl"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -8679,6 +11199,10 @@ public static partial class Emojis
         Description = "flamingo",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "flamingo"
+        },
+        PersianKeywords = new[]
         {
             "flamingo"
         },
@@ -8695,6 +11219,10 @@ public static partial class Emojis
         {
             "peacock"
         },
+        PersianKeywords = new[]
+        {
+            "peacock"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -8705,6 +11233,10 @@ public static partial class Emojis
         Description = "parrot",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "parrot"
+        },
+        PersianKeywords = new[]
         {
             "parrot"
         },
@@ -8721,6 +11253,10 @@ public static partial class Emojis
         {
             "frog"
         },
+        PersianKeywords = new[]
+        {
+            "frog"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8731,6 +11267,10 @@ public static partial class Emojis
         Description = "crocodile",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "crocodile"
+        },
+        PersianKeywords = new[]
         {
             "crocodile"
         },
@@ -8751,6 +11291,11 @@ public static partial class Emojis
         {
             "slow"
         },
+        PersianKeywords = new[]
+        {
+            "turtle",
+            "slow"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8761,6 +11306,10 @@ public static partial class Emojis
         Description = "lizard",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "lizard"
+        },
+        PersianKeywords = new[]
         {
             "lizard"
         },
@@ -8777,6 +11326,10 @@ public static partial class Emojis
         {
             "snake"
         },
+        PersianKeywords = new[]
+        {
+            "snake"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8790,6 +11343,10 @@ public static partial class Emojis
         {
             "dragon_face"
         },
+        PersianKeywords = new[]
+        {
+            "dragon_face"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8800,6 +11357,10 @@ public static partial class Emojis
         Description = "dragon",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "dragon"
+        },
+        PersianKeywords = new[]
         {
             "dragon"
         },
@@ -8820,6 +11381,11 @@ public static partial class Emojis
         {
             "dinosaur"
         },
+        PersianKeywords = new[]
+        {
+            "sauropod",
+            "dinosaur"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -8835,6 +11401,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "dinosaur"
+        },
+        PersianKeywords = new[]
+        {
+            "t-rex",
             "dinosaur"
         },
         UnicodeVersion = "11.0",
@@ -8854,6 +11425,11 @@ public static partial class Emojis
         {
             "sea"
         },
+        PersianKeywords = new[]
+        {
+            "whale",
+            "sea"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8864,6 +11440,10 @@ public static partial class Emojis
         Description = "whale",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "whale2"
+        },
+        PersianKeywords = new[]
         {
             "whale2"
         },
@@ -8881,6 +11461,11 @@ public static partial class Emojis
             "dolphin",
             "flipper"
         },
+        PersianKeywords = new[]
+        {
+            "dolphin",
+            "flipper"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8891,6 +11476,10 @@ public static partial class Emojis
         Description = "fish",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "fish"
+        },
+        PersianKeywords = new[]
         {
             "fish"
         },
@@ -8907,6 +11496,10 @@ public static partial class Emojis
         {
             "tropical_fish"
         },
+        PersianKeywords = new[]
+        {
+            "tropical_fish"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8917,6 +11510,10 @@ public static partial class Emojis
         Description = "blowfish",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "blowfish"
+        },
+        PersianKeywords = new[]
         {
             "blowfish"
         },
@@ -8933,6 +11530,10 @@ public static partial class Emojis
         {
             "shark"
         },
+        PersianKeywords = new[]
+        {
+            "shark"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -8943,6 +11544,10 @@ public static partial class Emojis
         Description = "octopus",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "octopus"
+        },
+        PersianKeywords = new[]
         {
             "octopus"
         },
@@ -8964,6 +11569,12 @@ public static partial class Emojis
             "sea",
             "beach"
         },
+        PersianKeywords = new[]
+        {
+            "shell",
+            "sea",
+            "beach"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8981,6 +11592,11 @@ public static partial class Emojis
         {
             "slow"
         },
+        PersianKeywords = new[]
+        {
+            "snail",
+            "slow"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -8991,6 +11607,10 @@ public static partial class Emojis
         Description = "butterfly",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "butterfly"
+        },
+        PersianKeywords = new[]
         {
             "butterfly"
         },
@@ -9007,6 +11627,10 @@ public static partial class Emojis
         {
             "bug"
         },
+        PersianKeywords = new[]
+        {
+            "bug"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9020,6 +11644,10 @@ public static partial class Emojis
         {
             "ant"
         },
+        PersianKeywords = new[]
+        {
+            "ant"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9030,6 +11658,11 @@ public static partial class Emojis
         Description = "honeybee",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "bee",
+            "honeybee"
+        },
+        PersianKeywords = new[]
         {
             "bee",
             "honeybee"
@@ -9051,6 +11684,11 @@ public static partial class Emojis
         {
             "bug"
         },
+        PersianKeywords = new[]
+        {
+            "beetle",
+            "bug"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9061,6 +11699,10 @@ public static partial class Emojis
         Description = "cricket",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "cricket"
+        },
+        PersianKeywords = new[]
         {
             "cricket"
         },
@@ -9077,6 +11719,10 @@ public static partial class Emojis
         {
             "spider"
         },
+        PersianKeywords = new[]
+        {
+            "spider"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -9087,6 +11733,10 @@ public static partial class Emojis
         Description = "spider web",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "spider_web"
+        },
+        PersianKeywords = new[]
         {
             "spider_web"
         },
@@ -9103,6 +11753,10 @@ public static partial class Emojis
         {
             "scorpion"
         },
+        PersianKeywords = new[]
+        {
+            "scorpion"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -9113,6 +11767,10 @@ public static partial class Emojis
         Description = "mosquito",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "mosquito"
+        },
+        PersianKeywords = new[]
         {
             "mosquito"
         },
@@ -9133,6 +11791,11 @@ public static partial class Emojis
         {
             "germ"
         },
+        PersianKeywords = new[]
+        {
+            "microbe",
+            "germ"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -9148,6 +11811,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "flowers"
+        },
+        PersianKeywords = new[]
+        {
+            "bouquet",
             "flowers"
         },
         UnicodeVersion = "6.0",
@@ -9168,6 +11836,12 @@ public static partial class Emojis
             "flower",
             "spring"
         },
+        PersianKeywords = new[]
+        {
+            "cherry_blossom",
+            "flower",
+            "spring"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9181,6 +11855,10 @@ public static partial class Emojis
         {
             "white_flower"
         },
+        PersianKeywords = new[]
+        {
+            "white_flower"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9191,6 +11869,10 @@ public static partial class Emojis
         Description = "rosette",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "rosette"
+        },
+        PersianKeywords = new[]
         {
             "rosette"
         },
@@ -9211,6 +11893,11 @@ public static partial class Emojis
         {
             "flower"
         },
+        PersianKeywords = new[]
+        {
+            "rose",
+            "flower"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9221,6 +11908,10 @@ public static partial class Emojis
         Description = "wilted flower",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "wilted_flower"
+        },
+        PersianKeywords = new[]
         {
             "wilted_flower"
         },
@@ -9237,6 +11928,10 @@ public static partial class Emojis
         {
             "hibiscus"
         },
+        PersianKeywords = new[]
+        {
+            "hibiscus"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9250,6 +11945,10 @@ public static partial class Emojis
         {
             "sunflower"
         },
+        PersianKeywords = new[]
+        {
+            "sunflower"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9260,6 +11959,10 @@ public static partial class Emojis
         Description = "blossom",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "blossom"
+        },
+        PersianKeywords = new[]
         {
             "blossom"
         },
@@ -9280,6 +11983,11 @@ public static partial class Emojis
         {
             "flower"
         },
+        PersianKeywords = new[]
+        {
+            "tulip",
+            "flower"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9295,6 +12003,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "plant"
+        },
+        PersianKeywords = new[]
+        {
+            "seedling",
             "plant"
         },
         UnicodeVersion = "6.0",
@@ -9314,6 +12027,11 @@ public static partial class Emojis
         {
             "wood"
         },
+        PersianKeywords = new[]
+        {
+            "evergreen_tree",
+            "wood"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9331,6 +12049,11 @@ public static partial class Emojis
         {
             "wood"
         },
+        PersianKeywords = new[]
+        {
+            "deciduous_tree",
+            "wood"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9341,6 +12064,10 @@ public static partial class Emojis
         Description = "palm tree",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "palm_tree"
+        },
+        PersianKeywords = new[]
         {
             "palm_tree"
         },
@@ -9357,6 +12084,10 @@ public static partial class Emojis
         {
             "cactus"
         },
+        PersianKeywords = new[]
+        {
+            "cactus"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9367,6 +12098,10 @@ public static partial class Emojis
         Description = "sheaf of rice",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "ear_of_rice"
+        },
+        PersianKeywords = new[]
         {
             "ear_of_rice"
         },
@@ -9383,6 +12118,10 @@ public static partial class Emojis
         {
             "herb"
         },
+        PersianKeywords = new[]
+        {
+            "herb"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9393,6 +12132,10 @@ public static partial class Emojis
         Description = "shamrock",
         Category = "Animals & Nature",
         Aliases = new[]
+        {
+            "shamrock"
+        },
+        PersianKeywords = new[]
         {
             "shamrock"
         },
@@ -9413,6 +12156,11 @@ public static partial class Emojis
         {
             "luck"
         },
+        PersianKeywords = new[]
+        {
+            "four_leaf_clover",
+            "luck"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9428,6 +12176,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "canada"
+        },
+        PersianKeywords = new[]
+        {
+            "maple_leaf",
             "canada"
         },
         UnicodeVersion = "6.0",
@@ -9447,6 +12200,11 @@ public static partial class Emojis
         {
             "autumn"
         },
+        PersianKeywords = new[]
+        {
+            "fallen_leaf",
+            "autumn"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9464,6 +12222,11 @@ public static partial class Emojis
         {
             "leaf"
         },
+        PersianKeywords = new[]
+        {
+            "leaves",
+            "leaf"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9474,6 +12237,10 @@ public static partial class Emojis
         Description = "grapes",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "grapes"
+        },
+        PersianKeywords = new[]
         {
             "grapes"
         },
@@ -9490,6 +12257,10 @@ public static partial class Emojis
         {
             "melon"
         },
+        PersianKeywords = new[]
+        {
+            "melon"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9500,6 +12271,10 @@ public static partial class Emojis
         Description = "watermelon",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "watermelon"
+        },
+        PersianKeywords = new[]
         {
             "watermelon"
         },
@@ -9518,6 +12293,12 @@ public static partial class Emojis
             "orange",
             "mandarin"
         },
+        PersianKeywords = new[]
+        {
+            "tangerine",
+            "orange",
+            "mandarin"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9528,6 +12309,10 @@ public static partial class Emojis
         Description = "lemon",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "lemon"
+        },
+        PersianKeywords = new[]
         {
             "lemon"
         },
@@ -9548,6 +12333,11 @@ public static partial class Emojis
         {
             "fruit"
         },
+        PersianKeywords = new[]
+        {
+            "banana",
+            "fruit"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9558,6 +12348,10 @@ public static partial class Emojis
         Description = "pineapple",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "pineapple"
+        },
+        PersianKeywords = new[]
         {
             "pineapple"
         },
@@ -9574,6 +12368,10 @@ public static partial class Emojis
         {
             "mango"
         },
+        PersianKeywords = new[]
+        {
+            "mango"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -9584,6 +12382,10 @@ public static partial class Emojis
         Description = "red apple",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "apple"
+        },
+        PersianKeywords = new[]
         {
             "apple"
         },
@@ -9604,6 +12406,11 @@ public static partial class Emojis
         {
             "fruit"
         },
+        PersianKeywords = new[]
+        {
+            "green_apple",
+            "fruit"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9617,6 +12424,10 @@ public static partial class Emojis
         {
             "pear"
         },
+        PersianKeywords = new[]
+        {
+            "pear"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9627,6 +12438,10 @@ public static partial class Emojis
         Description = "peach",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "peach"
+        },
+        PersianKeywords = new[]
         {
             "peach"
         },
@@ -9647,6 +12462,11 @@ public static partial class Emojis
         {
             "fruit"
         },
+        PersianKeywords = new[]
+        {
+            "cherries",
+            "fruit"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9664,6 +12484,11 @@ public static partial class Emojis
         {
             "fruit"
         },
+        PersianKeywords = new[]
+        {
+            "strawberry",
+            "fruit"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9674,6 +12499,10 @@ public static partial class Emojis
         Description = "kiwi fruit",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "kiwi_fruit"
+        },
+        PersianKeywords = new[]
         {
             "kiwi_fruit"
         },
@@ -9690,6 +12519,10 @@ public static partial class Emojis
         {
             "tomato"
         },
+        PersianKeywords = new[]
+        {
+            "tomato"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9703,6 +12536,10 @@ public static partial class Emojis
         {
             "coconut"
         },
+        PersianKeywords = new[]
+        {
+            "coconut"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -9713,6 +12550,10 @@ public static partial class Emojis
         Description = "avocado",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "avocado"
+        },
+        PersianKeywords = new[]
         {
             "avocado"
         },
@@ -9733,6 +12574,11 @@ public static partial class Emojis
         {
             "aubergine"
         },
+        PersianKeywords = new[]
+        {
+            "eggplant",
+            "aubergine"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9743,6 +12589,10 @@ public static partial class Emojis
         Description = "potato",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "potato"
+        },
+        PersianKeywords = new[]
         {
             "potato"
         },
@@ -9759,6 +12609,10 @@ public static partial class Emojis
         {
             "carrot"
         },
+        PersianKeywords = new[]
+        {
+            "carrot"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -9769,6 +12623,10 @@ public static partial class Emojis
         Description = "ear of corn",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "corn"
+        },
+        PersianKeywords = new[]
         {
             "corn"
         },
@@ -9789,6 +12647,11 @@ public static partial class Emojis
         {
             "spicy"
         },
+        PersianKeywords = new[]
+        {
+            "hot_pepper",
+            "spicy"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -9799,6 +12662,10 @@ public static partial class Emojis
         Description = "cucumber",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "cucumber"
+        },
+        PersianKeywords = new[]
         {
             "cucumber"
         },
@@ -9815,6 +12682,10 @@ public static partial class Emojis
         {
             "leafy_green"
         },
+        PersianKeywords = new[]
+        {
+            "leafy_green"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -9825,6 +12696,10 @@ public static partial class Emojis
         Description = "broccoli",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "broccoli"
+        },
+        PersianKeywords = new[]
         {
             "broccoli"
         },
@@ -9841,6 +12716,10 @@ public static partial class Emojis
         {
             "garlic"
         },
+        PersianKeywords = new[]
+        {
+            "garlic"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -9851,6 +12730,10 @@ public static partial class Emojis
         Description = "onion",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "onion"
+        },
+        PersianKeywords = new[]
         {
             "onion"
         },
@@ -9867,6 +12750,10 @@ public static partial class Emojis
         {
             "mushroom"
         },
+        PersianKeywords = new[]
+        {
+            "mushroom"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9880,6 +12767,10 @@ public static partial class Emojis
         {
             "peanuts"
         },
+        PersianKeywords = new[]
+        {
+            "peanuts"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -9890,6 +12781,10 @@ public static partial class Emojis
         Description = "chestnut",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "chestnut"
+        },
+        PersianKeywords = new[]
         {
             "chestnut"
         },
@@ -9910,6 +12805,11 @@ public static partial class Emojis
         {
             "toast"
         },
+        PersianKeywords = new[]
+        {
+            "bread",
+            "toast"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -9920,6 +12820,10 @@ public static partial class Emojis
         Description = "croissant",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "croissant"
+        },
+        PersianKeywords = new[]
         {
             "croissant"
         },
@@ -9936,6 +12840,10 @@ public static partial class Emojis
         {
             "baguette_bread"
         },
+        PersianKeywords = new[]
+        {
+            "baguette_bread"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -9946,6 +12854,10 @@ public static partial class Emojis
         Description = "pretzel",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "pretzel"
+        },
+        PersianKeywords = new[]
         {
             "pretzel"
         },
@@ -9962,6 +12874,10 @@ public static partial class Emojis
         {
             "bagel"
         },
+        PersianKeywords = new[]
+        {
+            "bagel"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -9972,6 +12888,10 @@ public static partial class Emojis
         Description = "pancakes",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "pancakes"
+        },
+        PersianKeywords = new[]
         {
             "pancakes"
         },
@@ -9988,6 +12908,10 @@ public static partial class Emojis
         {
             "waffle"
         },
+        PersianKeywords = new[]
+        {
+            "waffle"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -10001,6 +12925,10 @@ public static partial class Emojis
         {
             "cheese"
         },
+        PersianKeywords = new[]
+        {
+            "cheese"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -10011,6 +12939,10 @@ public static partial class Emojis
         Description = "meat on bone",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "meat_on_bone"
+        },
+        PersianKeywords = new[]
         {
             "meat_on_bone"
         },
@@ -10032,6 +12964,12 @@ public static partial class Emojis
             "meat",
             "chicken"
         },
+        PersianKeywords = new[]
+        {
+            "poultry_leg",
+            "meat",
+            "chicken"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -10045,6 +12983,10 @@ public static partial class Emojis
         {
             "cut_of_meat"
         },
+        PersianKeywords = new[]
+        {
+            "cut_of_meat"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -10055,6 +12997,10 @@ public static partial class Emojis
         Description = "bacon",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "bacon"
+        },
+        PersianKeywords = new[]
         {
             "bacon"
         },
@@ -10075,6 +13021,11 @@ public static partial class Emojis
         {
             "burger"
         },
+        PersianKeywords = new[]
+        {
+            "hamburger",
+            "burger"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -10085,6 +13036,10 @@ public static partial class Emojis
         Description = "french fries",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "fries"
+        },
+        PersianKeywords = new[]
         {
             "fries"
         },
@@ -10101,6 +13056,10 @@ public static partial class Emojis
         {
             "pizza"
         },
+        PersianKeywords = new[]
+        {
+            "pizza"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -10111,6 +13070,10 @@ public static partial class Emojis
         Description = "hot dog",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "hotdog"
+        },
+        PersianKeywords = new[]
         {
             "hotdog"
         },
@@ -10127,6 +13090,10 @@ public static partial class Emojis
         {
             "sandwich"
         },
+        PersianKeywords = new[]
+        {
+            "sandwich"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -10137,6 +13104,10 @@ public static partial class Emojis
         Description = "taco",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "taco"
+        },
+        PersianKeywords = new[]
         {
             "taco"
         },
@@ -10153,6 +13124,10 @@ public static partial class Emojis
         {
             "burrito"
         },
+        PersianKeywords = new[]
+        {
+            "burrito"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -10163,6 +13138,10 @@ public static partial class Emojis
         Description = "stuffed flatbread",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "stuffed_flatbread"
+        },
+        PersianKeywords = new[]
         {
             "stuffed_flatbread"
         },
@@ -10179,6 +13158,10 @@ public static partial class Emojis
         {
             "falafel"
         },
+        PersianKeywords = new[]
+        {
+            "falafel"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -10189,6 +13172,10 @@ public static partial class Emojis
         Description = "egg",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "egg"
+        },
+        PersianKeywords = new[]
         {
             "egg"
         },
@@ -10209,6 +13196,11 @@ public static partial class Emojis
         {
             "breakfast"
         },
+        PersianKeywords = new[]
+        {
+            "fried_egg",
+            "breakfast"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -10227,6 +13219,12 @@ public static partial class Emojis
             "paella",
             "curry"
         },
+        PersianKeywords = new[]
+        {
+            "shallow_pan_of_food",
+            "paella",
+            "curry"
+        },
         UnicodeVersion = "",
         IosVersion = "10.2"
     };
@@ -10237,6 +13235,10 @@ public static partial class Emojis
         Description = "pot of food",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "stew"
+        },
+        PersianKeywords = new[]
         {
             "stew"
         },
@@ -10253,6 +13255,10 @@ public static partial class Emojis
         {
             "bowl_with_spoon"
         },
+        PersianKeywords = new[]
+        {
+            "bowl_with_spoon"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -10263,6 +13269,10 @@ public static partial class Emojis
         Description = "green salad",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "green_salad"
+        },
+        PersianKeywords = new[]
         {
             "green_salad"
         },
@@ -10279,6 +13289,10 @@ public static partial class Emojis
         {
             "popcorn"
         },
+        PersianKeywords = new[]
+        {
+            "popcorn"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -10289,6 +13303,10 @@ public static partial class Emojis
         Description = "butter",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "butter"
+        },
+        PersianKeywords = new[]
         {
             "butter"
         },
@@ -10305,6 +13323,10 @@ public static partial class Emojis
         {
             "salt"
         },
+        PersianKeywords = new[]
+        {
+            "salt"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -10315,6 +13337,10 @@ public static partial class Emojis
         Description = "canned food",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "canned_food"
+        },
+        PersianKeywords = new[]
         {
             "canned_food"
         },
@@ -10331,6 +13357,10 @@ public static partial class Emojis
         {
             "bento"
         },
+        PersianKeywords = new[]
+        {
+            "bento"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -10341,6 +13371,10 @@ public static partial class Emojis
         Description = "rice cracker",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "rice_cracker"
+        },
+        PersianKeywords = new[]
         {
             "rice_cracker"
         },
@@ -10357,6 +13391,10 @@ public static partial class Emojis
         {
             "rice_ball"
         },
+        PersianKeywords = new[]
+        {
+            "rice_ball"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -10370,6 +13408,10 @@ public static partial class Emojis
         {
             "rice"
         },
+        PersianKeywords = new[]
+        {
+            "rice"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -10380,6 +13422,10 @@ public static partial class Emojis
         Description = "curry rice",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "curry"
+        },
+        PersianKeywords = new[]
         {
             "curry"
         },
@@ -10400,6 +13446,11 @@ public static partial class Emojis
         {
             "noodle"
         },
+        PersianKeywords = new[]
+        {
+            "ramen",
+            "noodle"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -10417,6 +13468,11 @@ public static partial class Emojis
         {
             "pasta"
         },
+        PersianKeywords = new[]
+        {
+            "spaghetti",
+            "pasta"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -10427,6 +13483,10 @@ public static partial class Emojis
         Description = "roasted sweet potato",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "sweet_potato"
+        },
+        PersianKeywords = new[]
         {
             "sweet_potato"
         },
@@ -10443,6 +13503,10 @@ public static partial class Emojis
         {
             "oden"
         },
+        PersianKeywords = new[]
+        {
+            "oden"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -10453,6 +13517,10 @@ public static partial class Emojis
         Description = "sushi",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "sushi"
+        },
+        PersianKeywords = new[]
         {
             "sushi"
         },
@@ -10473,6 +13541,11 @@ public static partial class Emojis
         {
             "tempura"
         },
+        PersianKeywords = new[]
+        {
+            "fried_shrimp",
+            "tempura"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -10483,6 +13556,10 @@ public static partial class Emojis
         Description = "fish cake with swirl",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "fish_cake"
+        },
+        PersianKeywords = new[]
         {
             "fish_cake"
         },
@@ -10499,6 +13576,10 @@ public static partial class Emojis
         {
             "moon_cake"
         },
+        PersianKeywords = new[]
+        {
+            "moon_cake"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -10509,6 +13590,10 @@ public static partial class Emojis
         Description = "dango",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "dango"
+        },
+        PersianKeywords = new[]
         {
             "dango"
         },
@@ -10525,6 +13610,10 @@ public static partial class Emojis
         {
             "dumpling"
         },
+        PersianKeywords = new[]
+        {
+            "dumpling"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -10535,6 +13624,10 @@ public static partial class Emojis
         Description = "fortune cookie",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "fortune_cookie"
+        },
+        PersianKeywords = new[]
         {
             "fortune_cookie"
         },
@@ -10551,6 +13644,10 @@ public static partial class Emojis
         {
             "takeout_box"
         },
+        PersianKeywords = new[]
+        {
+            "takeout_box"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -10561,6 +13658,10 @@ public static partial class Emojis
         Description = "crab",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "crab"
+        },
+        PersianKeywords = new[]
         {
             "crab"
         },
@@ -10577,6 +13678,10 @@ public static partial class Emojis
         {
             "lobster"
         },
+        PersianKeywords = new[]
+        {
+            "lobster"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -10587,6 +13692,10 @@ public static partial class Emojis
         Description = "shrimp",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "shrimp"
+        },
+        PersianKeywords = new[]
         {
             "shrimp"
         },
@@ -10603,6 +13712,10 @@ public static partial class Emojis
         {
             "squid"
         },
+        PersianKeywords = new[]
+        {
+            "squid"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -10613,6 +13726,10 @@ public static partial class Emojis
         Description = "oyster",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "oyster"
+        },
+        PersianKeywords = new[]
         {
             "oyster"
         },
@@ -10629,6 +13746,10 @@ public static partial class Emojis
         {
             "icecream"
         },
+        PersianKeywords = new[]
+        {
+            "icecream"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -10639,6 +13760,10 @@ public static partial class Emojis
         Description = "shaved ice",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "shaved_ice"
+        },
+        PersianKeywords = new[]
         {
             "shaved_ice"
         },
@@ -10655,6 +13780,10 @@ public static partial class Emojis
         {
             "ice_cream"
         },
+        PersianKeywords = new[]
+        {
+            "ice_cream"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -10668,6 +13797,10 @@ public static partial class Emojis
         {
             "doughnut"
         },
+        PersianKeywords = new[]
+        {
+            "doughnut"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -10678,6 +13811,10 @@ public static partial class Emojis
         Description = "cookie",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "cookie"
+        },
+        PersianKeywords = new[]
         {
             "cookie"
         },
@@ -10698,6 +13835,11 @@ public static partial class Emojis
         {
             "party"
         },
+        PersianKeywords = new[]
+        {
+            "birthday",
+            "party"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -10715,6 +13857,11 @@ public static partial class Emojis
         {
             "dessert"
         },
+        PersianKeywords = new[]
+        {
+            "cake",
+            "dessert"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -10725,6 +13872,10 @@ public static partial class Emojis
         Description = "cupcake",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "cupcake"
+        },
+        PersianKeywords = new[]
         {
             "cupcake"
         },
@@ -10741,6 +13892,10 @@ public static partial class Emojis
         {
             "pie"
         },
+        PersianKeywords = new[]
+        {
+            "pie"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -10751,6 +13906,10 @@ public static partial class Emojis
         Description = "chocolate bar",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "chocolate_bar"
+        },
+        PersianKeywords = new[]
         {
             "chocolate_bar"
         },
@@ -10771,6 +13930,11 @@ public static partial class Emojis
         {
             "sweet"
         },
+        PersianKeywords = new[]
+        {
+            "candy",
+            "sweet"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -10781,6 +13945,10 @@ public static partial class Emojis
         Description = "lollipop",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "lollipop"
+        },
+        PersianKeywords = new[]
         {
             "lollipop"
         },
@@ -10797,6 +13965,10 @@ public static partial class Emojis
         {
             "custard"
         },
+        PersianKeywords = new[]
+        {
+            "custard"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -10807,6 +13979,10 @@ public static partial class Emojis
         Description = "honey pot",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "honey_pot"
+        },
+        PersianKeywords = new[]
         {
             "honey_pot"
         },
@@ -10827,6 +14003,11 @@ public static partial class Emojis
         {
             "milk"
         },
+        PersianKeywords = new[]
+        {
+            "baby_bottle",
+            "milk"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -10837,6 +14018,10 @@ public static partial class Emojis
         Description = "glass of milk",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "milk_glass"
+        },
+        PersianKeywords = new[]
         {
             "milk_glass"
         },
@@ -10858,6 +14043,12 @@ public static partial class Emojis
             "cafe",
             "espresso"
         },
+        PersianKeywords = new[]
+        {
+            "coffee",
+            "cafe",
+            "espresso"
+        },
         UnicodeVersion = "4.0",
         IosVersion = "6.0"
     };
@@ -10876,6 +14067,12 @@ public static partial class Emojis
             "green",
             "breakfast"
         },
+        PersianKeywords = new[]
+        {
+            "tea",
+            "green",
+            "breakfast"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -10886,6 +14083,10 @@ public static partial class Emojis
         Description = "sake",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "sake"
+        },
+        PersianKeywords = new[]
         {
             "sake"
         },
@@ -10908,6 +14109,13 @@ public static partial class Emojis
             "bubbly",
             "celebration"
         },
+        PersianKeywords = new[]
+        {
+            "champagne",
+            "bottle",
+            "bubbly",
+            "celebration"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -10918,6 +14126,10 @@ public static partial class Emojis
         Description = "wine glass",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "wine_glass"
+        },
+        PersianKeywords = new[]
         {
             "wine_glass"
         },
@@ -10938,6 +14150,11 @@ public static partial class Emojis
         {
             "drink"
         },
+        PersianKeywords = new[]
+        {
+            "cocktail",
+            "drink"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -10953,6 +14170,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "summer",
+            "vacation"
+        },
+        PersianKeywords = new[]
+        {
+            "tropical_drink",
             "summer",
             "vacation"
         },
@@ -10973,6 +14196,11 @@ public static partial class Emojis
         {
             "drink"
         },
+        PersianKeywords = new[]
+        {
+            "beer",
+            "drink"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -10988,6 +14216,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "drinks"
+        },
+        PersianKeywords = new[]
+        {
+            "beers",
             "drinks"
         },
         UnicodeVersion = "6.0",
@@ -11008,6 +14241,12 @@ public static partial class Emojis
             "cheers",
             "toast"
         },
+        PersianKeywords = new[]
+        {
+            "clinking_glasses",
+            "cheers",
+            "toast"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -11025,6 +14264,11 @@ public static partial class Emojis
         {
             "whisky"
         },
+        PersianKeywords = new[]
+        {
+            "tumbler_glass",
+            "whisky"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -11035,6 +14279,10 @@ public static partial class Emojis
         Description = "cup with straw",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "cup_with_straw"
+        },
+        PersianKeywords = new[]
         {
             "cup_with_straw"
         },
@@ -11051,6 +14299,10 @@ public static partial class Emojis
         {
             "beverage_box"
         },
+        PersianKeywords = new[]
+        {
+            "beverage_box"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -11061,6 +14313,10 @@ public static partial class Emojis
         Description = "mate",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "mate"
+        },
+        PersianKeywords = new[]
         {
             "mate"
         },
@@ -11077,6 +14333,10 @@ public static partial class Emojis
         {
             "ice_cube"
         },
+        PersianKeywords = new[]
+        {
+            "ice_cube"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -11087,6 +14347,10 @@ public static partial class Emojis
         Description = "chopsticks",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "chopsticks"
+        },
+        PersianKeywords = new[]
         {
             "chopsticks"
         },
@@ -11108,6 +14372,12 @@ public static partial class Emojis
             "dining",
             "dinner"
         },
+        PersianKeywords = new[]
+        {
+            "plate_with_cutlery",
+            "dining",
+            "dinner"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -11125,6 +14395,11 @@ public static partial class Emojis
         {
             "cutlery"
         },
+        PersianKeywords = new[]
+        {
+            "fork_and_knife",
+            "cutlery"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -11135,6 +14410,10 @@ public static partial class Emojis
         Description = "spoon",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "spoon"
+        },
+        PersianKeywords = new[]
         {
             "spoon"
         },
@@ -11157,6 +14436,13 @@ public static partial class Emojis
             "cut",
             "chop"
         },
+        PersianKeywords = new[]
+        {
+            "hocho",
+            "knife",
+            "cut",
+            "chop"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -11167,6 +14453,10 @@ public static partial class Emojis
         Description = "amphora",
         Category = "Food & Drink",
         Aliases = new[]
+        {
+            "amphora"
+        },
+        PersianKeywords = new[]
         {
             "amphora"
         },
@@ -11185,6 +14475,13 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "globe",
+            "world",
+            "international"
+        },
+        PersianKeywords = new[]
+        {
+            "earth_africa",
             "globe",
             "world",
             "international"
@@ -11208,6 +14505,13 @@ public static partial class Emojis
             "world",
             "international"
         },
+        PersianKeywords = new[]
+        {
+            "earth_americas",
+            "globe",
+            "world",
+            "international"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -11223,6 +14527,13 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "globe",
+            "world",
+            "international"
+        },
+        PersianKeywords = new[]
+        {
+            "earth_asia",
             "globe",
             "world",
             "international"
@@ -11246,6 +14557,13 @@ public static partial class Emojis
             "global",
             "international"
         },
+        PersianKeywords = new[]
+        {
+            "globe_with_meridians",
+            "world",
+            "global",
+            "international"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -11263,6 +14581,11 @@ public static partial class Emojis
         {
             "travel"
         },
+        PersianKeywords = new[]
+        {
+            "world_map",
+            "travel"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -11273,6 +14596,10 @@ public static partial class Emojis
         Description = "map of Japan",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "japan"
+        },
+        PersianKeywords = new[]
         {
             "japan"
         },
@@ -11289,6 +14616,10 @@ public static partial class Emojis
         {
             "compass"
         },
+        PersianKeywords = new[]
+        {
+            "compass"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -11299,6 +14630,10 @@ public static partial class Emojis
         Description = "snow-capped mountain",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "mountain_snow"
+        },
+        PersianKeywords = new[]
         {
             "mountain_snow"
         },
@@ -11315,6 +14650,10 @@ public static partial class Emojis
         {
             "mountain"
         },
+        PersianKeywords = new[]
+        {
+            "mountain"
+        },
         UnicodeVersion = "5.2",
         IosVersion = "9.1"
     };
@@ -11325,6 +14664,10 @@ public static partial class Emojis
         Description = "volcano",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "volcano"
+        },
+        PersianKeywords = new[]
         {
             "volcano"
         },
@@ -11341,6 +14684,10 @@ public static partial class Emojis
         {
             "mount_fuji"
         },
+        PersianKeywords = new[]
+        {
+            "mount_fuji"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -11351,6 +14698,10 @@ public static partial class Emojis
         Description = "camping",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "camping"
+        },
+        PersianKeywords = new[]
         {
             "camping"
         },
@@ -11367,6 +14718,10 @@ public static partial class Emojis
         {
             "beach_umbrella"
         },
+        PersianKeywords = new[]
+        {
+            "beach_umbrella"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -11377,6 +14732,10 @@ public static partial class Emojis
         Description = "desert",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "desert"
+        },
+        PersianKeywords = new[]
         {
             "desert"
         },
@@ -11393,6 +14752,10 @@ public static partial class Emojis
         {
             "desert_island"
         },
+        PersianKeywords = new[]
+        {
+            "desert_island"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -11403,6 +14766,10 @@ public static partial class Emojis
         Description = "national park",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "national_park"
+        },
+        PersianKeywords = new[]
         {
             "national_park"
         },
@@ -11419,6 +14786,10 @@ public static partial class Emojis
         {
             "stadium"
         },
+        PersianKeywords = new[]
+        {
+            "stadium"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -11429,6 +14800,10 @@ public static partial class Emojis
         Description = "classical building",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "classical_building"
+        },
+        PersianKeywords = new[]
         {
             "classical_building"
         },
@@ -11445,6 +14820,10 @@ public static partial class Emojis
         {
             "building_construction"
         },
+        PersianKeywords = new[]
+        {
+            "building_construction"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -11455,6 +14834,10 @@ public static partial class Emojis
         Description = "brick",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "bricks"
+        },
+        PersianKeywords = new[]
         {
             "bricks"
         },
@@ -11471,6 +14854,10 @@ public static partial class Emojis
         {
             "houses"
         },
+        PersianKeywords = new[]
+        {
+            "houses"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -11481,6 +14868,10 @@ public static partial class Emojis
         Description = "derelict house",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "derelict_house"
+        },
+        PersianKeywords = new[]
         {
             "derelict_house"
         },
@@ -11497,6 +14888,10 @@ public static partial class Emojis
         {
             "house"
         },
+        PersianKeywords = new[]
+        {
+            "house"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -11507,6 +14902,10 @@ public static partial class Emojis
         Description = "house with garden",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "house_with_garden"
+        },
+        PersianKeywords = new[]
         {
             "house_with_garden"
         },
@@ -11523,6 +14922,10 @@ public static partial class Emojis
         {
             "office"
         },
+        PersianKeywords = new[]
+        {
+            "office"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -11533,6 +14936,10 @@ public static partial class Emojis
         Description = "Japanese post office",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "post_office"
+        },
+        PersianKeywords = new[]
         {
             "post_office"
         },
@@ -11549,6 +14956,10 @@ public static partial class Emojis
         {
             "european_post_office"
         },
+        PersianKeywords = new[]
+        {
+            "european_post_office"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -11559,6 +14970,10 @@ public static partial class Emojis
         Description = "hospital",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "hospital"
+        },
+        PersianKeywords = new[]
         {
             "hospital"
         },
@@ -11575,6 +14990,10 @@ public static partial class Emojis
         {
             "bank"
         },
+        PersianKeywords = new[]
+        {
+            "bank"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -11585,6 +15004,10 @@ public static partial class Emojis
         Description = "hotel",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "hotel"
+        },
+        PersianKeywords = new[]
         {
             "hotel"
         },
@@ -11601,6 +15024,10 @@ public static partial class Emojis
         {
             "love_hotel"
         },
+        PersianKeywords = new[]
+        {
+            "love_hotel"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -11611,6 +15038,10 @@ public static partial class Emojis
         Description = "convenience store",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "convenience_store"
+        },
+        PersianKeywords = new[]
         {
             "convenience_store"
         },
@@ -11627,6 +15058,10 @@ public static partial class Emojis
         {
             "school"
         },
+        PersianKeywords = new[]
+        {
+            "school"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -11637,6 +15072,10 @@ public static partial class Emojis
         Description = "department store",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "department_store"
+        },
+        PersianKeywords = new[]
         {
             "department_store"
         },
@@ -11653,6 +15092,10 @@ public static partial class Emojis
         {
             "factory"
         },
+        PersianKeywords = new[]
+        {
+            "factory"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -11666,6 +15109,10 @@ public static partial class Emojis
         {
             "japanese_castle"
         },
+        PersianKeywords = new[]
+        {
+            "japanese_castle"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -11676,6 +15123,10 @@ public static partial class Emojis
         Description = "castle",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "european_castle"
+        },
+        PersianKeywords = new[]
         {
             "european_castle"
         },
@@ -11696,6 +15147,11 @@ public static partial class Emojis
         {
             "marriage"
         },
+        PersianKeywords = new[]
+        {
+            "wedding",
+            "marriage"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -11706,6 +15162,10 @@ public static partial class Emojis
         Description = "Tokyo tower",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "tokyo_tower"
+        },
+        PersianKeywords = new[]
         {
             "tokyo_tower"
         },
@@ -11722,6 +15182,10 @@ public static partial class Emojis
         {
             "statue_of_liberty"
         },
+        PersianKeywords = new[]
+        {
+            "statue_of_liberty"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -11732,6 +15196,10 @@ public static partial class Emojis
         Description = "church",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "church"
+        },
+        PersianKeywords = new[]
         {
             "church"
         },
@@ -11748,6 +15216,10 @@ public static partial class Emojis
         {
             "mosque"
         },
+        PersianKeywords = new[]
+        {
+            "mosque"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -11758,6 +15230,10 @@ public static partial class Emojis
         Description = "hindu temple",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "hindu_temple"
+        },
+        PersianKeywords = new[]
         {
             "hindu_temple"
         },
@@ -11774,6 +15250,10 @@ public static partial class Emojis
         {
             "synagogue"
         },
+        PersianKeywords = new[]
+        {
+            "synagogue"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -11784,6 +15264,10 @@ public static partial class Emojis
         Description = "shinto shrine",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "shinto_shrine"
+        },
+        PersianKeywords = new[]
         {
             "shinto_shrine"
         },
@@ -11800,6 +15284,10 @@ public static partial class Emojis
         {
             "kaaba"
         },
+        PersianKeywords = new[]
+        {
+            "kaaba"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -11810,6 +15298,10 @@ public static partial class Emojis
         Description = "fountain",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "fountain"
+        },
+        PersianKeywords = new[]
         {
             "fountain"
         },
@@ -11830,6 +15322,11 @@ public static partial class Emojis
         {
             "camping"
         },
+        PersianKeywords = new[]
+        {
+            "tent",
+            "camping"
+        },
         UnicodeVersion = "5.2",
         IosVersion = "6.0"
     };
@@ -11847,6 +15344,11 @@ public static partial class Emojis
         {
             "karl"
         },
+        PersianKeywords = new[]
+        {
+            "foggy",
+            "karl"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -11857,6 +15359,10 @@ public static partial class Emojis
         Description = "night with stars",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "night_with_stars"
+        },
+        PersianKeywords = new[]
         {
             "night_with_stars"
         },
@@ -11877,6 +15383,11 @@ public static partial class Emojis
         {
             "skyline"
         },
+        PersianKeywords = new[]
+        {
+            "cityscape",
+            "skyline"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -11887,6 +15398,10 @@ public static partial class Emojis
         Description = "sunrise over mountains",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "sunrise_over_mountains"
+        },
+        PersianKeywords = new[]
         {
             "sunrise_over_mountains"
         },
@@ -11903,6 +15418,10 @@ public static partial class Emojis
         {
             "sunrise"
         },
+        PersianKeywords = new[]
+        {
+            "sunrise"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -11913,6 +15432,10 @@ public static partial class Emojis
         Description = "cityscape at dusk",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "city_sunset"
+        },
+        PersianKeywords = new[]
         {
             "city_sunset"
         },
@@ -11929,6 +15452,10 @@ public static partial class Emojis
         {
             "city_sunrise"
         },
+        PersianKeywords = new[]
+        {
+            "city_sunrise"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -11939,6 +15466,10 @@ public static partial class Emojis
         Description = "bridge at night",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "bridge_at_night"
+        },
+        PersianKeywords = new[]
         {
             "bridge_at_night"
         },
@@ -11955,6 +15486,10 @@ public static partial class Emojis
         {
             "hotsprings"
         },
+        PersianKeywords = new[]
+        {
+            "hotsprings"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -11965,6 +15500,10 @@ public static partial class Emojis
         Description = "carousel horse",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "carousel_horse"
+        },
+        PersianKeywords = new[]
         {
             "carousel_horse"
         },
@@ -11981,6 +15520,10 @@ public static partial class Emojis
         {
             "ferris_wheel"
         },
+        PersianKeywords = new[]
+        {
+            "ferris_wheel"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -11991,6 +15534,10 @@ public static partial class Emojis
         Description = "roller coaster",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "roller_coaster"
+        },
+        PersianKeywords = new[]
         {
             "roller_coaster"
         },
@@ -12007,6 +15554,10 @@ public static partial class Emojis
         {
             "barber"
         },
+        PersianKeywords = new[]
+        {
+            "barber"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12017,6 +15568,10 @@ public static partial class Emojis
         Description = "circus tent",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "circus_tent"
+        },
+        PersianKeywords = new[]
         {
             "circus_tent"
         },
@@ -12037,6 +15592,11 @@ public static partial class Emojis
         {
             "train"
         },
+        PersianKeywords = new[]
+        {
+            "steam_locomotive",
+            "train"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12047,6 +15607,10 @@ public static partial class Emojis
         Description = "railway car",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "railway_car"
+        },
+        PersianKeywords = new[]
         {
             "railway_car"
         },
@@ -12067,6 +15631,11 @@ public static partial class Emojis
         {
             "train"
         },
+        PersianKeywords = new[]
+        {
+            "bullettrain_side",
+            "train"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12084,6 +15653,11 @@ public static partial class Emojis
         {
             "train"
         },
+        PersianKeywords = new[]
+        {
+            "bullettrain_front",
+            "train"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12094,6 +15668,10 @@ public static partial class Emojis
         Description = "train",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "train2"
+        },
+        PersianKeywords = new[]
         {
             "train2"
         },
@@ -12110,6 +15688,10 @@ public static partial class Emojis
         {
             "metro"
         },
+        PersianKeywords = new[]
+        {
+            "metro"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12120,6 +15702,10 @@ public static partial class Emojis
         Description = "light rail",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "light_rail"
+        },
+        PersianKeywords = new[]
         {
             "light_rail"
         },
@@ -12136,6 +15722,10 @@ public static partial class Emojis
         {
             "station"
         },
+        PersianKeywords = new[]
+        {
+            "station"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12146,6 +15736,10 @@ public static partial class Emojis
         Description = "tram",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "tram"
+        },
+        PersianKeywords = new[]
         {
             "tram"
         },
@@ -12162,6 +15756,10 @@ public static partial class Emojis
         {
             "monorail"
         },
+        PersianKeywords = new[]
+        {
+            "monorail"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12172,6 +15770,10 @@ public static partial class Emojis
         Description = "mountain railway",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "mountain_railway"
+        },
+        PersianKeywords = new[]
         {
             "mountain_railway"
         },
@@ -12188,6 +15790,10 @@ public static partial class Emojis
         {
             "train"
         },
+        PersianKeywords = new[]
+        {
+            "train"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12198,6 +15804,10 @@ public static partial class Emojis
         Description = "bus",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "bus"
+        },
+        PersianKeywords = new[]
         {
             "bus"
         },
@@ -12214,6 +15824,10 @@ public static partial class Emojis
         {
             "oncoming_bus"
         },
+        PersianKeywords = new[]
+        {
+            "oncoming_bus"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12224,6 +15838,10 @@ public static partial class Emojis
         Description = "trolleybus",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "trolleybus"
+        },
+        PersianKeywords = new[]
         {
             "trolleybus"
         },
@@ -12240,6 +15858,10 @@ public static partial class Emojis
         {
             "minibus"
         },
+        PersianKeywords = new[]
+        {
+            "minibus"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12250,6 +15872,10 @@ public static partial class Emojis
         Description = "ambulance",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "ambulance"
+        },
+        PersianKeywords = new[]
         {
             "ambulance"
         },
@@ -12266,6 +15892,10 @@ public static partial class Emojis
         {
             "fire_engine"
         },
+        PersianKeywords = new[]
+        {
+            "fire_engine"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12276,6 +15906,10 @@ public static partial class Emojis
         Description = "police car",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "police_car"
+        },
+        PersianKeywords = new[]
         {
             "police_car"
         },
@@ -12292,6 +15926,10 @@ public static partial class Emojis
         {
             "oncoming_police_car"
         },
+        PersianKeywords = new[]
+        {
+            "oncoming_police_car"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12305,6 +15943,10 @@ public static partial class Emojis
         {
             "taxi"
         },
+        PersianKeywords = new[]
+        {
+            "taxi"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12315,6 +15957,10 @@ public static partial class Emojis
         Description = "oncoming taxi",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "oncoming_taxi"
+        },
+        PersianKeywords = new[]
         {
             "oncoming_taxi"
         },
@@ -12332,6 +15978,11 @@ public static partial class Emojis
             "car",
             "red_car"
         },
+        PersianKeywords = new[]
+        {
+            "car",
+            "red_car"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12342,6 +15993,10 @@ public static partial class Emojis
         Description = "oncoming automobile",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "oncoming_automobile"
+        },
+        PersianKeywords = new[]
         {
             "oncoming_automobile"
         },
@@ -12358,6 +16013,10 @@ public static partial class Emojis
         {
             "blue_car"
         },
+        PersianKeywords = new[]
+        {
+            "blue_car"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12368,6 +16027,10 @@ public static partial class Emojis
         Description = "delivery truck",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "truck"
+        },
+        PersianKeywords = new[]
         {
             "truck"
         },
@@ -12384,6 +16047,10 @@ public static partial class Emojis
         {
             "articulated_lorry"
         },
+        PersianKeywords = new[]
+        {
+            "articulated_lorry"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12394,6 +16061,10 @@ public static partial class Emojis
         Description = "tractor",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "tractor"
+        },
+        PersianKeywords = new[]
         {
             "tractor"
         },
@@ -12410,6 +16081,10 @@ public static partial class Emojis
         {
             "racing_car"
         },
+        PersianKeywords = new[]
+        {
+            "racing_car"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -12420,6 +16095,10 @@ public static partial class Emojis
         Description = "motorcycle",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "motorcycle"
+        },
+        PersianKeywords = new[]
         {
             "motorcycle"
         },
@@ -12436,6 +16115,10 @@ public static partial class Emojis
         {
             "motor_scooter"
         },
+        PersianKeywords = new[]
+        {
+            "motor_scooter"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -12446,6 +16129,10 @@ public static partial class Emojis
         Description = "manual wheelchair",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "manual_wheelchair"
+        },
+        PersianKeywords = new[]
         {
             "manual_wheelchair"
         },
@@ -12462,6 +16149,10 @@ public static partial class Emojis
         {
             "motorized_wheelchair"
         },
+        PersianKeywords = new[]
+        {
+            "motorized_wheelchair"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -12472,6 +16163,10 @@ public static partial class Emojis
         Description = "auto rickshaw",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "auto_rickshaw"
+        },
+        PersianKeywords = new[]
         {
             "auto_rickshaw"
         },
@@ -12492,6 +16187,11 @@ public static partial class Emojis
         {
             "bicycle"
         },
+        PersianKeywords = new[]
+        {
+            "bike",
+            "bicycle"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12502,6 +16202,10 @@ public static partial class Emojis
         Description = "kick scooter",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "kick_scooter"
+        },
+        PersianKeywords = new[]
         {
             "kick_scooter"
         },
@@ -12518,6 +16222,10 @@ public static partial class Emojis
         {
             "skateboard"
         },
+        PersianKeywords = new[]
+        {
+            "skateboard"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -12528,6 +16236,10 @@ public static partial class Emojis
         Description = "bus stop",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "busstop"
+        },
+        PersianKeywords = new[]
         {
             "busstop"
         },
@@ -12544,6 +16256,10 @@ public static partial class Emojis
         {
             "motorway"
         },
+        PersianKeywords = new[]
+        {
+            "motorway"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -12554,6 +16270,10 @@ public static partial class Emojis
         Description = "railway track",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "railway_track"
+        },
+        PersianKeywords = new[]
         {
             "railway_track"
         },
@@ -12570,6 +16290,10 @@ public static partial class Emojis
         {
             "oil_drum"
         },
+        PersianKeywords = new[]
+        {
+            "oil_drum"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -12580,6 +16304,10 @@ public static partial class Emojis
         Description = "fuel pump",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "fuelpump"
+        },
+        PersianKeywords = new[]
         {
             "fuelpump"
         },
@@ -12601,6 +16329,12 @@ public static partial class Emojis
             "911",
             "emergency"
         },
+        PersianKeywords = new[]
+        {
+            "rotating_light",
+            "911",
+            "emergency"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12611,6 +16345,10 @@ public static partial class Emojis
         Description = "horizontal traffic light",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "traffic_light"
+        },
+        PersianKeywords = new[]
         {
             "traffic_light"
         },
@@ -12631,6 +16369,11 @@ public static partial class Emojis
         {
             "semaphore"
         },
+        PersianKeywords = new[]
+        {
+            "vertical_traffic_light",
+            "semaphore"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12641,6 +16384,10 @@ public static partial class Emojis
         Description = "stop sign",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "stop_sign"
+        },
+        PersianKeywords = new[]
         {
             "stop_sign"
         },
@@ -12661,6 +16408,11 @@ public static partial class Emojis
         {
             "wip"
         },
+        PersianKeywords = new[]
+        {
+            "construction",
+            "wip"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12678,6 +16430,11 @@ public static partial class Emojis
         {
             "ship"
         },
+        PersianKeywords = new[]
+        {
+            "anchor",
+            "ship"
+        },
         UnicodeVersion = "4.1",
         IosVersion = "6.0"
     };
@@ -12692,6 +16449,11 @@ public static partial class Emojis
             "boat",
             "sailboat"
         },
+        PersianKeywords = new[]
+        {
+            "boat",
+            "sailboat"
+        },
         UnicodeVersion = "5.2",
         IosVersion = "6.0"
     };
@@ -12702,6 +16464,10 @@ public static partial class Emojis
         Description = "canoe",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "canoe"
+        },
+        PersianKeywords = new[]
         {
             "canoe"
         },
@@ -12722,6 +16488,11 @@ public static partial class Emojis
         {
             "ship"
         },
+        PersianKeywords = new[]
+        {
+            "speedboat",
+            "ship"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12739,6 +16510,11 @@ public static partial class Emojis
         {
             "cruise"
         },
+        PersianKeywords = new[]
+        {
+            "passenger_ship",
+            "cruise"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -12749,6 +16525,10 @@ public static partial class Emojis
         Description = "ferry",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "ferry"
+        },
+        PersianKeywords = new[]
         {
             "ferry"
         },
@@ -12765,6 +16545,10 @@ public static partial class Emojis
         {
             "motor_boat"
         },
+        PersianKeywords = new[]
+        {
+            "motor_boat"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -12775,6 +16559,10 @@ public static partial class Emojis
         Description = "ship",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "ship"
+        },
+        PersianKeywords = new[]
         {
             "ship"
         },
@@ -12795,6 +16583,11 @@ public static partial class Emojis
         {
             "flight"
         },
+        PersianKeywords = new[]
+        {
+            "airplane",
+            "flight"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -12812,6 +16605,11 @@ public static partial class Emojis
         {
             "flight"
         },
+        PersianKeywords = new[]
+        {
+            "small_airplane",
+            "flight"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -12822,6 +16620,10 @@ public static partial class Emojis
         Description = "airplane departure",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "flight_departure"
+        },
+        PersianKeywords = new[]
         {
             "flight_departure"
         },
@@ -12838,6 +16640,10 @@ public static partial class Emojis
         {
             "flight_arrival"
         },
+        PersianKeywords = new[]
+        {
+            "flight_arrival"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -12848,6 +16654,10 @@ public static partial class Emojis
         Description = "parachute",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "parachute"
+        },
+        PersianKeywords = new[]
         {
             "parachute"
         },
@@ -12864,6 +16674,10 @@ public static partial class Emojis
         {
             "seat"
         },
+        PersianKeywords = new[]
+        {
+            "seat"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12874,6 +16688,10 @@ public static partial class Emojis
         Description = "helicopter",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "helicopter"
+        },
+        PersianKeywords = new[]
         {
             "helicopter"
         },
@@ -12890,6 +16708,10 @@ public static partial class Emojis
         {
             "suspension_railway"
         },
+        PersianKeywords = new[]
+        {
+            "suspension_railway"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12903,6 +16725,10 @@ public static partial class Emojis
         {
             "mountain_cableway"
         },
+        PersianKeywords = new[]
+        {
+            "mountain_cableway"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -12913,6 +16739,10 @@ public static partial class Emojis
         Description = "aerial tramway",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "aerial_tramway"
+        },
+        PersianKeywords = new[]
         {
             "aerial_tramway"
         },
@@ -12934,6 +16764,12 @@ public static partial class Emojis
             "orbit",
             "space"
         },
+        PersianKeywords = new[]
+        {
+            "artificial_satellite",
+            "orbit",
+            "space"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -12949,6 +16785,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "ship",
+            "launch"
+        },
+        PersianKeywords = new[]
+        {
+            "rocket",
             "ship",
             "launch"
         },
@@ -12969,6 +16811,11 @@ public static partial class Emojis
         {
             "ufo"
         },
+        PersianKeywords = new[]
+        {
+            "flying_saucer",
+            "ufo"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -12982,6 +16829,10 @@ public static partial class Emojis
         {
             "bellhop_bell"
         },
+        PersianKeywords = new[]
+        {
+            "bellhop_bell"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -12992,6 +16843,10 @@ public static partial class Emojis
         Description = "luggage",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "luggage"
+        },
+        PersianKeywords = new[]
         {
             "luggage"
         },
@@ -13012,6 +16867,11 @@ public static partial class Emojis
         {
             "time"
         },
+        PersianKeywords = new[]
+        {
+            "hourglass",
+            "time"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -13027,6 +16887,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "time"
+        },
+        PersianKeywords = new[]
+        {
+            "hourglass_flowing_sand",
             "time"
         },
         UnicodeVersion = "6.0",
@@ -13046,6 +16911,11 @@ public static partial class Emojis
         {
             "time"
         },
+        PersianKeywords = new[]
+        {
+            "watch",
+            "time"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -13063,6 +16933,11 @@ public static partial class Emojis
         {
             "morning"
         },
+        PersianKeywords = new[]
+        {
+            "alarm_clock",
+            "morning"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13073,6 +16948,10 @@ public static partial class Emojis
         Description = "stopwatch",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "stopwatch"
+        },
+        PersianKeywords = new[]
         {
             "stopwatch"
         },
@@ -13089,6 +16968,10 @@ public static partial class Emojis
         {
             "timer_clock"
         },
+        PersianKeywords = new[]
+        {
+            "timer_clock"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.1"
     };
@@ -13099,6 +16982,10 @@ public static partial class Emojis
         Description = "mantelpiece clock",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "mantelpiece_clock"
+        },
+        PersianKeywords = new[]
         {
             "mantelpiece_clock"
         },
@@ -13115,6 +17002,10 @@ public static partial class Emojis
         {
             "clock12"
         },
+        PersianKeywords = new[]
+        {
+            "clock12"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13125,6 +17016,10 @@ public static partial class Emojis
         Description = "twelve-thirty",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "clock1230"
+        },
+        PersianKeywords = new[]
         {
             "clock1230"
         },
@@ -13141,6 +17036,10 @@ public static partial class Emojis
         {
             "clock1"
         },
+        PersianKeywords = new[]
+        {
+            "clock1"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13151,6 +17050,10 @@ public static partial class Emojis
         Description = "one-thirty",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "clock130"
+        },
+        PersianKeywords = new[]
         {
             "clock130"
         },
@@ -13167,6 +17070,10 @@ public static partial class Emojis
         {
             "clock2"
         },
+        PersianKeywords = new[]
+        {
+            "clock2"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13177,6 +17084,10 @@ public static partial class Emojis
         Description = "two-thirty",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "clock230"
+        },
+        PersianKeywords = new[]
         {
             "clock230"
         },
@@ -13193,6 +17104,10 @@ public static partial class Emojis
         {
             "clock3"
         },
+        PersianKeywords = new[]
+        {
+            "clock3"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13203,6 +17118,10 @@ public static partial class Emojis
         Description = "three-thirty",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "clock330"
+        },
+        PersianKeywords = new[]
         {
             "clock330"
         },
@@ -13219,6 +17138,10 @@ public static partial class Emojis
         {
             "clock4"
         },
+        PersianKeywords = new[]
+        {
+            "clock4"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13229,6 +17152,10 @@ public static partial class Emojis
         Description = "four-thirty",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "clock430"
+        },
+        PersianKeywords = new[]
         {
             "clock430"
         },
@@ -13245,6 +17172,10 @@ public static partial class Emojis
         {
             "clock5"
         },
+        PersianKeywords = new[]
+        {
+            "clock5"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13255,6 +17186,10 @@ public static partial class Emojis
         Description = "five-thirty",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "clock530"
+        },
+        PersianKeywords = new[]
         {
             "clock530"
         },
@@ -13271,6 +17206,10 @@ public static partial class Emojis
         {
             "clock6"
         },
+        PersianKeywords = new[]
+        {
+            "clock6"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13281,6 +17220,10 @@ public static partial class Emojis
         Description = "six-thirty",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "clock630"
+        },
+        PersianKeywords = new[]
         {
             "clock630"
         },
@@ -13297,6 +17240,10 @@ public static partial class Emojis
         {
             "clock7"
         },
+        PersianKeywords = new[]
+        {
+            "clock7"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13307,6 +17254,10 @@ public static partial class Emojis
         Description = "seven-thirty",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "clock730"
+        },
+        PersianKeywords = new[]
         {
             "clock730"
         },
@@ -13323,6 +17274,10 @@ public static partial class Emojis
         {
             "clock8"
         },
+        PersianKeywords = new[]
+        {
+            "clock8"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13333,6 +17288,10 @@ public static partial class Emojis
         Description = "eight-thirty",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "clock830"
+        },
+        PersianKeywords = new[]
         {
             "clock830"
         },
@@ -13349,6 +17308,10 @@ public static partial class Emojis
         {
             "clock9"
         },
+        PersianKeywords = new[]
+        {
+            "clock9"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13359,6 +17322,10 @@ public static partial class Emojis
         Description = "nine-thirty",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "clock930"
+        },
+        PersianKeywords = new[]
         {
             "clock930"
         },
@@ -13375,6 +17342,10 @@ public static partial class Emojis
         {
             "clock10"
         },
+        PersianKeywords = new[]
+        {
+            "clock10"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13385,6 +17356,10 @@ public static partial class Emojis
         Description = "ten-thirty",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "clock1030"
+        },
+        PersianKeywords = new[]
         {
             "clock1030"
         },
@@ -13401,6 +17376,10 @@ public static partial class Emojis
         {
             "clock11"
         },
+        PersianKeywords = new[]
+        {
+            "clock11"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13411,6 +17390,10 @@ public static partial class Emojis
         Description = "eleven-thirty",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "clock1130"
+        },
+        PersianKeywords = new[]
         {
             "clock1130"
         },
@@ -13427,6 +17410,10 @@ public static partial class Emojis
         {
             "new_moon"
         },
+        PersianKeywords = new[]
+        {
+            "new_moon"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13440,6 +17427,10 @@ public static partial class Emojis
         {
             "waxing_crescent_moon"
         },
+        PersianKeywords = new[]
+        {
+            "waxing_crescent_moon"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13450,6 +17441,10 @@ public static partial class Emojis
         Description = "first quarter moon",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "first_quarter_moon"
+        },
+        PersianKeywords = new[]
         {
             "first_quarter_moon"
         },
@@ -13467,6 +17462,11 @@ public static partial class Emojis
             "moon",
             "waxing_gibbous_moon"
         },
+        PersianKeywords = new[]
+        {
+            "moon",
+            "waxing_gibbous_moon"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13477,6 +17477,10 @@ public static partial class Emojis
         Description = "full moon",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "full_moon"
+        },
+        PersianKeywords = new[]
         {
             "full_moon"
         },
@@ -13493,6 +17497,10 @@ public static partial class Emojis
         {
             "waning_gibbous_moon"
         },
+        PersianKeywords = new[]
+        {
+            "waning_gibbous_moon"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13506,6 +17514,10 @@ public static partial class Emojis
         {
             "last_quarter_moon"
         },
+        PersianKeywords = new[]
+        {
+            "last_quarter_moon"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13516,6 +17528,10 @@ public static partial class Emojis
         Description = "waning crescent moon",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "waning_crescent_moon"
+        },
+        PersianKeywords = new[]
         {
             "waning_crescent_moon"
         },
@@ -13536,6 +17552,11 @@ public static partial class Emojis
         {
             "night"
         },
+        PersianKeywords = new[]
+        {
+            "crescent_moon",
+            "night"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13546,6 +17567,10 @@ public static partial class Emojis
         Description = "new moon face",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "new_moon_with_face"
+        },
+        PersianKeywords = new[]
         {
             "new_moon_with_face"
         },
@@ -13562,6 +17587,10 @@ public static partial class Emojis
         {
             "first_quarter_moon_with_face"
         },
+        PersianKeywords = new[]
+        {
+            "first_quarter_moon_with_face"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13575,6 +17604,10 @@ public static partial class Emojis
         {
             "last_quarter_moon_with_face"
         },
+        PersianKeywords = new[]
+        {
+            "last_quarter_moon_with_face"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13585,6 +17618,10 @@ public static partial class Emojis
         Description = "thermometer",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "thermometer"
+        },
+        PersianKeywords = new[]
         {
             "thermometer"
         },
@@ -13605,6 +17642,11 @@ public static partial class Emojis
         {
             "weather"
         },
+        PersianKeywords = new[]
+        {
+            "sunny",
+            "weather"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -13615,6 +17657,10 @@ public static partial class Emojis
         Description = "full moon face",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "full_moon_with_face"
+        },
+        PersianKeywords = new[]
         {
             "full_moon_with_face"
         },
@@ -13635,6 +17681,11 @@ public static partial class Emojis
         {
             "summer"
         },
+        PersianKeywords = new[]
+        {
+            "sun_with_face",
+            "summer"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13645,6 +17696,10 @@ public static partial class Emojis
         Description = "ringed planet",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "ringed_planet"
+        },
+        PersianKeywords = new[]
         {
             "ringed_planet"
         },
@@ -13661,6 +17716,10 @@ public static partial class Emojis
         {
             "star"
         },
+        PersianKeywords = new[]
+        {
+            "star"
+        },
         UnicodeVersion = "5.1",
         IosVersion = "6.0"
     };
@@ -13671,6 +17730,10 @@ public static partial class Emojis
         Description = "glowing star",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "star2"
+        },
+        PersianKeywords = new[]
         {
             "star2"
         },
@@ -13687,6 +17750,10 @@ public static partial class Emojis
         {
             "stars"
         },
+        PersianKeywords = new[]
+        {
+            "stars"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13700,6 +17767,10 @@ public static partial class Emojis
         {
             "milky_way"
         },
+        PersianKeywords = new[]
+        {
+            "milky_way"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13710,6 +17781,10 @@ public static partial class Emojis
         Description = "cloud",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "cloud"
+        },
+        PersianKeywords = new[]
         {
             "cloud"
         },
@@ -13731,6 +17806,12 @@ public static partial class Emojis
             "weather",
             "cloud"
         },
+        PersianKeywords = new[]
+        {
+            "partly_sunny",
+            "weather",
+            "cloud"
+        },
         UnicodeVersion = "5.2",
         IosVersion = "6.0"
     };
@@ -13741,6 +17822,10 @@ public static partial class Emojis
         Description = "cloud with lightning and rain",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "cloud_with_lightning_and_rain"
+        },
+        PersianKeywords = new[]
         {
             "cloud_with_lightning_and_rain"
         },
@@ -13757,6 +17842,10 @@ public static partial class Emojis
         {
             "sun_behind_small_cloud"
         },
+        PersianKeywords = new[]
+        {
+            "sun_behind_small_cloud"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -13767,6 +17856,10 @@ public static partial class Emojis
         Description = "sun behind large cloud",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "sun_behind_large_cloud"
+        },
+        PersianKeywords = new[]
         {
             "sun_behind_large_cloud"
         },
@@ -13783,6 +17876,10 @@ public static partial class Emojis
         {
             "sun_behind_rain_cloud"
         },
+        PersianKeywords = new[]
+        {
+            "sun_behind_rain_cloud"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -13793,6 +17890,10 @@ public static partial class Emojis
         Description = "cloud with rain",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "cloud_with_rain"
+        },
+        PersianKeywords = new[]
         {
             "cloud_with_rain"
         },
@@ -13809,6 +17910,10 @@ public static partial class Emojis
         {
             "cloud_with_snow"
         },
+        PersianKeywords = new[]
+        {
+            "cloud_with_snow"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -13819,6 +17924,10 @@ public static partial class Emojis
         Description = "cloud with lightning",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "cloud_with_lightning"
+        },
+        PersianKeywords = new[]
         {
             "cloud_with_lightning"
         },
@@ -13835,6 +17944,10 @@ public static partial class Emojis
         {
             "tornado"
         },
+        PersianKeywords = new[]
+        {
+            "tornado"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -13848,6 +17961,10 @@ public static partial class Emojis
         {
             "fog"
         },
+        PersianKeywords = new[]
+        {
+            "fog"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -13858,6 +17975,10 @@ public static partial class Emojis
         Description = "wind face",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "wind_face"
+        },
+        PersianKeywords = new[]
         {
             "wind_face"
         },
@@ -13878,6 +17999,11 @@ public static partial class Emojis
         {
             "swirl"
         },
+        PersianKeywords = new[]
+        {
+            "cyclone",
+            "swirl"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13888,6 +18014,10 @@ public static partial class Emojis
         Description = "rainbow",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "rainbow"
+        },
+        PersianKeywords = new[]
         {
             "rainbow"
         },
@@ -13909,6 +18039,12 @@ public static partial class Emojis
             "weather",
             "rain"
         },
+        PersianKeywords = new[]
+        {
+            "closed_umbrella",
+            "weather",
+            "rain"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -13919,6 +18055,10 @@ public static partial class Emojis
         Description = "umbrella",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "open_umbrella"
+        },
+        PersianKeywords = new[]
         {
             "open_umbrella"
         },
@@ -13940,6 +18080,12 @@ public static partial class Emojis
             "rain",
             "weather"
         },
+        PersianKeywords = new[]
+        {
+            "umbrella",
+            "rain",
+            "weather"
+        },
         UnicodeVersion = "4.0",
         IosVersion = "6.0"
     };
@@ -13957,6 +18103,11 @@ public static partial class Emojis
         {
             "beach_umbrella"
         },
+        PersianKeywords = new[]
+        {
+            "parasol_on_ground",
+            "beach_umbrella"
+        },
         UnicodeVersion = "5.2",
         IosVersion = "9.1"
     };
@@ -13972,6 +18123,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "lightning",
+            "thunder"
+        },
+        PersianKeywords = new[]
+        {
+            "zap",
             "lightning",
             "thunder"
         },
@@ -13994,6 +18151,13 @@ public static partial class Emojis
             "cold",
             "weather"
         },
+        PersianKeywords = new[]
+        {
+            "snowflake",
+            "winter",
+            "cold",
+            "weather"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -14009,6 +18173,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "winter",
+            "christmas"
+        },
+        PersianKeywords = new[]
+        {
+            "snowman_with_snow",
             "winter",
             "christmas"
         },
@@ -14029,6 +18199,11 @@ public static partial class Emojis
         {
             "winter"
         },
+        PersianKeywords = new[]
+        {
+            "snowman",
+            "winter"
+        },
         UnicodeVersion = "5.2",
         IosVersion = "6.0"
     };
@@ -14039,6 +18214,10 @@ public static partial class Emojis
         Description = "comet",
         Category = "Travel & Places",
         Aliases = new[]
+        {
+            "comet"
+        },
+        PersianKeywords = new[]
         {
             "comet"
         },
@@ -14059,6 +18238,11 @@ public static partial class Emojis
         {
             "burn"
         },
+        PersianKeywords = new[]
+        {
+            "fire",
+            "burn"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14074,6 +18258,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "water"
+        },
+        PersianKeywords = new[]
+        {
+            "droplet",
             "water"
         },
         UnicodeVersion = "6.0",
@@ -14093,6 +18282,11 @@ public static partial class Emojis
         {
             "sea"
         },
+        PersianKeywords = new[]
+        {
+            "ocean",
+            "sea"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14110,6 +18304,11 @@ public static partial class Emojis
         {
             "halloween"
         },
+        PersianKeywords = new[]
+        {
+            "jack_o_lantern",
+            "halloween"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14120,6 +18319,10 @@ public static partial class Emojis
         Description = "Christmas tree",
         Category = "Activities",
         Aliases = new[]
+        {
+            "christmas_tree"
+        },
+        PersianKeywords = new[]
         {
             "christmas_tree"
         },
@@ -14141,6 +18344,12 @@ public static partial class Emojis
             "festival",
             "celebration"
         },
+        PersianKeywords = new[]
+        {
+            "fireworks",
+            "festival",
+            "celebration"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14154,6 +18363,10 @@ public static partial class Emojis
         {
             "sparkler"
         },
+        PersianKeywords = new[]
+        {
+            "sparkler"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14164,6 +18377,10 @@ public static partial class Emojis
         Description = "firecracker",
         Category = "Activities",
         Aliases = new[]
+        {
+            "firecracker"
+        },
+        PersianKeywords = new[]
         {
             "firecracker"
         },
@@ -14184,6 +18401,11 @@ public static partial class Emojis
         {
             "shiny"
         },
+        PersianKeywords = new[]
+        {
+            "sparkles",
+            "shiny"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14199,6 +18421,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "party",
+            "birthday"
+        },
+        PersianKeywords = new[]
+        {
+            "balloon",
             "party",
             "birthday"
         },
@@ -14220,6 +18448,12 @@ public static partial class Emojis
             "hooray",
             "party"
         },
+        PersianKeywords = new[]
+        {
+            "tada",
+            "hooray",
+            "party"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14230,6 +18464,10 @@ public static partial class Emojis
         Description = "confetti ball",
         Category = "Activities",
         Aliases = new[]
+        {
+            "confetti_ball"
+        },
+        PersianKeywords = new[]
         {
             "confetti_ball"
         },
@@ -14246,6 +18484,10 @@ public static partial class Emojis
         {
             "tanabata_tree"
         },
+        PersianKeywords = new[]
+        {
+            "tanabata_tree"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14256,6 +18498,10 @@ public static partial class Emojis
         Description = "pine decoration",
         Category = "Activities",
         Aliases = new[]
+        {
+            "bamboo"
+        },
+        PersianKeywords = new[]
         {
             "bamboo"
         },
@@ -14272,6 +18518,10 @@ public static partial class Emojis
         {
             "dolls"
         },
+        PersianKeywords = new[]
+        {
+            "dolls"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14282,6 +18532,10 @@ public static partial class Emojis
         Description = "carp streamer",
         Category = "Activities",
         Aliases = new[]
+        {
+            "flags"
+        },
+        PersianKeywords = new[]
         {
             "flags"
         },
@@ -14298,6 +18552,10 @@ public static partial class Emojis
         {
             "wind_chime"
         },
+        PersianKeywords = new[]
+        {
+            "wind_chime"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14308,6 +18566,10 @@ public static partial class Emojis
         Description = "moon viewing ceremony",
         Category = "Activities",
         Aliases = new[]
+        {
+            "rice_scene"
+        },
+        PersianKeywords = new[]
         {
             "rice_scene"
         },
@@ -14324,6 +18586,10 @@ public static partial class Emojis
         {
             "red_envelope"
         },
+        PersianKeywords = new[]
+        {
+            "red_envelope"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -14334,6 +18600,10 @@ public static partial class Emojis
         Description = "ribbon",
         Category = "Activities",
         Aliases = new[]
+        {
+            "ribbon"
+        },
+        PersianKeywords = new[]
         {
             "ribbon"
         },
@@ -14356,6 +18626,13 @@ public static partial class Emojis
             "birthday",
             "christmas"
         },
+        PersianKeywords = new[]
+        {
+            "gift",
+            "present",
+            "birthday",
+            "christmas"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14366,6 +18643,10 @@ public static partial class Emojis
         Description = "reminder ribbon",
         Category = "Activities",
         Aliases = new[]
+        {
+            "reminder_ribbon"
+        },
+        PersianKeywords = new[]
         {
             "reminder_ribbon"
         },
@@ -14382,6 +18663,10 @@ public static partial class Emojis
         {
             "tickets"
         },
+        PersianKeywords = new[]
+        {
+            "tickets"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -14395,6 +18680,10 @@ public static partial class Emojis
         {
             "ticket"
         },
+        PersianKeywords = new[]
+        {
+            "ticket"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14405,6 +18694,10 @@ public static partial class Emojis
         Description = "military medal",
         Category = "Activities",
         Aliases = new[]
+        {
+            "medal_military"
+        },
+        PersianKeywords = new[]
         {
             "medal_military"
         },
@@ -14427,6 +18720,13 @@ public static partial class Emojis
             "contest",
             "winner"
         },
+        PersianKeywords = new[]
+        {
+            "trophy",
+            "award",
+            "contest",
+            "winner"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14442,6 +18742,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "gold",
+            "winner"
+        },
+        PersianKeywords = new[]
+        {
+            "medal_sports",
             "gold",
             "winner"
         },
@@ -14462,9 +18768,15 @@ public static partial class Emojis
         {
             "gold"
         },
+        PersianKeywords = new[]
+        {
+            "1st_place_medal",
+            "gold"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
+
     public static EmojiData SecondPlaceMedal = new EmojiData
     {
         Emoji = "🥈",
@@ -14478,10 +18790,16 @@ public static partial class Emojis
         {
             "silver"
         },
+        PersianKeywords = new[]
+        {
+            "2nd_place_medal",
+            "silver"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
-    public static EmojiData ThirdPlaceMedal = new EmojiData
+
+    public static EmojiData TheirdPlaceMedal = new EmojiData
     {
         Emoji = "🥉",
         Description = "3rd place medal",
@@ -14492,6 +18810,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "bronze"
+        },
+        PersianKeywords = new[]
+        {
+            "3rd_place_medal",
             "bronze"
         },
         UnicodeVersion = "9.0",
@@ -14511,6 +18834,11 @@ public static partial class Emojis
         {
             "sports"
         },
+        PersianKeywords = new[]
+        {
+            "soccer",
+            "sports"
+        },
         UnicodeVersion = "5.2",
         IosVersion = "6.0"
     };
@@ -14528,6 +18856,11 @@ public static partial class Emojis
         {
             "sports"
         },
+        PersianKeywords = new[]
+        {
+            "baseball",
+            "sports"
+        },
         UnicodeVersion = "5.2",
         IosVersion = "6.0"
     };
@@ -14538,6 +18871,10 @@ public static partial class Emojis
         Description = "softball",
         Category = "Activities",
         Aliases = new[]
+        {
+            "softball"
+        },
+        PersianKeywords = new[]
         {
             "softball"
         },
@@ -14558,6 +18895,11 @@ public static partial class Emojis
         {
             "sports"
         },
+        PersianKeywords = new[]
+        {
+            "basketball",
+            "sports"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14568,6 +18910,10 @@ public static partial class Emojis
         Description = "volleyball",
         Category = "Activities",
         Aliases = new[]
+        {
+            "volleyball"
+        },
+        PersianKeywords = new[]
         {
             "volleyball"
         },
@@ -14588,6 +18934,11 @@ public static partial class Emojis
         {
             "sports"
         },
+        PersianKeywords = new[]
+        {
+            "football",
+            "sports"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14598,6 +18949,10 @@ public static partial class Emojis
         Description = "rugby football",
         Category = "Activities",
         Aliases = new[]
+        {
+            "rugby_football"
+        },
+        PersianKeywords = new[]
         {
             "rugby_football"
         },
@@ -14618,6 +18973,11 @@ public static partial class Emojis
         {
             "sports"
         },
+        PersianKeywords = new[]
+        {
+            "tennis",
+            "sports"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14628,6 +18988,10 @@ public static partial class Emojis
         Description = "flying disc",
         Category = "Activities",
         Aliases = new[]
+        {
+            "flying_disc"
+        },
+        PersianKeywords = new[]
         {
             "flying_disc"
         },
@@ -14644,6 +19008,10 @@ public static partial class Emojis
         {
             "bowling"
         },
+        PersianKeywords = new[]
+        {
+            "bowling"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14654,6 +19022,10 @@ public static partial class Emojis
         Description = "cricket game",
         Category = "Activities",
         Aliases = new[]
+        {
+            "cricket_game"
+        },
+        PersianKeywords = new[]
         {
             "cricket_game"
         },
@@ -14670,6 +19042,10 @@ public static partial class Emojis
         {
             "field_hockey"
         },
+        PersianKeywords = new[]
+        {
+            "field_hockey"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -14680,6 +19056,10 @@ public static partial class Emojis
         Description = "ice hockey",
         Category = "Activities",
         Aliases = new[]
+        {
+            "ice_hockey"
+        },
+        PersianKeywords = new[]
         {
             "ice_hockey"
         },
@@ -14696,6 +19076,10 @@ public static partial class Emojis
         {
             "lacrosse"
         },
+        PersianKeywords = new[]
+        {
+            "lacrosse"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -14706,6 +19090,10 @@ public static partial class Emojis
         Description = "ping pong",
         Category = "Activities",
         Aliases = new[]
+        {
+            "ping_pong"
+        },
+        PersianKeywords = new[]
         {
             "ping_pong"
         },
@@ -14722,6 +19110,10 @@ public static partial class Emojis
         {
             "badminton"
         },
+        PersianKeywords = new[]
+        {
+            "badminton"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -14732,6 +19124,10 @@ public static partial class Emojis
         Description = "boxing glove",
         Category = "Activities",
         Aliases = new[]
+        {
+            "boxing_glove"
+        },
+        PersianKeywords = new[]
         {
             "boxing_glove"
         },
@@ -14748,6 +19144,10 @@ public static partial class Emojis
         {
             "martial_arts_uniform"
         },
+        PersianKeywords = new[]
+        {
+            "martial_arts_uniform"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -14761,6 +19161,10 @@ public static partial class Emojis
         {
             "goal_net"
         },
+        PersianKeywords = new[]
+        {
+            "goal_net"
+        },
         UnicodeVersion = "9.0",
         IosVersion = "10.2"
     };
@@ -14771,6 +19175,10 @@ public static partial class Emojis
         Description = "flag in hole",
         Category = "Activities",
         Aliases = new[]
+        {
+            "golf"
+        },
+        PersianKeywords = new[]
         {
             "golf"
         },
@@ -14791,6 +19199,11 @@ public static partial class Emojis
         {
             "skating"
         },
+        PersianKeywords = new[]
+        {
+            "ice_skate",
+            "skating"
+        },
         UnicodeVersion = "5.2",
         IosVersion = "9.1"
     };
@@ -14804,6 +19217,10 @@ public static partial class Emojis
         {
             "fishing_pole_and_fish"
         },
+        PersianKeywords = new[]
+        {
+            "fishing_pole_and_fish"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14814,6 +19231,10 @@ public static partial class Emojis
         Description = "diving mask",
         Category = "Activities",
         Aliases = new[]
+        {
+            "diving_mask"
+        },
+        PersianKeywords = new[]
         {
             "diving_mask"
         },
@@ -14834,6 +19255,11 @@ public static partial class Emojis
         {
             "marathon"
         },
+        PersianKeywords = new[]
+        {
+            "running_shirt_with_sash",
+            "marathon"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14844,6 +19270,10 @@ public static partial class Emojis
         Description = "skis",
         Category = "Activities",
         Aliases = new[]
+        {
+            "ski"
+        },
+        PersianKeywords = new[]
         {
             "ski"
         },
@@ -14860,6 +19290,10 @@ public static partial class Emojis
         {
             "sled"
         },
+        PersianKeywords = new[]
+        {
+            "sled"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -14870,6 +19304,10 @@ public static partial class Emojis
         Description = "curling stone",
         Category = "Activities",
         Aliases = new[]
+        {
+            "curling_stone"
+        },
+        PersianKeywords = new[]
         {
             "curling_stone"
         },
@@ -14890,6 +19328,11 @@ public static partial class Emojis
         {
             "target"
         },
+        PersianKeywords = new[]
+        {
+            "dart",
+            "target"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14903,6 +19346,10 @@ public static partial class Emojis
         {
             "yo_yo"
         },
+        PersianKeywords = new[]
+        {
+            "yo_yo"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -14913,6 +19360,10 @@ public static partial class Emojis
         Description = "kite",
         Category = "Activities",
         Aliases = new[]
+        {
+            "kite"
+        },
+        PersianKeywords = new[]
         {
             "kite"
         },
@@ -14934,6 +19385,12 @@ public static partial class Emojis
             "pool",
             "billiards"
         },
+        PersianKeywords = new[]
+        {
+            "8ball",
+            "pool",
+            "billiards"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14951,6 +19408,11 @@ public static partial class Emojis
         {
             "fortune"
         },
+        PersianKeywords = new[]
+        {
+            "crystal_ball",
+            "fortune"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14961,6 +19423,10 @@ public static partial class Emojis
         Description = "nazar amulet",
         Category = "Activities",
         Aliases = new[]
+        {
+            "nazar_amulet"
+        },
+        PersianKeywords = new[]
         {
             "nazar_amulet"
         },
@@ -14983,6 +19449,13 @@ public static partial class Emojis
             "controller",
             "console"
         },
+        PersianKeywords = new[]
+        {
+            "video_game",
+            "play",
+            "controller",
+            "console"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -14996,6 +19469,10 @@ public static partial class Emojis
         {
             "joystick"
         },
+        PersianKeywords = new[]
+        {
+            "joystick"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -15006,6 +19483,10 @@ public static partial class Emojis
         Description = "slot machine",
         Category = "Activities",
         Aliases = new[]
+        {
+            "slot_machine"
+        },
+        PersianKeywords = new[]
         {
             "slot_machine"
         },
@@ -15027,6 +19508,12 @@ public static partial class Emojis
             "dice",
             "gambling"
         },
+        PersianKeywords = new[]
+        {
+            "game_die",
+            "dice",
+            "gambling"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -15037,6 +19524,10 @@ public static partial class Emojis
         Description = "puzzle piece",
         Category = "Activities",
         Aliases = new[]
+        {
+            "jigsaw"
+        },
+        PersianKeywords = new[]
         {
             "jigsaw"
         },
@@ -15053,6 +19544,10 @@ public static partial class Emojis
         {
             "teddy_bear"
         },
+        PersianKeywords = new[]
+        {
+            "teddy_bear"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -15063,6 +19558,10 @@ public static partial class Emojis
         Description = "spade suit",
         Category = "Activities",
         Aliases = new[]
+        {
+            "spades"
+        },
+        PersianKeywords = new[]
         {
             "spades"
         },
@@ -15079,6 +19578,10 @@ public static partial class Emojis
         {
             "hearts"
         },
+        PersianKeywords = new[]
+        {
+            "hearts"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -15089,6 +19592,10 @@ public static partial class Emojis
         Description = "diamond suit",
         Category = "Activities",
         Aliases = new[]
+        {
+            "diamonds"
+        },
+        PersianKeywords = new[]
         {
             "diamonds"
         },
@@ -15105,6 +19612,10 @@ public static partial class Emojis
         {
             "clubs"
         },
+        PersianKeywords = new[]
+        {
+            "clubs"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -15115,6 +19626,10 @@ public static partial class Emojis
         Description = "chess pawn",
         Category = "Activities",
         Aliases = new[]
+        {
+            "chess_pawn"
+        },
+        PersianKeywords = new[]
         {
             "chess_pawn"
         },
@@ -15131,6 +19646,10 @@ public static partial class Emojis
         {
             "black_joker"
         },
+        PersianKeywords = new[]
+        {
+            "black_joker"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -15144,6 +19663,10 @@ public static partial class Emojis
         {
             "mahjong"
         },
+        PersianKeywords = new[]
+        {
+            "mahjong"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -15154,6 +19677,10 @@ public static partial class Emojis
         Description = "flower playing cards",
         Category = "Activities",
         Aliases = new[]
+        {
+            "flower_playing_cards"
+        },
+        PersianKeywords = new[]
         {
             "flower_playing_cards"
         },
@@ -15175,6 +19702,12 @@ public static partial class Emojis
             "theater",
             "drama"
         },
+        PersianKeywords = new[]
+        {
+            "performing_arts",
+            "theater",
+            "drama"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -15185,6 +19718,10 @@ public static partial class Emojis
         Description = "framed picture",
         Category = "Activities",
         Aliases = new[]
+        {
+            "framed_picture"
+        },
+        PersianKeywords = new[]
         {
             "framed_picture"
         },
@@ -15206,6 +19743,12 @@ public static partial class Emojis
             "design",
             "paint"
         },
+        PersianKeywords = new[]
+        {
+            "art",
+            "design",
+            "paint"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -15219,6 +19762,10 @@ public static partial class Emojis
         {
             "thread"
         },
+        PersianKeywords = new[]
+        {
+            "thread"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -15229,6 +19776,10 @@ public static partial class Emojis
         Description = "yarn",
         Category = "Activities",
         Aliases = new[]
+        {
+            "yarn"
+        },
+        PersianKeywords = new[]
         {
             "yarn"
         },
@@ -15249,6 +19800,11 @@ public static partial class Emojis
         {
             "glasses"
         },
+        PersianKeywords = new[]
+        {
+            "eyeglasses",
+            "glasses"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -15259,6 +19815,10 @@ public static partial class Emojis
         Description = "sunglasses",
         Category = "Objects",
         Aliases = new[]
+        {
+            "dark_sunglasses"
+        },
+        PersianKeywords = new[]
         {
             "dark_sunglasses"
         },
@@ -15275,6 +19835,10 @@ public static partial class Emojis
         {
             "goggles"
         },
+        PersianKeywords = new[]
+        {
+            "goggles"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -15288,6 +19852,10 @@ public static partial class Emojis
         {
             "lab_coat"
         },
+        PersianKeywords = new[]
+        {
+            "lab_coat"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -15298,6 +19866,10 @@ public static partial class Emojis
         Description = "safety vest",
         Category = "Objects",
         Aliases = new[]
+        {
+            "safety_vest"
+        },
+        PersianKeywords = new[]
         {
             "safety_vest"
         },
@@ -15319,6 +19891,12 @@ public static partial class Emojis
             "shirt",
             "formal"
         },
+        PersianKeywords = new[]
+        {
+            "necktie",
+            "shirt",
+            "formal"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -15329,6 +19907,11 @@ public static partial class Emojis
         Description = "t-shirt",
         Category = "Objects",
         Aliases = new[]
+        {
+            "shirt",
+            "tshirt"
+        },
+        PersianKeywords = new[]
         {
             "shirt",
             "tshirt"
@@ -15350,6 +19933,11 @@ public static partial class Emojis
         {
             "pants"
         },
+        PersianKeywords = new[]
+        {
+            "jeans",
+            "pants"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -15360,6 +19948,10 @@ public static partial class Emojis
         Description = "scarf",
         Category = "Objects",
         Aliases = new[]
+        {
+            "scarf"
+        },
+        PersianKeywords = new[]
         {
             "scarf"
         },
@@ -15376,6 +19968,10 @@ public static partial class Emojis
         {
             "gloves"
         },
+        PersianKeywords = new[]
+        {
+            "gloves"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -15386,6 +19982,10 @@ public static partial class Emojis
         Description = "coat",
         Category = "Objects",
         Aliases = new[]
+        {
+            "coat"
+        },
+        PersianKeywords = new[]
         {
             "coat"
         },
@@ -15402,6 +20002,10 @@ public static partial class Emojis
         {
             "socks"
         },
+        PersianKeywords = new[]
+        {
+            "socks"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -15412,6 +20016,10 @@ public static partial class Emojis
         Description = "dress",
         Category = "Objects",
         Aliases = new[]
+        {
+            "dress"
+        },
+        PersianKeywords = new[]
         {
             "dress"
         },
@@ -15428,6 +20036,10 @@ public static partial class Emojis
         {
             "kimono"
         },
+        PersianKeywords = new[]
+        {
+            "kimono"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -15438,6 +20050,10 @@ public static partial class Emojis
         Description = "sari",
         Category = "Objects",
         Aliases = new[]
+        {
+            "sari"
+        },
+        PersianKeywords = new[]
         {
             "sari"
         },
@@ -15454,6 +20070,10 @@ public static partial class Emojis
         {
             "one_piece_swimsuit"
         },
+        PersianKeywords = new[]
+        {
+            "one_piece_swimsuit"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -15467,6 +20087,10 @@ public static partial class Emojis
         {
             "swim_brief"
         },
+        PersianKeywords = new[]
+        {
+            "swim_brief"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -15477,6 +20101,10 @@ public static partial class Emojis
         Description = "shorts",
         Category = "Objects",
         Aliases = new[]
+        {
+            "shorts"
+        },
+        PersianKeywords = new[]
         {
             "shorts"
         },
@@ -15497,6 +20125,11 @@ public static partial class Emojis
         {
             "beach"
         },
+        PersianKeywords = new[]
+        {
+            "bikini",
+            "beach"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -15510,6 +20143,10 @@ public static partial class Emojis
         {
             "womans_clothes"
         },
+        PersianKeywords = new[]
+        {
+            "womans_clothes"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -15520,6 +20157,10 @@ public static partial class Emojis
         Description = "purse",
         Category = "Objects",
         Aliases = new[]
+        {
+            "purse"
+        },
+        PersianKeywords = new[]
         {
             "purse"
         },
@@ -15540,6 +20181,11 @@ public static partial class Emojis
         {
             "bag"
         },
+        PersianKeywords = new[]
+        {
+            "handbag",
+            "bag"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -15555,6 +20201,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "bag"
+        },
+        PersianKeywords = new[]
+        {
+            "pouch",
             "bag"
         },
         UnicodeVersion = "6.0",
@@ -15574,6 +20225,11 @@ public static partial class Emojis
         {
             "bags"
         },
+        PersianKeywords = new[]
+        {
+            "shopping",
+            "bags"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -15587,6 +20243,10 @@ public static partial class Emojis
         {
             "school_satchel"
         },
+        PersianKeywords = new[]
+        {
+            "school_satchel"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -15597,6 +20257,11 @@ public static partial class Emojis
         Description = "man’s shoe",
         Category = "Objects",
         Aliases = new[]
+        {
+            "mans_shoe",
+            "shoe"
+        },
+        PersianKeywords = new[]
         {
             "mans_shoe",
             "shoe"
@@ -15620,6 +20285,13 @@ public static partial class Emojis
             "sport",
             "running"
         },
+        PersianKeywords = new[]
+        {
+            "athletic_shoe",
+            "sneaker",
+            "sport",
+            "running"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -15633,6 +20305,10 @@ public static partial class Emojis
         {
             "hiking_boot"
         },
+        PersianKeywords = new[]
+        {
+            "hiking_boot"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -15643,6 +20319,10 @@ public static partial class Emojis
         Description = "flat shoe",
         Category = "Objects",
         Aliases = new[]
+        {
+            "flat_shoe"
+        },
+        PersianKeywords = new[]
         {
             "flat_shoe"
         },
@@ -15663,6 +20343,11 @@ public static partial class Emojis
         {
             "shoe"
         },
+        PersianKeywords = new[]
+        {
+            "high_heel",
+            "shoe"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -15680,6 +20365,11 @@ public static partial class Emojis
         {
             "shoe"
         },
+        PersianKeywords = new[]
+        {
+            "sandal",
+            "shoe"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -15693,6 +20383,10 @@ public static partial class Emojis
         {
             "ballet_shoes"
         },
+        PersianKeywords = new[]
+        {
+            "ballet_shoes"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -15703,6 +20397,10 @@ public static partial class Emojis
         Description = "woman’s boot",
         Category = "Objects",
         Aliases = new[]
+        {
+            "boot"
+        },
+        PersianKeywords = new[]
         {
             "boot"
         },
@@ -15725,6 +20423,13 @@ public static partial class Emojis
             "queen",
             "royal"
         },
+        PersianKeywords = new[]
+        {
+            "crown",
+            "king",
+            "queen",
+            "royal"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -15735,6 +20440,10 @@ public static partial class Emojis
         Description = "woman’s hat",
         Category = "Objects",
         Aliases = new[]
+        {
+            "womans_hat"
+        },
+        PersianKeywords = new[]
         {
             "womans_hat"
         },
@@ -15753,6 +20462,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "hat",
+            "classy"
+        },
+        PersianKeywords = new[]
+        {
+            "tophat",
             "hat",
             "classy"
         },
@@ -15776,6 +20491,14 @@ public static partial class Emojis
             "university",
             "graduation"
         },
+        PersianKeywords = new[]
+        {
+            "mortar_board",
+            "education",
+            "college",
+            "university",
+            "graduation"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -15786,6 +20509,10 @@ public static partial class Emojis
         Description = "billed cap",
         Category = "Objects",
         Aliases = new[]
+        {
+            "billed_cap"
+        },
+        PersianKeywords = new[]
         {
             "billed_cap"
         },
@@ -15802,6 +20529,10 @@ public static partial class Emojis
         {
             "rescue_worker_helmet"
         },
+        PersianKeywords = new[]
+        {
+            "rescue_worker_helmet"
+        },
         UnicodeVersion = "5.2",
         IosVersion = "9.1"
     };
@@ -15812,6 +20543,10 @@ public static partial class Emojis
         Description = "prayer beads",
         Category = "Objects",
         Aliases = new[]
+        {
+            "prayer_beads"
+        },
+        PersianKeywords = new[]
         {
             "prayer_beads"
         },
@@ -15830,6 +20565,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "makeup"
+        },
+        PersianKeywords = new[]
+        {
+            "lipstick",
             "makeup"
         },
         UnicodeVersion = "6.0",
@@ -15851,6 +20591,13 @@ public static partial class Emojis
             "marriage",
             "engaged"
         },
+        PersianKeywords = new[]
+        {
+            "ring",
+            "wedding",
+            "marriage",
+            "engaged"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -15866,6 +20613,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "diamond"
+        },
+        PersianKeywords = new[]
+        {
+            "gem",
             "diamond"
         },
         UnicodeVersion = "6.0",
@@ -15886,6 +20638,12 @@ public static partial class Emojis
             "sound",
             "volume"
         },
+        PersianKeywords = new[]
+        {
+            "mute",
+            "sound",
+            "volume"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -15896,6 +20654,10 @@ public static partial class Emojis
         Description = "speaker low volume",
         Category = "Objects",
         Aliases = new[]
+        {
+            "speaker"
+        },
+        PersianKeywords = new[]
         {
             "speaker"
         },
@@ -15916,6 +20678,11 @@ public static partial class Emojis
         {
             "volume"
         },
+        PersianKeywords = new[]
+        {
+            "sound",
+            "volume"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -15931,6 +20698,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "volume"
+        },
+        PersianKeywords = new[]
+        {
+            "loud_sound",
             "volume"
         },
         UnicodeVersion = "6.0",
@@ -15950,6 +20722,11 @@ public static partial class Emojis
         {
             "announcement"
         },
+        PersianKeywords = new[]
+        {
+            "loudspeaker",
+            "announcement"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -15963,6 +20740,10 @@ public static partial class Emojis
         {
             "mega"
         },
+        PersianKeywords = new[]
+        {
+            "mega"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -15973,6 +20754,10 @@ public static partial class Emojis
         Description = "postal horn",
         Category = "Objects",
         Aliases = new[]
+        {
+            "postal_horn"
+        },
+        PersianKeywords = new[]
         {
             "postal_horn"
         },
@@ -15994,6 +20779,12 @@ public static partial class Emojis
             "sound",
             "notification"
         },
+        PersianKeywords = new[]
+        {
+            "bell",
+            "sound",
+            "notification"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16012,6 +20803,12 @@ public static partial class Emojis
             "volume",
             "off"
         },
+        PersianKeywords = new[]
+        {
+            "no_bell",
+            "volume",
+            "off"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16025,6 +20822,10 @@ public static partial class Emojis
         {
             "musical_score"
         },
+        PersianKeywords = new[]
+        {
+            "musical_score"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16035,6 +20836,10 @@ public static partial class Emojis
         Description = "musical note",
         Category = "Objects",
         Aliases = new[]
+        {
+            "musical_note"
+        },
+        PersianKeywords = new[]
         {
             "musical_note"
         },
@@ -16055,6 +20860,11 @@ public static partial class Emojis
         {
             "music"
         },
+        PersianKeywords = new[]
+        {
+            "notes",
+            "music"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16072,6 +20882,11 @@ public static partial class Emojis
         {
             "podcast"
         },
+        PersianKeywords = new[]
+        {
+            "studio_microphone",
+            "podcast"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -16085,6 +20900,10 @@ public static partial class Emojis
         {
             "level_slider"
         },
+        PersianKeywords = new[]
+        {
+            "level_slider"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -16095,6 +20914,10 @@ public static partial class Emojis
         Description = "control knobs",
         Category = "Objects",
         Aliases = new[]
+        {
+            "control_knobs"
+        },
+        PersianKeywords = new[]
         {
             "control_knobs"
         },
@@ -16115,6 +20938,11 @@ public static partial class Emojis
         {
             "sing"
         },
+        PersianKeywords = new[]
+        {
+            "microphone",
+            "sing"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16130,6 +20958,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "music",
+            "earphones"
+        },
+        PersianKeywords = new[]
+        {
+            "headphones",
             "music",
             "earphones"
         },
@@ -16150,6 +20984,11 @@ public static partial class Emojis
         {
             "podcast"
         },
+        PersianKeywords = new[]
+        {
+            "radio",
+            "podcast"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16160,6 +20999,10 @@ public static partial class Emojis
         Description = "saxophone",
         Category = "Objects",
         Aliases = new[]
+        {
+            "saxophone"
+        },
+        PersianKeywords = new[]
         {
             "saxophone"
         },
@@ -16180,6 +21023,11 @@ public static partial class Emojis
         {
             "rock"
         },
+        PersianKeywords = new[]
+        {
+            "guitar",
+            "rock"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16197,6 +21045,11 @@ public static partial class Emojis
         {
             "piano"
         },
+        PersianKeywords = new[]
+        {
+            "musical_keyboard",
+            "piano"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16207,6 +21060,10 @@ public static partial class Emojis
         Description = "trumpet",
         Category = "Objects",
         Aliases = new[]
+        {
+            "trumpet"
+        },
+        PersianKeywords = new[]
         {
             "trumpet"
         },
@@ -16223,6 +21080,10 @@ public static partial class Emojis
         {
             "violin"
         },
+        PersianKeywords = new[]
+        {
+            "violin"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16236,6 +21097,10 @@ public static partial class Emojis
         {
             "banjo"
         },
+        PersianKeywords = new[]
+        {
+            "banjo"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -16246,6 +21111,10 @@ public static partial class Emojis
         Description = "drum",
         Category = "Objects",
         Aliases = new[]
+        {
+            "drum"
+        },
+        PersianKeywords = new[]
         {
             "drum"
         },
@@ -16267,6 +21136,12 @@ public static partial class Emojis
             "smartphone",
             "mobile"
         },
+        PersianKeywords = new[]
+        {
+            "iphone",
+            "smartphone",
+            "mobile"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16285,6 +21160,12 @@ public static partial class Emojis
             "call",
             "incoming"
         },
+        PersianKeywords = new[]
+        {
+            "calling",
+            "call",
+            "incoming"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16295,6 +21176,11 @@ public static partial class Emojis
         Description = "telephone",
         Category = "Objects",
         Aliases = new[]
+        {
+            "phone",
+            "telephone"
+        },
+        PersianKeywords = new[]
         {
             "phone",
             "telephone"
@@ -16317,6 +21203,12 @@ public static partial class Emojis
             "phone",
             "call"
         },
+        PersianKeywords = new[]
+        {
+            "telephone_receiver",
+            "phone",
+            "call"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16330,6 +21222,10 @@ public static partial class Emojis
         {
             "pager"
         },
+        PersianKeywords = new[]
+        {
+            "pager"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16340,6 +21236,10 @@ public static partial class Emojis
         Description = "fax machine",
         Category = "Objects",
         Aliases = new[]
+        {
+            "fax"
+        },
+        PersianKeywords = new[]
         {
             "fax"
         },
@@ -16360,6 +21260,11 @@ public static partial class Emojis
         {
             "power"
         },
+        PersianKeywords = new[]
+        {
+            "battery",
+            "power"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16370,6 +21275,10 @@ public static partial class Emojis
         Description = "electric plug",
         Category = "Objects",
         Aliases = new[]
+        {
+            "electric_plug"
+        },
+        PersianKeywords = new[]
         {
             "electric_plug"
         },
@@ -16391,6 +21300,12 @@ public static partial class Emojis
             "desktop",
             "screen"
         },
+        PersianKeywords = new[]
+        {
+            "computer",
+            "desktop",
+            "screen"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16401,6 +21316,10 @@ public static partial class Emojis
         Description = "desktop computer",
         Category = "Objects",
         Aliases = new[]
+        {
+            "desktop_computer"
+        },
+        PersianKeywords = new[]
         {
             "desktop_computer"
         },
@@ -16417,6 +21336,10 @@ public static partial class Emojis
         {
             "printer"
         },
+        PersianKeywords = new[]
+        {
+            "printer"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -16427,6 +21350,10 @@ public static partial class Emojis
         Description = "keyboard",
         Category = "Objects",
         Aliases = new[]
+        {
+            "keyboard"
+        },
+        PersianKeywords = new[]
         {
             "keyboard"
         },
@@ -16443,6 +21370,10 @@ public static partial class Emojis
         {
             "computer_mouse"
         },
+        PersianKeywords = new[]
+        {
+            "computer_mouse"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -16456,6 +21387,10 @@ public static partial class Emojis
         {
             "trackball"
         },
+        PersianKeywords = new[]
+        {
+            "trackball"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -16466,6 +21401,10 @@ public static partial class Emojis
         Description = "computer disk",
         Category = "Objects",
         Aliases = new[]
+        {
+            "minidisc"
+        },
+        PersianKeywords = new[]
         {
             "minidisc"
         },
@@ -16486,6 +21425,11 @@ public static partial class Emojis
         {
             "save"
         },
+        PersianKeywords = new[]
+        {
+            "floppy_disk",
+            "save"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16496,6 +21440,10 @@ public static partial class Emojis
         Description = "optical disk",
         Category = "Objects",
         Aliases = new[]
+        {
+            "cd"
+        },
+        PersianKeywords = new[]
         {
             "cd"
         },
@@ -16512,6 +21460,10 @@ public static partial class Emojis
         {
             "dvd"
         },
+        PersianKeywords = new[]
+        {
+            "dvd"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16522,6 +21474,10 @@ public static partial class Emojis
         Description = "abacus",
         Category = "Objects",
         Aliases = new[]
+        {
+            "abacus"
+        },
+        PersianKeywords = new[]
         {
             "abacus"
         },
@@ -16543,6 +21499,12 @@ public static partial class Emojis
             "film",
             "video"
         },
+        PersianKeywords = new[]
+        {
+            "movie_camera",
+            "film",
+            "video"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16556,6 +21518,10 @@ public static partial class Emojis
         {
             "film_strip"
         },
+        PersianKeywords = new[]
+        {
+            "film_strip"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -16566,6 +21532,10 @@ public static partial class Emojis
         Description = "film projector",
         Category = "Objects",
         Aliases = new[]
+        {
+            "film_projector"
+        },
+        PersianKeywords = new[]
         {
             "film_projector"
         },
@@ -16586,6 +21556,11 @@ public static partial class Emojis
         {
             "film"
         },
+        PersianKeywords = new[]
+        {
+            "clapper",
+            "film"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16596,6 +21571,10 @@ public static partial class Emojis
         Description = "television",
         Category = "Objects",
         Aliases = new[]
+        {
+            "tv"
+        },
+        PersianKeywords = new[]
         {
             "tv"
         },
@@ -16616,6 +21595,11 @@ public static partial class Emojis
         {
             "photo"
         },
+        PersianKeywords = new[]
+        {
+            "camera",
+            "photo"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16633,6 +21617,11 @@ public static partial class Emojis
         {
             "photo"
         },
+        PersianKeywords = new[]
+        {
+            "camera_flash",
+            "photo"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -16646,6 +21635,10 @@ public static partial class Emojis
         {
             "video_camera"
         },
+        PersianKeywords = new[]
+        {
+            "video_camera"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16656,6 +21649,10 @@ public static partial class Emojis
         Description = "videocassette",
         Category = "Objects",
         Aliases = new[]
+        {
+            "vhs"
+        },
+        PersianKeywords = new[]
         {
             "vhs"
         },
@@ -16677,6 +21674,12 @@ public static partial class Emojis
             "search",
             "zoom"
         },
+        PersianKeywords = new[]
+        {
+            "mag",
+            "search",
+            "zoom"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16690,6 +21693,10 @@ public static partial class Emojis
         {
             "mag_right"
         },
+        PersianKeywords = new[]
+        {
+            "mag_right"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16700,6 +21707,10 @@ public static partial class Emojis
         Description = "candle",
         Category = "Objects",
         Aliases = new[]
+        {
+            "candle"
+        },
+        PersianKeywords = new[]
         {
             "candle"
         },
@@ -16721,6 +21732,12 @@ public static partial class Emojis
             "idea",
             "light"
         },
+        PersianKeywords = new[]
+        {
+            "bulb",
+            "idea",
+            "light"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16731,6 +21748,10 @@ public static partial class Emojis
         Description = "flashlight",
         Category = "Objects",
         Aliases = new[]
+        {
+            "flashlight"
+        },
+        PersianKeywords = new[]
         {
             "flashlight"
         },
@@ -16748,6 +21769,11 @@ public static partial class Emojis
             "izakaya_lantern",
             "lantern"
         },
+        PersianKeywords = new[]
+        {
+            "izakaya_lantern",
+            "lantern"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16758,6 +21784,10 @@ public static partial class Emojis
         Description = "diya lamp",
         Category = "Objects",
         Aliases = new[]
+        {
+            "diya_lamp"
+        },
+        PersianKeywords = new[]
         {
             "diya_lamp"
         },
@@ -16774,6 +21804,10 @@ public static partial class Emojis
         {
             "notebook_with_decorative_cover"
         },
+        PersianKeywords = new[]
+        {
+            "notebook_with_decorative_cover"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16784,6 +21818,10 @@ public static partial class Emojis
         Description = "closed book",
         Category = "Objects",
         Aliases = new[]
+        {
+            "closed_book"
+        },
+        PersianKeywords = new[]
         {
             "closed_book"
         },
@@ -16801,6 +21839,11 @@ public static partial class Emojis
             "book",
             "open_book"
         },
+        PersianKeywords = new[]
+        {
+            "book",
+            "open_book"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16811,6 +21854,10 @@ public static partial class Emojis
         Description = "green book",
         Category = "Objects",
         Aliases = new[]
+        {
+            "green_book"
+        },
+        PersianKeywords = new[]
         {
             "green_book"
         },
@@ -16827,6 +21874,10 @@ public static partial class Emojis
         {
             "blue_book"
         },
+        PersianKeywords = new[]
+        {
+            "blue_book"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16837,6 +21888,10 @@ public static partial class Emojis
         Description = "orange book",
         Category = "Objects",
         Aliases = new[]
+        {
+            "orange_book"
+        },
+        PersianKeywords = new[]
         {
             "orange_book"
         },
@@ -16857,6 +21912,11 @@ public static partial class Emojis
         {
             "library"
         },
+        PersianKeywords = new[]
+        {
+            "books",
+            "library"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16867,6 +21927,10 @@ public static partial class Emojis
         Description = "notebook",
         Category = "Objects",
         Aliases = new[]
+        {
+            "notebook"
+        },
+        PersianKeywords = new[]
         {
             "notebook"
         },
@@ -16883,6 +21947,10 @@ public static partial class Emojis
         {
             "ledger"
         },
+        PersianKeywords = new[]
+        {
+            "ledger"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16893,6 +21961,10 @@ public static partial class Emojis
         Description = "page with curl",
         Category = "Objects",
         Aliases = new[]
+        {
+            "page_with_curl"
+        },
+        PersianKeywords = new[]
         {
             "page_with_curl"
         },
@@ -16913,6 +21985,11 @@ public static partial class Emojis
         {
             "document"
         },
+        PersianKeywords = new[]
+        {
+            "scroll",
+            "document"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16928,6 +22005,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "document"
+        },
+        PersianKeywords = new[]
+        {
+            "page_facing_up",
             "document"
         },
         UnicodeVersion = "6.0",
@@ -16947,6 +22029,11 @@ public static partial class Emojis
         {
             "press"
         },
+        PersianKeywords = new[]
+        {
+            "newspaper",
+            "press"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16964,6 +22051,11 @@ public static partial class Emojis
         {
             "press"
         },
+        PersianKeywords = new[]
+        {
+            "newspaper_roll",
+            "press"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -16977,6 +22069,10 @@ public static partial class Emojis
         {
             "bookmark_tabs"
         },
+        PersianKeywords = new[]
+        {
+            "bookmark_tabs"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -16987,6 +22083,10 @@ public static partial class Emojis
         Description = "bookmark",
         Category = "Objects",
         Aliases = new[]
+        {
+            "bookmark"
+        },
+        PersianKeywords = new[]
         {
             "bookmark"
         },
@@ -17007,6 +22107,11 @@ public static partial class Emojis
         {
             "tag"
         },
+        PersianKeywords = new[]
+        {
+            "label",
+            "tag"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -17025,6 +22130,12 @@ public static partial class Emojis
             "dollar",
             "cream"
         },
+        PersianKeywords = new[]
+        {
+            "moneybag",
+            "dollar",
+            "cream"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17035,6 +22146,10 @@ public static partial class Emojis
         Description = "yen banknote",
         Category = "Objects",
         Aliases = new[]
+        {
+            "yen"
+        },
+        PersianKeywords = new[]
         {
             "yen"
         },
@@ -17055,6 +22170,11 @@ public static partial class Emojis
         {
             "money"
         },
+        PersianKeywords = new[]
+        {
+            "dollar",
+            "money"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17068,6 +22188,10 @@ public static partial class Emojis
         {
             "euro"
         },
+        PersianKeywords = new[]
+        {
+            "euro"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17078,6 +22202,10 @@ public static partial class Emojis
         Description = "pound banknote",
         Category = "Objects",
         Aliases = new[]
+        {
+            "pound"
+        },
+        PersianKeywords = new[]
         {
             "pound"
         },
@@ -17098,6 +22226,11 @@ public static partial class Emojis
         {
             "dollar"
         },
+        PersianKeywords = new[]
+        {
+            "money_with_wings",
+            "dollar"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17115,6 +22248,11 @@ public static partial class Emojis
         {
             "subscription"
         },
+        PersianKeywords = new[]
+        {
+            "credit_card",
+            "subscription"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17125,6 +22263,10 @@ public static partial class Emojis
         Description = "receipt",
         Category = "Objects",
         Aliases = new[]
+        {
+            "receipt"
+        },
+        PersianKeywords = new[]
         {
             "receipt"
         },
@@ -17141,6 +22283,10 @@ public static partial class Emojis
         {
             "chart"
         },
+        PersianKeywords = new[]
+        {
+            "chart"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17154,6 +22300,10 @@ public static partial class Emojis
         {
             "currency_exchange"
         },
+        PersianKeywords = new[]
+        {
+            "currency_exchange"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17164,6 +22314,10 @@ public static partial class Emojis
         Description = "heavy dollar sign",
         Category = "Objects",
         Aliases = new[]
+        {
+            "heavy_dollar_sign"
+        },
+        PersianKeywords = new[]
         {
             "heavy_dollar_sign"
         },
@@ -17185,6 +22339,12 @@ public static partial class Emojis
         {
             "letter"
         },
+        PersianKeywords = new[]
+        {
+            "email",
+            "envelope",
+            "letter"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -17195,6 +22355,10 @@ public static partial class Emojis
         Description = "e-mail",
         Category = "Objects",
         Aliases = new[]
+        {
+            "e-mail"
+        },
+        PersianKeywords = new[]
         {
             "e-mail"
         },
@@ -17211,6 +22375,10 @@ public static partial class Emojis
         {
             "incoming_envelope"
         },
+        PersianKeywords = new[]
+        {
+            "incoming_envelope"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17221,6 +22389,10 @@ public static partial class Emojis
         Description = "envelope with arrow",
         Category = "Objects",
         Aliases = new[]
+        {
+            "envelope_with_arrow"
+        },
+        PersianKeywords = new[]
         {
             "envelope_with_arrow"
         },
@@ -17237,6 +22409,10 @@ public static partial class Emojis
         {
             "outbox_tray"
         },
+        PersianKeywords = new[]
+        {
+            "outbox_tray"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17247,6 +22423,10 @@ public static partial class Emojis
         Description = "inbox tray",
         Category = "Objects",
         Aliases = new[]
+        {
+            "inbox_tray"
+        },
+        PersianKeywords = new[]
         {
             "inbox_tray"
         },
@@ -17267,6 +22447,11 @@ public static partial class Emojis
         {
             "shipping"
         },
+        PersianKeywords = new[]
+        {
+            "package",
+            "shipping"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17277,6 +22462,10 @@ public static partial class Emojis
         Description = "closed mailbox with raised flag",
         Category = "Objects",
         Aliases = new[]
+        {
+            "mailbox"
+        },
+        PersianKeywords = new[]
         {
             "mailbox"
         },
@@ -17293,6 +22482,10 @@ public static partial class Emojis
         {
             "mailbox_closed"
         },
+        PersianKeywords = new[]
+        {
+            "mailbox_closed"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17303,6 +22496,10 @@ public static partial class Emojis
         Description = "open mailbox with raised flag",
         Category = "Objects",
         Aliases = new[]
+        {
+            "mailbox_with_mail"
+        },
+        PersianKeywords = new[]
         {
             "mailbox_with_mail"
         },
@@ -17319,6 +22516,10 @@ public static partial class Emojis
         {
             "mailbox_with_no_mail"
         },
+        PersianKeywords = new[]
+        {
+            "mailbox_with_no_mail"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17329,6 +22530,10 @@ public static partial class Emojis
         Description = "postbox",
         Category = "Objects",
         Aliases = new[]
+        {
+            "postbox"
+        },
+        PersianKeywords = new[]
         {
             "postbox"
         },
@@ -17345,6 +22550,10 @@ public static partial class Emojis
         {
             "ballot_box"
         },
+        PersianKeywords = new[]
+        {
+            "ballot_box"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -17355,6 +22564,10 @@ public static partial class Emojis
         Description = "pencil",
         Category = "Objects",
         Aliases = new[]
+        {
+            "pencil2"
+        },
+        PersianKeywords = new[]
         {
             "pencil2"
         },
@@ -17371,6 +22584,10 @@ public static partial class Emojis
         {
             "black_nib"
         },
+        PersianKeywords = new[]
+        {
+            "black_nib"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -17381,6 +22598,10 @@ public static partial class Emojis
         Description = "fountain pen",
         Category = "Objects",
         Aliases = new[]
+        {
+            "fountain_pen"
+        },
+        PersianKeywords = new[]
         {
             "fountain_pen"
         },
@@ -17397,6 +22618,10 @@ public static partial class Emojis
         {
             "pen"
         },
+        PersianKeywords = new[]
+        {
+            "pen"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -17410,6 +22635,10 @@ public static partial class Emojis
         {
             "paintbrush"
         },
+        PersianKeywords = new[]
+        {
+            "paintbrush"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -17420,6 +22649,10 @@ public static partial class Emojis
         Description = "crayon",
         Category = "Objects",
         Aliases = new[]
+        {
+            "crayon"
+        },
+        PersianKeywords = new[]
         {
             "crayon"
         },
@@ -17442,6 +22675,13 @@ public static partial class Emojis
             "document",
             "note"
         },
+        PersianKeywords = new[]
+        {
+            "memo",
+            "pencil",
+            "document",
+            "note"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17457,6 +22697,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "business"
+        },
+        PersianKeywords = new[]
+        {
+            "briefcase",
             "business"
         },
         UnicodeVersion = "6.0",
@@ -17476,6 +22721,11 @@ public static partial class Emojis
         {
             "directory"
         },
+        PersianKeywords = new[]
+        {
+            "file_folder",
+            "directory"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17489,6 +22739,10 @@ public static partial class Emojis
         {
             "open_file_folder"
         },
+        PersianKeywords = new[]
+        {
+            "open_file_folder"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17499,6 +22753,10 @@ public static partial class Emojis
         Description = "card index dividers",
         Category = "Objects",
         Aliases = new[]
+        {
+            "card_index_dividers"
+        },
+        PersianKeywords = new[]
         {
             "card_index_dividers"
         },
@@ -17520,6 +22778,12 @@ public static partial class Emojis
             "calendar",
             "schedule"
         },
+        PersianKeywords = new[]
+        {
+            "date",
+            "calendar",
+            "schedule"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17537,6 +22801,11 @@ public static partial class Emojis
         {
             "schedule"
         },
+        PersianKeywords = new[]
+        {
+            "calendar",
+            "schedule"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17547,6 +22816,10 @@ public static partial class Emojis
         Description = "spiral notepad",
         Category = "Objects",
         Aliases = new[]
+        {
+            "spiral_notepad"
+        },
+        PersianKeywords = new[]
         {
             "spiral_notepad"
         },
@@ -17563,6 +22836,10 @@ public static partial class Emojis
         {
             "spiral_calendar"
         },
+        PersianKeywords = new[]
+        {
+            "spiral_calendar"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -17573,6 +22850,10 @@ public static partial class Emojis
         Description = "card index",
         Category = "Objects",
         Aliases = new[]
+        {
+            "card_index"
+        },
+        PersianKeywords = new[]
         {
             "card_index"
         },
@@ -17594,6 +22875,12 @@ public static partial class Emojis
             "graph",
             "metrics"
         },
+        PersianKeywords = new[]
+        {
+            "chart_with_upwards_trend",
+            "graph",
+            "metrics"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17609,6 +22896,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "graph",
+            "metrics"
+        },
+        PersianKeywords = new[]
+        {
+            "chart_with_downwards_trend",
             "graph",
             "metrics"
         },
@@ -17630,6 +22923,12 @@ public static partial class Emojis
             "stats",
             "metrics"
         },
+        PersianKeywords = new[]
+        {
+            "bar_chart",
+            "stats",
+            "metrics"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17640,6 +22939,10 @@ public static partial class Emojis
         Description = "clipboard",
         Category = "Objects",
         Aliases = new[]
+        {
+            "clipboard"
+        },
+        PersianKeywords = new[]
         {
             "clipboard"
         },
@@ -17660,6 +22963,11 @@ public static partial class Emojis
         {
             "location"
         },
+        PersianKeywords = new[]
+        {
+            "pushpin",
+            "location"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17677,6 +22985,11 @@ public static partial class Emojis
         {
             "location"
         },
+        PersianKeywords = new[]
+        {
+            "round_pushpin",
+            "location"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17687,6 +23000,10 @@ public static partial class Emojis
         Description = "paperclip",
         Category = "Objects",
         Aliases = new[]
+        {
+            "paperclip"
+        },
+        PersianKeywords = new[]
         {
             "paperclip"
         },
@@ -17703,6 +23020,10 @@ public static partial class Emojis
         {
             "paperclips"
         },
+        PersianKeywords = new[]
+        {
+            "paperclips"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -17716,6 +23037,10 @@ public static partial class Emojis
         {
             "straight_ruler"
         },
+        PersianKeywords = new[]
+        {
+            "straight_ruler"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17726,6 +23051,10 @@ public static partial class Emojis
         Description = "triangular ruler",
         Category = "Objects",
         Aliases = new[]
+        {
+            "triangular_ruler"
+        },
+        PersianKeywords = new[]
         {
             "triangular_ruler"
         },
@@ -17746,6 +23075,11 @@ public static partial class Emojis
         {
             "cut"
         },
+        PersianKeywords = new[]
+        {
+            "scissors",
+            "cut"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -17759,6 +23093,10 @@ public static partial class Emojis
         {
             "card_file_box"
         },
+        PersianKeywords = new[]
+        {
+            "card_file_box"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -17769,6 +23107,10 @@ public static partial class Emojis
         Description = "file cabinet",
         Category = "Objects",
         Aliases = new[]
+        {
+            "file_cabinet"
+        },
+        PersianKeywords = new[]
         {
             "file_cabinet"
         },
@@ -17789,6 +23131,11 @@ public static partial class Emojis
         {
             "trash"
         },
+        PersianKeywords = new[]
+        {
+            "wastebasket",
+            "trash"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -17804,6 +23151,12 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "security",
+            "private"
+        },
+        PersianKeywords = new[]
+        {
+            "lock",
             "security",
             "private"
         },
@@ -17824,6 +23177,11 @@ public static partial class Emojis
         {
             "security"
         },
+        PersianKeywords = new[]
+        {
+            "unlock",
+            "security"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17834,6 +23192,10 @@ public static partial class Emojis
         Description = "locked with pen",
         Category = "Objects",
         Aliases = new[]
+        {
+            "lock_with_ink_pen"
+        },
+        PersianKeywords = new[]
         {
             "lock_with_ink_pen"
         },
@@ -17854,6 +23216,11 @@ public static partial class Emojis
         {
             "security"
         },
+        PersianKeywords = new[]
+        {
+            "closed_lock_with_key",
+            "security"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17872,6 +23239,12 @@ public static partial class Emojis
             "lock",
             "password"
         },
+        PersianKeywords = new[]
+        {
+            "key",
+            "lock",
+            "password"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17882,6 +23255,10 @@ public static partial class Emojis
         Description = "old key",
         Category = "Objects",
         Aliases = new[]
+        {
+            "old_key"
+        },
+        PersianKeywords = new[]
         {
             "old_key"
         },
@@ -17902,6 +23279,11 @@ public static partial class Emojis
         {
             "tool"
         },
+        PersianKeywords = new[]
+        {
+            "hammer",
+            "tool"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -17912,6 +23294,10 @@ public static partial class Emojis
         Description = "axe",
         Category = "Objects",
         Aliases = new[]
+        {
+            "axe"
+        },
+        PersianKeywords = new[]
         {
             "axe"
         },
@@ -17928,6 +23314,10 @@ public static partial class Emojis
         {
             "pick"
         },
+        PersianKeywords = new[]
+        {
+            "pick"
+        },
         UnicodeVersion = "5.2",
         IosVersion = "9.1"
     };
@@ -17938,6 +23328,10 @@ public static partial class Emojis
         Description = "hammer and pick",
         Category = "Objects",
         Aliases = new[]
+        {
+            "hammer_and_pick"
+        },
+        PersianKeywords = new[]
         {
             "hammer_and_pick"
         },
@@ -17954,6 +23348,10 @@ public static partial class Emojis
         {
             "hammer_and_wrench"
         },
+        PersianKeywords = new[]
+        {
+            "hammer_and_wrench"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -17967,6 +23365,10 @@ public static partial class Emojis
         {
             "dagger"
         },
+        PersianKeywords = new[]
+        {
+            "dagger"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -17977,6 +23379,10 @@ public static partial class Emojis
         Description = "crossed swords",
         Category = "Objects",
         Aliases = new[]
+        {
+            "crossed_swords"
+        },
+        PersianKeywords = new[]
         {
             "crossed_swords"
         },
@@ -17998,6 +23404,12 @@ public static partial class Emojis
             "shoot",
             "weapon"
         },
+        PersianKeywords = new[]
+        {
+            "gun",
+            "shoot",
+            "weapon"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -18015,6 +23427,11 @@ public static partial class Emojis
         {
             "archery"
         },
+        PersianKeywords = new[]
+        {
+            "bow_and_arrow",
+            "archery"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -18025,6 +23442,10 @@ public static partial class Emojis
         Description = "shield",
         Category = "Objects",
         Aliases = new[]
+        {
+            "shield"
+        },
+        PersianKeywords = new[]
         {
             "shield"
         },
@@ -18045,6 +23466,11 @@ public static partial class Emojis
         {
             "tool"
         },
+        PersianKeywords = new[]
+        {
+            "wrench",
+            "tool"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -18055,6 +23481,10 @@ public static partial class Emojis
         Description = "nut and bolt",
         Category = "Objects",
         Aliases = new[]
+        {
+            "nut_and_bolt"
+        },
+        PersianKeywords = new[]
         {
             "nut_and_bolt"
         },
@@ -18071,6 +23501,10 @@ public static partial class Emojis
         {
             "gear"
         },
+        PersianKeywords = new[]
+        {
+            "gear"
+        },
         UnicodeVersion = "4.1",
         IosVersion = "9.1"
     };
@@ -18081,6 +23515,10 @@ public static partial class Emojis
         Description = "clamp",
         Category = "Objects",
         Aliases = new[]
+        {
+            "clamp"
+        },
+        PersianKeywords = new[]
         {
             "clamp"
         },
@@ -18097,6 +23535,10 @@ public static partial class Emojis
         {
             "balance_scale"
         },
+        PersianKeywords = new[]
+        {
+            "balance_scale"
+        },
         UnicodeVersion = "4.1",
         IosVersion = "9.1"
     };
@@ -18107,6 +23549,10 @@ public static partial class Emojis
         Description = "probing cane",
         Category = "Objects",
         Aliases = new[]
+        {
+            "probing_cane"
+        },
+        PersianKeywords = new[]
         {
             "probing_cane"
         },
@@ -18123,6 +23569,10 @@ public static partial class Emojis
         {
             "link"
         },
+        PersianKeywords = new[]
+        {
+            "link"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -18133,6 +23583,10 @@ public static partial class Emojis
         Description = "chains",
         Category = "Objects",
         Aliases = new[]
+        {
+            "chains"
+        },
+        PersianKeywords = new[]
         {
             "chains"
         },
@@ -18149,6 +23603,10 @@ public static partial class Emojis
         {
             "toolbox"
         },
+        PersianKeywords = new[]
+        {
+            "toolbox"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -18159,6 +23617,10 @@ public static partial class Emojis
         Description = "magnet",
         Category = "Objects",
         Aliases = new[]
+        {
+            "magnet"
+        },
+        PersianKeywords = new[]
         {
             "magnet"
         },
@@ -18175,6 +23637,10 @@ public static partial class Emojis
         {
             "alembic"
         },
+        PersianKeywords = new[]
+        {
+            "alembic"
+        },
         UnicodeVersion = "4.1",
         IosVersion = "9.1"
     };
@@ -18185,6 +23651,10 @@ public static partial class Emojis
         Description = "test tube",
         Category = "Objects",
         Aliases = new[]
+        {
+            "test_tube"
+        },
+        PersianKeywords = new[]
         {
             "test_tube"
         },
@@ -18201,6 +23671,10 @@ public static partial class Emojis
         {
             "petri_dish"
         },
+        PersianKeywords = new[]
+        {
+            "petri_dish"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -18211,6 +23685,10 @@ public static partial class Emojis
         Description = "dna",
         Category = "Objects",
         Aliases = new[]
+        {
+            "dna"
+        },
+        PersianKeywords = new[]
         {
             "dna"
         },
@@ -18233,6 +23711,13 @@ public static partial class Emojis
             "laboratory",
             "investigate"
         },
+        PersianKeywords = new[]
+        {
+            "microscope",
+            "science",
+            "laboratory",
+            "investigate"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -18243,6 +23728,10 @@ public static partial class Emojis
         Description = "telescope",
         Category = "Objects",
         Aliases = new[]
+        {
+            "telescope"
+        },
+        PersianKeywords = new[]
         {
             "telescope"
         },
@@ -18261,6 +23750,11 @@ public static partial class Emojis
         },
         Tags = new[]
         {
+            "signal"
+        },
+        PersianKeywords = new[]
+        {
+            "satellite",
             "signal"
         },
         UnicodeVersion = "6.0",
@@ -18282,6 +23776,13 @@ public static partial class Emojis
             "hospital",
             "needle"
         },
+        PersianKeywords = new[]
+        {
+            "syringe",
+            "health",
+            "hospital",
+            "needle"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -18292,6 +23793,10 @@ public static partial class Emojis
         Description = "drop of blood",
         Category = "Objects",
         Aliases = new[]
+        {
+            "drop_of_blood"
+        },
+        PersianKeywords = new[]
         {
             "drop_of_blood"
         },
@@ -18313,6 +23818,12 @@ public static partial class Emojis
             "health",
             "medicine"
         },
+        PersianKeywords = new[]
+        {
+            "pill",
+            "health",
+            "medicine"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -18323,6 +23834,10 @@ public static partial class Emojis
         Description = "adhesive bandage",
         Category = "Objects",
         Aliases = new[]
+        {
+            "adhesive_bandage"
+        },
+        PersianKeywords = new[]
         {
             "adhesive_bandage"
         },
@@ -18339,6 +23854,10 @@ public static partial class Emojis
         {
             "stethoscope"
         },
+        PersianKeywords = new[]
+        {
+            "stethoscope"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -18349,6 +23868,10 @@ public static partial class Emojis
         Description = "door",
         Category = "Objects",
         Aliases = new[]
+        {
+            "door"
+        },
+        PersianKeywords = new[]
         {
             "door"
         },
@@ -18365,6 +23888,10 @@ public static partial class Emojis
         {
             "bed"
         },
+        PersianKeywords = new[]
+        {
+            "bed"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -18378,6 +23905,10 @@ public static partial class Emojis
         {
             "couch_and_lamp"
         },
+        PersianKeywords = new[]
+        {
+            "couch_and_lamp"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -18388,6 +23919,10 @@ public static partial class Emojis
         Description = "chair",
         Category = "Objects",
         Aliases = new[]
+        {
+            "chair"
+        },
+        PersianKeywords = new[]
         {
             "chair"
         },
@@ -18408,6 +23943,11 @@ public static partial class Emojis
         {
             "wc"
         },
+        PersianKeywords = new[]
+        {
+            "toilet",
+            "wc"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -18425,6 +23965,11 @@ public static partial class Emojis
         {
             "bath"
         },
+        PersianKeywords = new[]
+        {
+            "shower",
+            "bath"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -18435,6 +23980,10 @@ public static partial class Emojis
         Description = "bathtub",
         Category = "Objects",
         Aliases = new[]
+        {
+            "bathtub"
+        },
+        PersianKeywords = new[]
         {
             "bathtub"
         },
@@ -18451,6 +24000,10 @@ public static partial class Emojis
         {
             "razor"
         },
+        PersianKeywords = new[]
+        {
+            "razor"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -18461,6 +24014,10 @@ public static partial class Emojis
         Description = "lotion bottle",
         Category = "Objects",
         Aliases = new[]
+        {
+            "lotion_bottle"
+        },
+        PersianKeywords = new[]
         {
             "lotion_bottle"
         },
@@ -18477,6 +24034,10 @@ public static partial class Emojis
         {
             "safety_pin"
         },
+        PersianKeywords = new[]
+        {
+            "safety_pin"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -18490,6 +24051,10 @@ public static partial class Emojis
         {
             "broom"
         },
+        PersianKeywords = new[]
+        {
+            "broom"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -18500,6 +24065,10 @@ public static partial class Emojis
         Description = "basket",
         Category = "Objects",
         Aliases = new[]
+        {
+            "basket"
+        },
+        PersianKeywords = new[]
         {
             "basket"
         },
@@ -18520,6 +24089,11 @@ public static partial class Emojis
         {
             "toilet"
         },
+        PersianKeywords = new[]
+        {
+            "roll_of_paper",
+            "toilet"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -18530,6 +24104,10 @@ public static partial class Emojis
         Description = "soap",
         Category = "Objects",
         Aliases = new[]
+        {
+            "soap"
+        },
+        PersianKeywords = new[]
         {
             "soap"
         },
@@ -18546,6 +24124,10 @@ public static partial class Emojis
         {
             "sponge"
         },
+        PersianKeywords = new[]
+        {
+            "sponge"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -18559,6 +24141,10 @@ public static partial class Emojis
         {
             "fire_extinguisher"
         },
+        PersianKeywords = new[]
+        {
+            "fire_extinguisher"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -18569,6 +24155,10 @@ public static partial class Emojis
         Description = "shopping cart",
         Category = "Objects",
         Aliases = new[]
+        {
+            "shopping_cart"
+        },
+        PersianKeywords = new[]
         {
             "shopping_cart"
         },
@@ -18589,6 +24179,11 @@ public static partial class Emojis
         {
             "cigarette"
         },
+        PersianKeywords = new[]
+        {
+            "smoking",
+            "cigarette"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -18606,6 +24201,11 @@ public static partial class Emojis
         {
             "funeral"
         },
+        PersianKeywords = new[]
+        {
+            "coffin",
+            "funeral"
+        },
         UnicodeVersion = "4.1",
         IosVersion = "9.1"
     };
@@ -18616,6 +24216,10 @@ public static partial class Emojis
         Description = "funeral urn",
         Category = "Objects",
         Aliases = new[]
+        {
+            "funeral_urn"
+        },
+        PersianKeywords = new[]
         {
             "funeral_urn"
         },
@@ -18636,6 +24240,11 @@ public static partial class Emojis
         {
             "stone"
         },
+        PersianKeywords = new[]
+        {
+            "moyai",
+            "stone"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -18646,6 +24255,10 @@ public static partial class Emojis
         Description = "ATM sign",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "atm"
+        },
+        PersianKeywords = new[]
         {
             "atm"
         },
@@ -18662,6 +24275,10 @@ public static partial class Emojis
         {
             "put_litter_in_its_place"
         },
+        PersianKeywords = new[]
+        {
+            "put_litter_in_its_place"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -18672,6 +24289,10 @@ public static partial class Emojis
         Description = "potable water",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "potable_water"
+        },
+        PersianKeywords = new[]
         {
             "potable_water"
         },
@@ -18692,6 +24313,11 @@ public static partial class Emojis
         {
             "accessibility"
         },
+        PersianKeywords = new[]
+        {
+            "wheelchair",
+            "accessibility"
+        },
         UnicodeVersion = "4.1",
         IosVersion = "6.0"
     };
@@ -18705,6 +24331,10 @@ public static partial class Emojis
         {
             "mens"
         },
+        PersianKeywords = new[]
+        {
+            "mens"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -18715,6 +24345,10 @@ public static partial class Emojis
         Description = "women’s room",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "womens"
+        },
+        PersianKeywords = new[]
         {
             "womens"
         },
@@ -18735,6 +24369,11 @@ public static partial class Emojis
         {
             "toilet"
         },
+        PersianKeywords = new[]
+        {
+            "restroom",
+            "toilet"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -18745,6 +24384,10 @@ public static partial class Emojis
         Description = "baby symbol",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "baby_symbol"
+        },
+        PersianKeywords = new[]
         {
             "baby_symbol"
         },
@@ -18766,6 +24409,12 @@ public static partial class Emojis
             "toilet",
             "restroom"
         },
+        PersianKeywords = new[]
+        {
+            "wc",
+            "toilet",
+            "restroom"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -18779,6 +24428,10 @@ public static partial class Emojis
         {
             "passport_control"
         },
+        PersianKeywords = new[]
+        {
+            "passport_control"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -18789,6 +24442,10 @@ public static partial class Emojis
         Description = "customs",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "customs"
+        },
+        PersianKeywords = new[]
         {
             "customs"
         },
@@ -18809,6 +24466,11 @@ public static partial class Emojis
         {
             "airport"
         },
+        PersianKeywords = new[]
+        {
+            "baggage_claim",
+            "airport"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -18819,6 +24481,10 @@ public static partial class Emojis
         Description = "left luggage",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "left_luggage"
+        },
+        PersianKeywords = new[]
         {
             "left_luggage"
         },
@@ -18839,6 +24505,11 @@ public static partial class Emojis
         {
             "wip"
         },
+        PersianKeywords = new[]
+        {
+            "warning",
+            "wip"
+        },
         UnicodeVersion = "4.0",
         IosVersion = "6.0"
     };
@@ -18849,6 +24520,10 @@ public static partial class Emojis
         Description = "children crossing",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "children_crossing"
+        },
+        PersianKeywords = new[]
         {
             "children_crossing"
         },
@@ -18869,6 +24544,11 @@ public static partial class Emojis
         {
             "limit"
         },
+        PersianKeywords = new[]
+        {
+            "no_entry",
+            "limit"
+        },
         UnicodeVersion = "5.2",
         IosVersion = "6.0"
     };
@@ -18887,6 +24567,12 @@ public static partial class Emojis
             "block",
             "forbidden"
         },
+        PersianKeywords = new[]
+        {
+            "no_entry_sign",
+            "block",
+            "forbidden"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -18897,6 +24583,10 @@ public static partial class Emojis
         Description = "no bicycles",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "no_bicycles"
+        },
+        PersianKeywords = new[]
         {
             "no_bicycles"
         },
@@ -18913,6 +24603,10 @@ public static partial class Emojis
         {
             "no_smoking"
         },
+        PersianKeywords = new[]
+        {
+            "no_smoking"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -18923,6 +24617,10 @@ public static partial class Emojis
         Description = "no littering",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "do_not_litter"
+        },
+        PersianKeywords = new[]
         {
             "do_not_litter"
         },
@@ -18939,6 +24637,10 @@ public static partial class Emojis
         {
             "non-potable_water"
         },
+        PersianKeywords = new[]
+        {
+            "non-potable_water"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -18949,6 +24651,10 @@ public static partial class Emojis
         Description = "no pedestrians",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "no_pedestrians"
+        },
+        PersianKeywords = new[]
         {
             "no_pedestrians"
         },
@@ -18965,6 +24671,10 @@ public static partial class Emojis
         {
             "no_mobile_phones"
         },
+        PersianKeywords = new[]
+        {
+            "no_mobile_phones"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -18975,6 +24685,10 @@ public static partial class Emojis
         Description = "no one under eighteen",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "underage"
+        },
+        PersianKeywords = new[]
         {
             "underage"
         },
@@ -18991,6 +24705,10 @@ public static partial class Emojis
         {
             "radioactive"
         },
+        PersianKeywords = new[]
+        {
+            "radioactive"
+        },
         UnicodeVersion = "",
         IosVersion = "9.1"
     };
@@ -19001,6 +24719,10 @@ public static partial class Emojis
         Description = "biohazard",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "biohazard"
+        },
+        PersianKeywords = new[]
         {
             "biohazard"
         },
@@ -19017,6 +24739,10 @@ public static partial class Emojis
         {
             "arrow_up"
         },
+        PersianKeywords = new[]
+        {
+            "arrow_up"
+        },
         UnicodeVersion = "4.0",
         IosVersion = "6.0"
     };
@@ -19027,6 +24753,10 @@ public static partial class Emojis
         Description = "up-right arrow",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "arrow_upper_right"
+        },
+        PersianKeywords = new[]
         {
             "arrow_upper_right"
         },
@@ -19043,6 +24773,10 @@ public static partial class Emojis
         {
             "arrow_right"
         },
+        PersianKeywords = new[]
+        {
+            "arrow_right"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -19053,6 +24787,10 @@ public static partial class Emojis
         Description = "down-right arrow",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "arrow_lower_right"
+        },
+        PersianKeywords = new[]
         {
             "arrow_lower_right"
         },
@@ -19069,6 +24807,10 @@ public static partial class Emojis
         {
             "arrow_down"
         },
+        PersianKeywords = new[]
+        {
+            "arrow_down"
+        },
         UnicodeVersion = "4.0",
         IosVersion = "6.0"
     };
@@ -19079,6 +24821,10 @@ public static partial class Emojis
         Description = "down-left arrow",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "arrow_lower_left"
+        },
+        PersianKeywords = new[]
         {
             "arrow_lower_left"
         },
@@ -19095,6 +24841,10 @@ public static partial class Emojis
         {
             "arrow_left"
         },
+        PersianKeywords = new[]
+        {
+            "arrow_left"
+        },
         UnicodeVersion = "4.0",
         IosVersion = "6.0"
     };
@@ -19105,6 +24855,10 @@ public static partial class Emojis
         Description = "up-left arrow",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "arrow_upper_left"
+        },
+        PersianKeywords = new[]
         {
             "arrow_upper_left"
         },
@@ -19121,6 +24875,10 @@ public static partial class Emojis
         {
             "arrow_up_down"
         },
+        PersianKeywords = new[]
+        {
+            "arrow_up_down"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -19131,6 +24889,10 @@ public static partial class Emojis
         Description = "left-right arrow",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "left_right_arrow"
+        },
+        PersianKeywords = new[]
         {
             "left_right_arrow"
         },
@@ -19151,6 +24913,11 @@ public static partial class Emojis
         {
             "return"
         },
+        PersianKeywords = new[]
+        {
+            "leftwards_arrow_with_hook",
+            "return"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -19161,6 +24928,10 @@ public static partial class Emojis
         Description = "left arrow curving right",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "arrow_right_hook"
+        },
+        PersianKeywords = new[]
         {
             "arrow_right_hook"
         },
@@ -19177,6 +24948,10 @@ public static partial class Emojis
         {
             "arrow_heading_up"
         },
+        PersianKeywords = new[]
+        {
+            "arrow_heading_up"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -19190,6 +24965,10 @@ public static partial class Emojis
         {
             "arrow_heading_down"
         },
+        PersianKeywords = new[]
+        {
+            "arrow_heading_down"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -19200,6 +24979,10 @@ public static partial class Emojis
         Description = "clockwise vertical arrows",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "arrows_clockwise"
+        },
+        PersianKeywords = new[]
         {
             "arrows_clockwise"
         },
@@ -19220,6 +25003,11 @@ public static partial class Emojis
         {
             "sync"
         },
+        PersianKeywords = new[]
+        {
+            "arrows_counterclockwise",
+            "sync"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -19230,6 +25018,10 @@ public static partial class Emojis
         Description = "BACK arrow",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "back"
+        },
+        PersianKeywords = new[]
         {
             "back"
         },
@@ -19246,16 +25038,24 @@ public static partial class Emojis
         {
             "end"
         },
+        PersianKeywords = new[]
+        {
+            "end"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
 
-    public static EmojiData ONArrow = new EmojiData
+    public static EmojiData ON_Arrow = new EmojiData
     {
         Emoji = "🔛",
         Description = "ON! arrow",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "on"
+        },
+        PersianKeywords = new[]
         {
             "on"
         },
@@ -19272,6 +25072,10 @@ public static partial class Emojis
         {
             "soon"
         },
+        PersianKeywords = new[]
+        {
+            "soon"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -19282,6 +25086,10 @@ public static partial class Emojis
         Description = "TOP arrow",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "top"
+        },
+        PersianKeywords = new[]
         {
             "top"
         },
@@ -19298,6 +25106,10 @@ public static partial class Emojis
         {
             "place_of_worship"
         },
+        PersianKeywords = new[]
+        {
+            "place_of_worship"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -19308,6 +25120,10 @@ public static partial class Emojis
         Description = "atom symbol",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "atom_symbol"
+        },
+        PersianKeywords = new[]
         {
             "atom_symbol"
         },
@@ -19324,6 +25140,10 @@ public static partial class Emojis
         {
             "om"
         },
+        PersianKeywords = new[]
+        {
+            "om"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -19334,6 +25154,10 @@ public static partial class Emojis
         Description = "star of David",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "star_of_david"
+        },
+        PersianKeywords = new[]
         {
             "star_of_david"
         },
@@ -19350,6 +25174,10 @@ public static partial class Emojis
         {
             "wheel_of_dharma"
         },
+        PersianKeywords = new[]
+        {
+            "wheel_of_dharma"
+        },
         UnicodeVersion = "",
         IosVersion = "9.1"
     };
@@ -19360,6 +25188,10 @@ public static partial class Emojis
         Description = "yin yang",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "yin_yang"
+        },
+        PersianKeywords = new[]
         {
             "yin_yang"
         },
@@ -19376,6 +25208,10 @@ public static partial class Emojis
         {
             "latin_cross"
         },
+        PersianKeywords = new[]
+        {
+            "latin_cross"
+        },
         UnicodeVersion = "",
         IosVersion = "9.1"
     };
@@ -19386,6 +25222,10 @@ public static partial class Emojis
         Description = "orthodox cross",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "orthodox_cross"
+        },
+        PersianKeywords = new[]
         {
             "orthodox_cross"
         },
@@ -19402,6 +25242,10 @@ public static partial class Emojis
         {
             "star_and_crescent"
         },
+        PersianKeywords = new[]
+        {
+            "star_and_crescent"
+        },
         UnicodeVersion = "",
         IosVersion = "9.1"
     };
@@ -19412,6 +25256,10 @@ public static partial class Emojis
         Description = "peace symbol",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "peace_symbol"
+        },
+        PersianKeywords = new[]
         {
             "peace_symbol"
         },
@@ -19428,6 +25276,10 @@ public static partial class Emojis
         {
             "menorah"
         },
+        PersianKeywords = new[]
+        {
+            "menorah"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -19438,6 +25290,10 @@ public static partial class Emojis
         Description = "dotted six-pointed star",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "six_pointed_star"
+        },
+        PersianKeywords = new[]
         {
             "six_pointed_star"
         },
@@ -19454,6 +25310,10 @@ public static partial class Emojis
         {
             "aries"
         },
+        PersianKeywords = new[]
+        {
+            "aries"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -19464,6 +25324,10 @@ public static partial class Emojis
         Description = "Taurus",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "taurus"
+        },
+        PersianKeywords = new[]
         {
             "taurus"
         },
@@ -19480,6 +25344,10 @@ public static partial class Emojis
         {
             "gemini"
         },
+        PersianKeywords = new[]
+        {
+            "gemini"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -19490,6 +25358,10 @@ public static partial class Emojis
         Description = "Cancer",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "cancer"
+        },
+        PersianKeywords = new[]
         {
             "cancer"
         },
@@ -19506,6 +25378,10 @@ public static partial class Emojis
         {
             "leo"
         },
+        PersianKeywords = new[]
+        {
+            "leo"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -19516,6 +25392,10 @@ public static partial class Emojis
         Description = "Virgo",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "virgo"
+        },
+        PersianKeywords = new[]
         {
             "virgo"
         },
@@ -19532,6 +25412,10 @@ public static partial class Emojis
         {
             "libra"
         },
+        PersianKeywords = new[]
+        {
+            "libra"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -19542,6 +25426,10 @@ public static partial class Emojis
         Description = "Scorpio",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "scorpius"
+        },
+        PersianKeywords = new[]
         {
             "scorpius"
         },
@@ -19558,6 +25446,10 @@ public static partial class Emojis
         {
             "sagittarius"
         },
+        PersianKeywords = new[]
+        {
+            "sagittarius"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -19568,6 +25460,10 @@ public static partial class Emojis
         Description = "Capricorn",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "capricorn"
+        },
+        PersianKeywords = new[]
         {
             "capricorn"
         },
@@ -19584,6 +25480,10 @@ public static partial class Emojis
         {
             "aquarius"
         },
+        PersianKeywords = new[]
+        {
+            "aquarius"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -19597,6 +25497,10 @@ public static partial class Emojis
         {
             "pisces"
         },
+        PersianKeywords = new[]
+        {
+            "pisces"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -19607,6 +25511,10 @@ public static partial class Emojis
         Description = "Ophiuchus",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "ophiuchus"
+        },
+        PersianKeywords = new[]
         {
             "ophiuchus"
         },
@@ -19627,6 +25535,11 @@ public static partial class Emojis
         {
             "shuffle"
         },
+        PersianKeywords = new[]
+        {
+            "twisted_rightwards_arrows",
+            "shuffle"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -19644,6 +25557,11 @@ public static partial class Emojis
         {
             "loop"
         },
+        PersianKeywords = new[]
+        {
+            "repeat",
+            "loop"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -19654,6 +25572,10 @@ public static partial class Emojis
         Description = "repeat single button",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "repeat_one"
+        },
+        PersianKeywords = new[]
         {
             "repeat_one"
         },
@@ -19670,6 +25592,10 @@ public static partial class Emojis
         {
             "arrow_forward"
         },
+        PersianKeywords = new[]
+        {
+            "arrow_forward"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -19680,6 +25606,10 @@ public static partial class Emojis
         Description = "fast-forward button",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "fast_forward"
+        },
+        PersianKeywords = new[]
         {
             "fast_forward"
         },
@@ -19696,6 +25626,10 @@ public static partial class Emojis
         {
             "next_track_button"
         },
+        PersianKeywords = new[]
+        {
+            "next_track_button"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.1"
     };
@@ -19706,6 +25640,10 @@ public static partial class Emojis
         Description = "play or pause button",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "play_or_pause_button"
+        },
+        PersianKeywords = new[]
         {
             "play_or_pause_button"
         },
@@ -19722,6 +25660,10 @@ public static partial class Emojis
         {
             "arrow_backward"
         },
+        PersianKeywords = new[]
+        {
+            "arrow_backward"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -19732,6 +25674,10 @@ public static partial class Emojis
         Description = "fast reverse button",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "rewind"
+        },
+        PersianKeywords = new[]
         {
             "rewind"
         },
@@ -19748,6 +25694,10 @@ public static partial class Emojis
         {
             "previous_track_button"
         },
+        PersianKeywords = new[]
+        {
+            "previous_track_button"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.1"
     };
@@ -19758,6 +25708,10 @@ public static partial class Emojis
         Description = "upwards button",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "arrow_up_small"
+        },
+        PersianKeywords = new[]
         {
             "arrow_up_small"
         },
@@ -19774,6 +25728,10 @@ public static partial class Emojis
         {
             "arrow_double_up"
         },
+        PersianKeywords = new[]
+        {
+            "arrow_double_up"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -19784,6 +25742,10 @@ public static partial class Emojis
         Description = "downwards button",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "arrow_down_small"
+        },
+        PersianKeywords = new[]
         {
             "arrow_down_small"
         },
@@ -19800,6 +25762,10 @@ public static partial class Emojis
         {
             "arrow_double_down"
         },
+        PersianKeywords = new[]
+        {
+            "arrow_double_down"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -19810,6 +25776,10 @@ public static partial class Emojis
         Description = "pause button",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "pause_button"
+        },
+        PersianKeywords = new[]
         {
             "pause_button"
         },
@@ -19826,6 +25796,10 @@ public static partial class Emojis
         {
             "stop_button"
         },
+        PersianKeywords = new[]
+        {
+            "stop_button"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -19839,6 +25813,10 @@ public static partial class Emojis
         {
             "record_button"
         },
+        PersianKeywords = new[]
+        {
+            "record_button"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -19849,6 +25827,10 @@ public static partial class Emojis
         Description = "eject button",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "eject_button"
+        },
+        PersianKeywords = new[]
         {
             "eject_button"
         },
@@ -19870,6 +25852,12 @@ public static partial class Emojis
             "film",
             "movie"
         },
+        PersianKeywords = new[]
+        {
+            "cinema",
+            "film",
+            "movie"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -19883,6 +25871,10 @@ public static partial class Emojis
         {
             "low_brightness"
         },
+        PersianKeywords = new[]
+        {
+            "low_brightness"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -19893,6 +25885,10 @@ public static partial class Emojis
         Description = "bright button",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "high_brightness"
+        },
+        PersianKeywords = new[]
         {
             "high_brightness"
         },
@@ -19913,6 +25909,11 @@ public static partial class Emojis
         {
             "wifi"
         },
+        PersianKeywords = new[]
+        {
+            "signal_strength",
+            "wifi"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -19923,6 +25924,10 @@ public static partial class Emojis
         Description = "vibration mode",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "vibration_mode"
+        },
+        PersianKeywords = new[]
         {
             "vibration_mode"
         },
@@ -19944,6 +25949,12 @@ public static partial class Emojis
             "mute",
             "off"
         },
+        PersianKeywords = new[]
+        {
+            "mobile_phone_off",
+            "mute",
+            "off"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -19954,6 +25965,10 @@ public static partial class Emojis
         Description = "female sign",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "female_sign"
+        },
+        PersianKeywords = new[]
         {
             "female_sign"
         },
@@ -19970,6 +25985,10 @@ public static partial class Emojis
         {
             "male_sign"
         },
+        PersianKeywords = new[]
+        {
+            "male_sign"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -19983,6 +26002,10 @@ public static partial class Emojis
         {
             "medical_symbol"
         },
+        PersianKeywords = new[]
+        {
+            "medical_symbol"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -19993,6 +26016,10 @@ public static partial class Emojis
         Description = "infinity",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "infinity"
+        },
+        PersianKeywords = new[]
         {
             "infinity"
         },
@@ -20014,6 +26041,12 @@ public static partial class Emojis
             "environment",
             "green"
         },
+        PersianKeywords = new[]
+        {
+            "recycle",
+            "environment",
+            "green"
+        },
         UnicodeVersion = "3.2",
         IosVersion = "6.0"
     };
@@ -20024,6 +26057,10 @@ public static partial class Emojis
         Description = "fleur-de-lis",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "fleur_de_lis"
+        },
+        PersianKeywords = new[]
         {
             "fleur_de_lis"
         },
@@ -20040,6 +26077,10 @@ public static partial class Emojis
         {
             "trident"
         },
+        PersianKeywords = new[]
+        {
+            "trident"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -20050,6 +26091,10 @@ public static partial class Emojis
         Description = "name badge",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "name_badge"
+        },
+        PersianKeywords = new[]
         {
             "name_badge"
         },
@@ -20066,6 +26111,10 @@ public static partial class Emojis
         {
             "beginner"
         },
+        PersianKeywords = new[]
+        {
+            "beginner"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -20076,6 +26125,10 @@ public static partial class Emojis
         Description = "hollow red circle",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "o"
+        },
+        PersianKeywords = new[]
         {
             "o"
         },
@@ -20092,6 +26145,10 @@ public static partial class Emojis
         {
             "white_check_mark"
         },
+        PersianKeywords = new[]
+        {
+            "white_check_mark"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -20102,6 +26159,10 @@ public static partial class Emojis
         Description = "check box with check",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "ballot_box_with_check"
+        },
+        PersianKeywords = new[]
         {
             "ballot_box_with_check"
         },
@@ -20118,6 +26179,10 @@ public static partial class Emojis
         {
             "heavy_check_mark"
         },
+        PersianKeywords = new[]
+        {
+            "heavy_check_mark"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -20128,6 +26193,10 @@ public static partial class Emojis
         Description = "multiplication sign",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "heavy_multiplication_x"
+        },
+        PersianKeywords = new[]
         {
             "heavy_multiplication_x"
         },
@@ -20144,6 +26213,10 @@ public static partial class Emojis
         {
             "x"
         },
+        PersianKeywords = new[]
+        {
+            "x"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -20154,6 +26227,10 @@ public static partial class Emojis
         Description = "cross mark button",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "negative_squared_cross_mark"
+        },
+        PersianKeywords = new[]
         {
             "negative_squared_cross_mark"
         },
@@ -20170,6 +26247,10 @@ public static partial class Emojis
         {
             "heavy_plus_sign"
         },
+        PersianKeywords = new[]
+        {
+            "heavy_plus_sign"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -20180,6 +26261,10 @@ public static partial class Emojis
         Description = "minus sign",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "heavy_minus_sign"
+        },
+        PersianKeywords = new[]
         {
             "heavy_minus_sign"
         },
@@ -20196,6 +26281,10 @@ public static partial class Emojis
         {
             "heavy_division_sign"
         },
+        PersianKeywords = new[]
+        {
+            "heavy_division_sign"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -20206,6 +26295,10 @@ public static partial class Emojis
         Description = "curly loop",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "curly_loop"
+        },
+        PersianKeywords = new[]
         {
             "curly_loop"
         },
@@ -20222,6 +26315,10 @@ public static partial class Emojis
         {
             "loop"
         },
+        PersianKeywords = new[]
+        {
+            "loop"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -20232,6 +26329,10 @@ public static partial class Emojis
         Description = "part alternation mark",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "part_alternation_mark"
+        },
+        PersianKeywords = new[]
         {
             "part_alternation_mark"
         },
@@ -20248,6 +26349,10 @@ public static partial class Emojis
         {
             "eight_spoked_asterisk"
         },
+        PersianKeywords = new[]
+        {
+            "eight_spoked_asterisk"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -20258,6 +26363,10 @@ public static partial class Emojis
         Description = "eight-pointed star",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "eight_pointed_black_star"
+        },
+        PersianKeywords = new[]
         {
             "eight_pointed_black_star"
         },
@@ -20274,6 +26383,10 @@ public static partial class Emojis
         {
             "sparkle"
         },
+        PersianKeywords = new[]
+        {
+            "sparkle"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -20287,6 +26400,10 @@ public static partial class Emojis
         {
             "bangbang"
         },
+        PersianKeywords = new[]
+        {
+            "bangbang"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -20297,6 +26414,10 @@ public static partial class Emojis
         Description = "exclamation question mark",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "interrobang"
+        },
+        PersianKeywords = new[]
         {
             "interrobang"
         },
@@ -20317,6 +26438,11 @@ public static partial class Emojis
         {
             "confused"
         },
+        PersianKeywords = new[]
+        {
+            "question",
+            "confused"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -20330,6 +26456,10 @@ public static partial class Emojis
         {
             "grey_question"
         },
+        PersianKeywords = new[]
+        {
+            "grey_question"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -20340,6 +26470,10 @@ public static partial class Emojis
         Description = "white exclamation mark",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "grey_exclamation"
+        },
+        PersianKeywords = new[]
         {
             "grey_exclamation"
         },
@@ -20361,6 +26495,12 @@ public static partial class Emojis
         {
             "bang"
         },
+        PersianKeywords = new[]
+        {
+            "exclamation",
+            "heavy_exclamation_mark",
+            "bang"
+        },
         UnicodeVersion = "5.2",
         IosVersion = "6.0"
     };
@@ -20371,6 +26511,10 @@ public static partial class Emojis
         Description = "wavy dash",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "wavy_dash"
+        },
+        PersianKeywords = new[]
         {
             "wavy_dash"
         },
@@ -20387,6 +26531,10 @@ public static partial class Emojis
         {
             "copyright"
         },
+        PersianKeywords = new[]
+        {
+            "copyright"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -20397,6 +26545,10 @@ public static partial class Emojis
         Description = "registered",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "registered"
+        },
+        PersianKeywords = new[]
         {
             "registered"
         },
@@ -20417,6 +26569,11 @@ public static partial class Emojis
         {
             "trademark"
         },
+        PersianKeywords = new[]
+        {
+            "tm",
+            "trademark"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -20434,15 +26591,25 @@ public static partial class Emojis
         {
             "number"
         },
+        PersianKeywords = new[]
+        {
+            "hash",
+            "number"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
+
     public static EmojiData KeycapStar = new EmojiData
     {
         Emoji = "*️⃣",
         Description = "keycap: *",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "asterisk"
+        },
+        PersianKeywords = new[]
         {
             "asterisk"
         },
@@ -20459,6 +26626,10 @@ public static partial class Emojis
         {
             "zero"
         },
+        PersianKeywords = new[]
+        {
+            "zero"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -20469,6 +26640,10 @@ public static partial class Emojis
         Description = "keycap: 1",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "one"
+        },
+        PersianKeywords = new[]
         {
             "one"
         },
@@ -20485,6 +26660,10 @@ public static partial class Emojis
         {
             "two"
         },
+        PersianKeywords = new[]
+        {
+            "two"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -20495,6 +26674,10 @@ public static partial class Emojis
         Description = "keycap: 3",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "three"
+        },
+        PersianKeywords = new[]
         {
             "three"
         },
@@ -20511,6 +26694,10 @@ public static partial class Emojis
         {
             "four"
         },
+        PersianKeywords = new[]
+        {
+            "four"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -20521,6 +26708,10 @@ public static partial class Emojis
         Description = "keycap: 5",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "five"
+        },
+        PersianKeywords = new[]
         {
             "five"
         },
@@ -20537,6 +26728,10 @@ public static partial class Emojis
         {
             "six"
         },
+        PersianKeywords = new[]
+        {
+            "six"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -20547,6 +26742,10 @@ public static partial class Emojis
         Description = "keycap: 7",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "seven"
+        },
+        PersianKeywords = new[]
         {
             "seven"
         },
@@ -20563,6 +26762,10 @@ public static partial class Emojis
         {
             "eight"
         },
+        PersianKeywords = new[]
+        {
+            "eight"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -20576,6 +26779,10 @@ public static partial class Emojis
         {
             "nine"
         },
+        PersianKeywords = new[]
+        {
+            "nine"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -20586,6 +26793,10 @@ public static partial class Emojis
         Description = "keycap: 10",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "keycap_ten"
+        },
+        PersianKeywords = new[]
         {
             "keycap_ten"
         },
@@ -20606,6 +26817,11 @@ public static partial class Emojis
         {
             "letters"
         },
+        PersianKeywords = new[]
+        {
+            "capital_abcd",
+            "letters"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -20616,6 +26832,10 @@ public static partial class Emojis
         Description = "input latin lowercase",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "abcd"
+        },
+        PersianKeywords = new[]
         {
             "abcd"
         },
@@ -20636,6 +26856,11 @@ public static partial class Emojis
         {
             "numbers"
         },
+        PersianKeywords = new[]
+        {
+            "1234",
+            "numbers"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -20646,6 +26871,10 @@ public static partial class Emojis
         Description = "input symbols",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "symbols"
+        },
+        PersianKeywords = new[]
         {
             "symbols"
         },
@@ -20666,11 +26895,16 @@ public static partial class Emojis
         {
             "alphabet"
         },
+        PersianKeywords = new[]
+        {
+            "abc",
+            "alphabet"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
 
-    public static EmojiData AButton_BloodType = new EmojiData
+    public static EmojiData AButton_BloodType_ = new EmojiData
     {
         Emoji = "🅰️",
         Description = "A button (blood type)",
@@ -20679,10 +26913,15 @@ public static partial class Emojis
         {
             "a"
         },
+        PersianKeywords = new[]
+        {
+            "a"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
-    public static EmojiData ABButton_BloodType = new EmojiData
+
+    public static EmojiData ABButton_BloodType_ = new EmojiData
     {
         Emoji = "🆎",
         Description = "AB button (blood type)",
@@ -20691,15 +26930,24 @@ public static partial class Emojis
         {
             "ab"
         },
+        PersianKeywords = new[]
+        {
+            "ab"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
-    public static EmojiData BButton_BloodType = new EmojiData
+
+    public static EmojiData BButton_BloodType_ = new EmojiData
     {
         Emoji = "🅱️",
         Description = "B button (blood type)",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "b"
+        },
+        PersianKeywords = new[]
         {
             "b"
         },
@@ -20716,6 +26964,10 @@ public static partial class Emojis
         {
             "cl"
         },
+        PersianKeywords = new[]
+        {
+            "cl"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -20726,6 +26978,10 @@ public static partial class Emojis
         Description = "COOL button",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "cool"
+        },
+        PersianKeywords = new[]
         {
             "cool"
         },
@@ -20742,6 +26998,10 @@ public static partial class Emojis
         {
             "free"
         },
+        PersianKeywords = new[]
+        {
+            "free"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -20752,6 +27012,10 @@ public static partial class Emojis
         Description = "information",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "information_source"
+        },
+        PersianKeywords = new[]
         {
             "information_source"
         },
@@ -20768,6 +27032,10 @@ public static partial class Emojis
         {
             "id"
         },
+        PersianKeywords = new[]
+        {
+            "id"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -20778,6 +27046,10 @@ public static partial class Emojis
         Description = "circled M",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "m"
+        },
+        PersianKeywords = new[]
         {
             "m"
         },
@@ -20798,6 +27070,11 @@ public static partial class Emojis
         {
             "fresh"
         },
+        PersianKeywords = new[]
+        {
+            "new",
+            "fresh"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -20811,16 +27088,24 @@ public static partial class Emojis
         {
             "ng"
         },
+        PersianKeywords = new[]
+        {
+            "ng"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
 
-    public static EmojiData OButton_BloodType = new EmojiData
+    public static EmojiData OButton_BloodType_ = new EmojiData
     {
         Emoji = "🅾️",
         Description = "O button (blood type)",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "o2"
+        },
+        PersianKeywords = new[]
         {
             "o2"
         },
@@ -20841,6 +27126,11 @@ public static partial class Emojis
         {
             "yes"
         },
+        PersianKeywords = new[]
+        {
+            "ok",
+            "yes"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -20851,6 +27141,10 @@ public static partial class Emojis
         Description = "P button",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "parking"
+        },
+        PersianKeywords = new[]
         {
             "parking"
         },
@@ -20872,16 +27166,26 @@ public static partial class Emojis
             "help",
             "emergency"
         },
+        PersianKeywords = new[]
+        {
+            "sos",
+            "help",
+            "emergency"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
 
-    public static EmojiData UPButton = new EmojiData
+    public static EmojiData UP_Button = new EmojiData
     {
         Emoji = "🆙",
         Description = "UP! button",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "up"
+        },
+        PersianKeywords = new[]
         {
             "up"
         },
@@ -20898,11 +27202,15 @@ public static partial class Emojis
         {
             "vs"
         },
+        PersianKeywords = new[]
+        {
+            "vs"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
 
-    public static EmojiData JapaneseHereButton = new EmojiData
+    public static EmojiData Japanese_Here_Button = new EmojiData
     {
         Emoji = "🈁",
         Description = "Japanese “here” button",
@@ -20911,10 +27219,15 @@ public static partial class Emojis
         {
             "koko"
         },
+        PersianKeywords = new[]
+        {
+            "koko"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
-    public static EmojiData JapaneseServiceChargeButton = new EmojiData
+
+    public static EmojiData Japanese_ServiceCharge_Button = new EmojiData
     {
         Emoji = "🈂️",
         Description = "Japanese “service charge” button",
@@ -20923,10 +27236,15 @@ public static partial class Emojis
         {
             "sa"
         },
+        PersianKeywords = new[]
+        {
+            "sa"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
-    public static EmojiData JapaneseMonthlyAmountButton = new EmojiData
+
+    public static EmojiData Japanese_MonthlyAmount_Button = new EmojiData
     {
         Emoji = "🈷️",
         Description = "Japanese “monthly amount” button",
@@ -20935,10 +27253,15 @@ public static partial class Emojis
         {
             "u6708"
         },
+        PersianKeywords = new[]
+        {
+            "u6708"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
-    public static EmojiData JapaneseNotFreeOfChargeButton = new EmojiData
+
+    public static EmojiData Japanese_NotFreeOfCharge_Button = new EmojiData
     {
         Emoji = "🈶",
         Description = "Japanese “not free of charge” button",
@@ -20947,10 +27270,15 @@ public static partial class Emojis
         {
             "u6709"
         },
+        PersianKeywords = new[]
+        {
+            "u6709"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
-    public static EmojiData JapaneseReservedButton = new EmojiData
+
+    public static EmojiData Japanese_Reserved_Button = new EmojiData
     {
         Emoji = "🈯",
         Description = "Japanese “reserved” button",
@@ -20959,10 +27287,15 @@ public static partial class Emojis
         {
             "u6307"
         },
+        PersianKeywords = new[]
+        {
+            "u6307"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
-    public static EmojiData JapaneseBargainButton = new EmojiData
+
+    public static EmojiData Japanese_Bargain_Button = new EmojiData
     {
         Emoji = "🉐",
         Description = "Japanese “bargain” button",
@@ -20971,10 +27304,15 @@ public static partial class Emojis
         {
             "ideograph_advantage"
         },
+        PersianKeywords = new[]
+        {
+            "ideograph_advantage"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
-    public static EmojiData JapaneseDiscountButton = new EmojiData
+
+    public static EmojiData Japanese_Discount_Button = new EmojiData
     {
         Emoji = "🈹",
         Description = "Japanese “discount” button",
@@ -20983,10 +27321,15 @@ public static partial class Emojis
         {
             "u5272"
         },
+        PersianKeywords = new[]
+        {
+            "u5272"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
-    public static EmojiData JapaneseFreeOfChargeButton = new EmojiData
+
+    public static EmojiData Japanese_FreeOfCharge_Button = new EmojiData
     {
         Emoji = "🈚",
         Description = "Japanese “free of charge” button",
@@ -20995,10 +27338,15 @@ public static partial class Emojis
         {
             "u7121"
         },
+        PersianKeywords = new[]
+        {
+            "u7121"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
-    public static EmojiData JapaneseProhibitedButton = new EmojiData
+
+    public static EmojiData Japanese_Prohibited_Button = new EmojiData
     {
         Emoji = "🈲",
         Description = "Japanese “prohibited” button",
@@ -21007,10 +27355,15 @@ public static partial class Emojis
         {
             "u7981"
         },
+        PersianKeywords = new[]
+        {
+            "u7981"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
-    public static EmojiData JapaneseAcceptableButton = new EmojiData
+
+    public static EmojiData Japanese_Acceptable_Button = new EmojiData
     {
         Emoji = "🉑",
         Description = "Japanese “acceptable” button",
@@ -21019,10 +27372,15 @@ public static partial class Emojis
         {
             "accept"
         },
+        PersianKeywords = new[]
+        {
+            "accept"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
-    public static EmojiData JapaneseApplicationButton = new EmojiData
+
+    public static EmojiData Japanese_Application_Button = new EmojiData
     {
         Emoji = "🈸",
         Description = "Japanese “application” button",
@@ -21031,10 +27389,15 @@ public static partial class Emojis
         {
             "u7533"
         },
+        PersianKeywords = new[]
+        {
+            "u7533"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
-    public static EmojiData JapanesePassingGradeButton = new EmojiData
+
+    public static EmojiData Japanese_PassingGrade_Button = new EmojiData
     {
         Emoji = "🈴",
         Description = "Japanese “passing grade” button",
@@ -21043,10 +27406,15 @@ public static partial class Emojis
         {
             "u5408"
         },
+        PersianKeywords = new[]
+        {
+            "u5408"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
-    public static EmojiData JapaneseVacancyButton = new EmojiData
+
+    public static EmojiData Japanese_Vacancy_Button = new EmojiData
     {
         Emoji = "🈳",
         Description = "Japanese “vacancy” button",
@@ -21055,10 +27423,15 @@ public static partial class Emojis
         {
             "u7a7a"
         },
+        PersianKeywords = new[]
+        {
+            "u7a7a"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
-    public static EmojiData JapaneseCongratulationsButton = new EmojiData
+
+    public static EmojiData Japanese_Congratulations_Button = new EmojiData
     {
         Emoji = "㊗️",
         Description = "Japanese “congratulations” button",
@@ -21067,10 +27440,15 @@ public static partial class Emojis
         {
             "congratulations"
         },
+        PersianKeywords = new[]
+        {
+            "congratulations"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
-    public static EmojiData JapaneseSecretButton = new EmojiData
+
+    public static EmojiData Japanese_Secret_Button = new EmojiData
     {
         Emoji = "㊙️",
         Description = "Japanese “secret” button",
@@ -21079,10 +27457,15 @@ public static partial class Emojis
         {
             "secret"
         },
+        PersianKeywords = new[]
+        {
+            "secret"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
-    public static EmojiData JapaneseOpenForBusinessButton = new EmojiData
+
+    public static EmojiData Japanese_OpenForBusiness_Button = new EmojiData
     {
         Emoji = "🈺",
         Description = "Japanese “open for business” button",
@@ -21091,15 +27474,24 @@ public static partial class Emojis
         {
             "u55b6"
         },
+        PersianKeywords = new[]
+        {
+            "u55b6"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
-    public static EmojiData JapaneseNoVacancyButton = new EmojiData
+
+    public static EmojiData Japanese_NoVacancy_Button = new EmojiData
     {
         Emoji = "🈵",
         Description = "Japanese “no vacancy” button",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "u6e80"
+        },
+        PersianKeywords = new[]
         {
             "u6e80"
         },
@@ -21116,6 +27508,10 @@ public static partial class Emojis
         {
             "red_circle"
         },
+        PersianKeywords = new[]
+        {
+            "red_circle"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -21126,6 +27522,10 @@ public static partial class Emojis
         Description = "orange circle",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "orange_circle"
+        },
+        PersianKeywords = new[]
         {
             "orange_circle"
         },
@@ -21142,6 +27542,10 @@ public static partial class Emojis
         {
             "yellow_circle"
         },
+        PersianKeywords = new[]
+        {
+            "yellow_circle"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -21152,6 +27556,10 @@ public static partial class Emojis
         Description = "green circle",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "green_circle"
+        },
+        PersianKeywords = new[]
         {
             "green_circle"
         },
@@ -21168,6 +27576,10 @@ public static partial class Emojis
         {
             "large_blue_circle"
         },
+        PersianKeywords = new[]
+        {
+            "large_blue_circle"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -21178,6 +27590,10 @@ public static partial class Emojis
         Description = "purple circle",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "purple_circle"
+        },
+        PersianKeywords = new[]
         {
             "purple_circle"
         },
@@ -21194,6 +27610,10 @@ public static partial class Emojis
         {
             "brown_circle"
         },
+        PersianKeywords = new[]
+        {
+            "brown_circle"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -21204,6 +27624,10 @@ public static partial class Emojis
         Description = "black circle",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "black_circle"
+        },
+        PersianKeywords = new[]
         {
             "black_circle"
         },
@@ -21220,6 +27644,10 @@ public static partial class Emojis
         {
             "white_circle"
         },
+        PersianKeywords = new[]
+        {
+            "white_circle"
+        },
         UnicodeVersion = "4.1",
         IosVersion = "6.0"
     };
@@ -21230,6 +27658,10 @@ public static partial class Emojis
         Description = "red square",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "red_square"
+        },
+        PersianKeywords = new[]
         {
             "red_square"
         },
@@ -21246,6 +27678,10 @@ public static partial class Emojis
         {
             "orange_square"
         },
+        PersianKeywords = new[]
+        {
+            "orange_square"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -21256,6 +27692,10 @@ public static partial class Emojis
         Description = "yellow square",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "yellow_square"
+        },
+        PersianKeywords = new[]
         {
             "yellow_square"
         },
@@ -21272,6 +27712,10 @@ public static partial class Emojis
         {
             "green_square"
         },
+        PersianKeywords = new[]
+        {
+            "green_square"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -21282,6 +27726,10 @@ public static partial class Emojis
         Description = "blue square",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "blue_square"
+        },
+        PersianKeywords = new[]
         {
             "blue_square"
         },
@@ -21298,6 +27746,10 @@ public static partial class Emojis
         {
             "purple_square"
         },
+        PersianKeywords = new[]
+        {
+            "purple_square"
+        },
         UnicodeVersion = "12.0",
         IosVersion = "13.0"
     };
@@ -21308,6 +27760,10 @@ public static partial class Emojis
         Description = "brown square",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "brown_square"
+        },
+        PersianKeywords = new[]
         {
             "brown_square"
         },
@@ -21324,6 +27780,10 @@ public static partial class Emojis
         {
             "black_large_square"
         },
+        PersianKeywords = new[]
+        {
+            "black_large_square"
+        },
         UnicodeVersion = "5.1",
         IosVersion = "6.0"
     };
@@ -21334,6 +27794,10 @@ public static partial class Emojis
         Description = "white large square",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "white_large_square"
+        },
+        PersianKeywords = new[]
         {
             "white_large_square"
         },
@@ -21350,6 +27814,10 @@ public static partial class Emojis
         {
             "black_medium_square"
         },
+        PersianKeywords = new[]
+        {
+            "black_medium_square"
+        },
         UnicodeVersion = "3.2",
         IosVersion = "6.0"
     };
@@ -21360,6 +27828,10 @@ public static partial class Emojis
         Description = "white medium square",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "white_medium_square"
+        },
+        PersianKeywords = new[]
         {
             "white_medium_square"
         },
@@ -21376,6 +27848,10 @@ public static partial class Emojis
         {
             "black_medium_small_square"
         },
+        PersianKeywords = new[]
+        {
+            "black_medium_small_square"
+        },
         UnicodeVersion = "3.2",
         IosVersion = "6.0"
     };
@@ -21386,6 +27862,10 @@ public static partial class Emojis
         Description = "white medium-small square",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "white_medium_small_square"
+        },
+        PersianKeywords = new[]
         {
             "white_medium_small_square"
         },
@@ -21402,6 +27882,10 @@ public static partial class Emojis
         {
             "black_small_square"
         },
+        PersianKeywords = new[]
+        {
+            "black_small_square"
+        },
         UnicodeVersion = "",
         IosVersion = "6.0"
     };
@@ -21412,6 +27896,10 @@ public static partial class Emojis
         Description = "white small square",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "white_small_square"
+        },
+        PersianKeywords = new[]
         {
             "white_small_square"
         },
@@ -21428,6 +27916,10 @@ public static partial class Emojis
         {
             "large_orange_diamond"
         },
+        PersianKeywords = new[]
+        {
+            "large_orange_diamond"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -21438,6 +27930,10 @@ public static partial class Emojis
         Description = "large blue diamond",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "large_blue_diamond"
+        },
+        PersianKeywords = new[]
         {
             "large_blue_diamond"
         },
@@ -21454,6 +27950,10 @@ public static partial class Emojis
         {
             "small_orange_diamond"
         },
+        PersianKeywords = new[]
+        {
+            "small_orange_diamond"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -21464,6 +27964,10 @@ public static partial class Emojis
         Description = "small blue diamond",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "small_blue_diamond"
+        },
+        PersianKeywords = new[]
         {
             "small_blue_diamond"
         },
@@ -21480,6 +27984,10 @@ public static partial class Emojis
         {
             "small_red_triangle"
         },
+        PersianKeywords = new[]
+        {
+            "small_red_triangle"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -21490,6 +27998,10 @@ public static partial class Emojis
         Description = "red triangle pointed down",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "small_red_triangle_down"
+        },
+        PersianKeywords = new[]
         {
             "small_red_triangle_down"
         },
@@ -21506,6 +28018,10 @@ public static partial class Emojis
         {
             "diamond_shape_with_a_dot_inside"
         },
+        PersianKeywords = new[]
+        {
+            "diamond_shape_with_a_dot_inside"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -21516,6 +28032,10 @@ public static partial class Emojis
         Description = "radio button",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "radio_button"
+        },
+        PersianKeywords = new[]
         {
             "radio_button"
         },
@@ -21532,6 +28052,10 @@ public static partial class Emojis
         {
             "white_square_button"
         },
+        PersianKeywords = new[]
+        {
+            "white_square_button"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -21542,6 +28066,10 @@ public static partial class Emojis
         Description = "black square button",
         Category = "Symbols",
         Aliases = new[]
+        {
+            "black_square_button"
+        },
+        PersianKeywords = new[]
         {
             "black_square_button"
         },
@@ -21563,6 +28091,12 @@ public static partial class Emojis
             "milestone",
             "finish"
         },
+        PersianKeywords = new[]
+        {
+            "checkered_flag",
+            "milestone",
+            "finish"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -21573,6 +28107,10 @@ public static partial class Emojis
         Description = "triangular flag",
         Category = "Flags",
         Aliases = new[]
+        {
+            "triangular_flag_on_post"
+        },
+        PersianKeywords = new[]
         {
             "triangular_flag_on_post"
         },
@@ -21589,6 +28127,10 @@ public static partial class Emojis
         {
             "crossed_flags"
         },
+        PersianKeywords = new[]
+        {
+            "crossed_flags"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -21602,6 +28144,10 @@ public static partial class Emojis
         {
             "black_flag"
         },
+        PersianKeywords = new[]
+        {
+            "black_flag"
+        },
         UnicodeVersion = "7.0",
         IosVersion = "9.1"
     };
@@ -21612,6 +28158,10 @@ public static partial class Emojis
         Description = "white flag",
         Category = "Flags",
         Aliases = new[]
+        {
+            "white_flag"
+        },
+        PersianKeywords = new[]
         {
             "white_flag"
         },
@@ -21632,6 +28182,11 @@ public static partial class Emojis
         {
             "pride"
         },
+        PersianKeywords = new[]
+        {
+            "rainbow_flag",
+            "pride"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "10.0"
     };
@@ -21642,6 +28197,10 @@ public static partial class Emojis
         Description = "pirate flag",
         Category = "Flags",
         Aliases = new[]
+        {
+            "pirate_flag"
+        },
+        PersianKeywords = new[]
         {
             "pirate_flag"
         },
@@ -21658,6 +28217,10 @@ public static partial class Emojis
         {
             "ascension_island"
         },
+        PersianKeywords = new[]
+        {
+            "ascension_island"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -21668,6 +28231,10 @@ public static partial class Emojis
         Description = "flag: Andorra",
         Category = "Flags",
         Aliases = new[]
+        {
+            "andorra"
+        },
+        PersianKeywords = new[]
         {
             "andorra"
         },
@@ -21684,6 +28251,10 @@ public static partial class Emojis
         {
             "united_arab_emirates"
         },
+        PersianKeywords = new[]
+        {
+            "united_arab_emirates"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -21694,6 +28265,10 @@ public static partial class Emojis
         Description = "flag: Afghanistan",
         Category = "Flags",
         Aliases = new[]
+        {
+            "afghanistan"
+        },
+        PersianKeywords = new[]
         {
             "afghanistan"
         },
@@ -21710,6 +28285,10 @@ public static partial class Emojis
         {
             "antigua_barbuda"
         },
+        PersianKeywords = new[]
+        {
+            "antigua_barbuda"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -21720,6 +28299,10 @@ public static partial class Emojis
         Description = "flag: Anguilla",
         Category = "Flags",
         Aliases = new[]
+        {
+            "anguilla"
+        },
+        PersianKeywords = new[]
         {
             "anguilla"
         },
@@ -21736,6 +28319,10 @@ public static partial class Emojis
         {
             "albania"
         },
+        PersianKeywords = new[]
+        {
+            "albania"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -21746,6 +28333,10 @@ public static partial class Emojis
         Description = "flag: Armenia",
         Category = "Flags",
         Aliases = new[]
+        {
+            "armenia"
+        },
+        PersianKeywords = new[]
         {
             "armenia"
         },
@@ -21762,6 +28353,10 @@ public static partial class Emojis
         {
             "angola"
         },
+        PersianKeywords = new[]
+        {
+            "angola"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -21772,6 +28367,10 @@ public static partial class Emojis
         Description = "flag: Antarctica",
         Category = "Flags",
         Aliases = new[]
+        {
+            "antarctica"
+        },
+        PersianKeywords = new[]
         {
             "antarctica"
         },
@@ -21788,6 +28387,10 @@ public static partial class Emojis
         {
             "argentina"
         },
+        PersianKeywords = new[]
+        {
+            "argentina"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -21798,6 +28401,10 @@ public static partial class Emojis
         Description = "flag: American Samoa",
         Category = "Flags",
         Aliases = new[]
+        {
+            "american_samoa"
+        },
+        PersianKeywords = new[]
         {
             "american_samoa"
         },
@@ -21814,6 +28421,10 @@ public static partial class Emojis
         {
             "austria"
         },
+        PersianKeywords = new[]
+        {
+            "austria"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -21824,6 +28435,10 @@ public static partial class Emojis
         Description = "flag: Australia",
         Category = "Flags",
         Aliases = new[]
+        {
+            "australia"
+        },
+        PersianKeywords = new[]
         {
             "australia"
         },
@@ -21840,6 +28455,10 @@ public static partial class Emojis
         {
             "aruba"
         },
+        PersianKeywords = new[]
+        {
+            "aruba"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -21850,6 +28469,10 @@ public static partial class Emojis
         Description = "flag: Åland Islands",
         Category = "Flags",
         Aliases = new[]
+        {
+            "aland_islands"
+        },
+        PersianKeywords = new[]
         {
             "aland_islands"
         },
@@ -21866,6 +28489,10 @@ public static partial class Emojis
         {
             "azerbaijan"
         },
+        PersianKeywords = new[]
+        {
+            "azerbaijan"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -21876,6 +28503,10 @@ public static partial class Emojis
         Description = "flag: Bosnia & Herzegovina",
         Category = "Flags",
         Aliases = new[]
+        {
+            "bosnia_herzegovina"
+        },
+        PersianKeywords = new[]
         {
             "bosnia_herzegovina"
         },
@@ -21892,6 +28523,10 @@ public static partial class Emojis
         {
             "barbados"
         },
+        PersianKeywords = new[]
+        {
+            "barbados"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -21902,6 +28537,10 @@ public static partial class Emojis
         Description = "flag: Bangladesh",
         Category = "Flags",
         Aliases = new[]
+        {
+            "bangladesh"
+        },
+        PersianKeywords = new[]
         {
             "bangladesh"
         },
@@ -21918,6 +28557,10 @@ public static partial class Emojis
         {
             "belgium"
         },
+        PersianKeywords = new[]
+        {
+            "belgium"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -21928,6 +28571,10 @@ public static partial class Emojis
         Description = "flag: Burkina Faso",
         Category = "Flags",
         Aliases = new[]
+        {
+            "burkina_faso"
+        },
+        PersianKeywords = new[]
         {
             "burkina_faso"
         },
@@ -21944,6 +28591,10 @@ public static partial class Emojis
         {
             "bulgaria"
         },
+        PersianKeywords = new[]
+        {
+            "bulgaria"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -21954,6 +28605,10 @@ public static partial class Emojis
         Description = "flag: Bahrain",
         Category = "Flags",
         Aliases = new[]
+        {
+            "bahrain"
+        },
+        PersianKeywords = new[]
         {
             "bahrain"
         },
@@ -21970,6 +28625,10 @@ public static partial class Emojis
         {
             "burundi"
         },
+        PersianKeywords = new[]
+        {
+            "burundi"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -21980,6 +28639,10 @@ public static partial class Emojis
         Description = "flag: Benin",
         Category = "Flags",
         Aliases = new[]
+        {
+            "benin"
+        },
+        PersianKeywords = new[]
         {
             "benin"
         },
@@ -21996,6 +28659,10 @@ public static partial class Emojis
         {
             "st_barthelemy"
         },
+        PersianKeywords = new[]
+        {
+            "st_barthelemy"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.0"
     };
@@ -22006,6 +28673,10 @@ public static partial class Emojis
         Description = "flag: Bermuda",
         Category = "Flags",
         Aliases = new[]
+        {
+            "bermuda"
+        },
+        PersianKeywords = new[]
         {
             "bermuda"
         },
@@ -22022,6 +28693,10 @@ public static partial class Emojis
         {
             "brunei"
         },
+        PersianKeywords = new[]
+        {
+            "brunei"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22032,6 +28707,10 @@ public static partial class Emojis
         Description = "flag: Bolivia",
         Category = "Flags",
         Aliases = new[]
+        {
+            "bolivia"
+        },
+        PersianKeywords = new[]
         {
             "bolivia"
         },
@@ -22048,6 +28727,10 @@ public static partial class Emojis
         {
             "caribbean_netherlands"
         },
+        PersianKeywords = new[]
+        {
+            "caribbean_netherlands"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.0"
     };
@@ -22058,6 +28741,10 @@ public static partial class Emojis
         Description = "flag: Brazil",
         Category = "Flags",
         Aliases = new[]
+        {
+            "brazil"
+        },
+        PersianKeywords = new[]
         {
             "brazil"
         },
@@ -22074,6 +28761,10 @@ public static partial class Emojis
         {
             "bahamas"
         },
+        PersianKeywords = new[]
+        {
+            "bahamas"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22084,6 +28775,10 @@ public static partial class Emojis
         Description = "flag: Bhutan",
         Category = "Flags",
         Aliases = new[]
+        {
+            "bhutan"
+        },
+        PersianKeywords = new[]
         {
             "bhutan"
         },
@@ -22100,6 +28795,10 @@ public static partial class Emojis
         {
             "bouvet_island"
         },
+        PersianKeywords = new[]
+        {
+            "bouvet_island"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -22110,6 +28809,10 @@ public static partial class Emojis
         Description = "flag: Botswana",
         Category = "Flags",
         Aliases = new[]
+        {
+            "botswana"
+        },
+        PersianKeywords = new[]
         {
             "botswana"
         },
@@ -22126,6 +28829,10 @@ public static partial class Emojis
         {
             "belarus"
         },
+        PersianKeywords = new[]
+        {
+            "belarus"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22139,6 +28846,10 @@ public static partial class Emojis
         {
             "belize"
         },
+        PersianKeywords = new[]
+        {
+            "belize"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22149,6 +28860,10 @@ public static partial class Emojis
         Description = "flag: Canada",
         Category = "Flags",
         Aliases = new[]
+        {
+            "canada"
+        },
+        PersianKeywords = new[]
         {
             "canada"
         },
@@ -22169,6 +28884,11 @@ public static partial class Emojis
         {
             "keeling"
         },
+        PersianKeywords = new[]
+        {
+            "cocos_islands",
+            "keeling"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.0"
     };
@@ -22179,6 +28899,10 @@ public static partial class Emojis
         Description = "flag: Congo - Kinshasa",
         Category = "Flags",
         Aliases = new[]
+        {
+            "congo_kinshasa"
+        },
+        PersianKeywords = new[]
         {
             "congo_kinshasa"
         },
@@ -22195,6 +28919,10 @@ public static partial class Emojis
         {
             "central_african_republic"
         },
+        PersianKeywords = new[]
+        {
+            "central_african_republic"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22208,6 +28936,10 @@ public static partial class Emojis
         {
             "congo_brazzaville"
         },
+        PersianKeywords = new[]
+        {
+            "congo_brazzaville"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22218,6 +28950,10 @@ public static partial class Emojis
         Description = "flag: Switzerland",
         Category = "Flags",
         Aliases = new[]
+        {
+            "switzerland"
+        },
+        PersianKeywords = new[]
         {
             "switzerland"
         },
@@ -22238,6 +28974,11 @@ public static partial class Emojis
         {
             "ivory"
         },
+        PersianKeywords = new[]
+        {
+            "cote_divoire",
+            "ivory"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22248,6 +28989,10 @@ public static partial class Emojis
         Description = "flag: Cook Islands",
         Category = "Flags",
         Aliases = new[]
+        {
+            "cook_islands"
+        },
+        PersianKeywords = new[]
         {
             "cook_islands"
         },
@@ -22264,6 +29009,10 @@ public static partial class Emojis
         {
             "chile"
         },
+        PersianKeywords = new[]
+        {
+            "chile"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22274,6 +29023,10 @@ public static partial class Emojis
         Description = "flag: Cameroon",
         Category = "Flags",
         Aliases = new[]
+        {
+            "cameroon"
+        },
+        PersianKeywords = new[]
         {
             "cameroon"
         },
@@ -22294,6 +29047,11 @@ public static partial class Emojis
         {
             "china"
         },
+        PersianKeywords = new[]
+        {
+            "cn",
+            "china"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -22304,6 +29062,10 @@ public static partial class Emojis
         Description = "flag: Colombia",
         Category = "Flags",
         Aliases = new[]
+        {
+            "colombia"
+        },
+        PersianKeywords = new[]
         {
             "colombia"
         },
@@ -22320,6 +29082,10 @@ public static partial class Emojis
         {
             "clipperton_island"
         },
+        PersianKeywords = new[]
+        {
+            "clipperton_island"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -22330,6 +29096,10 @@ public static partial class Emojis
         Description = "flag: Costa Rica",
         Category = "Flags",
         Aliases = new[]
+        {
+            "costa_rica"
+        },
+        PersianKeywords = new[]
         {
             "costa_rica"
         },
@@ -22346,6 +29116,10 @@ public static partial class Emojis
         {
             "cuba"
         },
+        PersianKeywords = new[]
+        {
+            "cuba"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22356,6 +29130,10 @@ public static partial class Emojis
         Description = "flag: Cape Verde",
         Category = "Flags",
         Aliases = new[]
+        {
+            "cape_verde"
+        },
+        PersianKeywords = new[]
         {
             "cape_verde"
         },
@@ -22372,6 +29150,10 @@ public static partial class Emojis
         {
             "curacao"
         },
+        PersianKeywords = new[]
+        {
+            "curacao"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22382,6 +29164,10 @@ public static partial class Emojis
         Description = "flag: Christmas Island",
         Category = "Flags",
         Aliases = new[]
+        {
+            "christmas_island"
+        },
+        PersianKeywords = new[]
         {
             "christmas_island"
         },
@@ -22398,6 +29184,10 @@ public static partial class Emojis
         {
             "cyprus"
         },
+        PersianKeywords = new[]
+        {
+            "cyprus"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22408,6 +29198,10 @@ public static partial class Emojis
         Description = "flag: Czechia",
         Category = "Flags",
         Aliases = new[]
+        {
+            "czech_republic"
+        },
+        PersianKeywords = new[]
         {
             "czech_republic"
         },
@@ -22429,6 +29223,12 @@ public static partial class Emojis
             "flag",
             "germany"
         },
+        PersianKeywords = new[]
+        {
+            "de",
+            "flag",
+            "germany"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -22439,6 +29239,10 @@ public static partial class Emojis
         Description = "flag: Diego Garcia",
         Category = "Flags",
         Aliases = new[]
+        {
+            "diego_garcia"
+        },
+        PersianKeywords = new[]
         {
             "diego_garcia"
         },
@@ -22455,6 +29259,10 @@ public static partial class Emojis
         {
             "djibouti"
         },
+        PersianKeywords = new[]
+        {
+            "djibouti"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22465,6 +29273,10 @@ public static partial class Emojis
         Description = "flag: Denmark",
         Category = "Flags",
         Aliases = new[]
+        {
+            "denmark"
+        },
+        PersianKeywords = new[]
         {
             "denmark"
         },
@@ -22481,6 +29293,10 @@ public static partial class Emojis
         {
             "dominica"
         },
+        PersianKeywords = new[]
+        {
+            "dominica"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22491,6 +29307,10 @@ public static partial class Emojis
         Description = "flag: Dominican Republic",
         Category = "Flags",
         Aliases = new[]
+        {
+            "dominican_republic"
+        },
+        PersianKeywords = new[]
         {
             "dominican_republic"
         },
@@ -22507,6 +29327,10 @@ public static partial class Emojis
         {
             "algeria"
         },
+        PersianKeywords = new[]
+        {
+            "algeria"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22517,6 +29341,10 @@ public static partial class Emojis
         Description = "flag: Ceuta & Melilla",
         Category = "Flags",
         Aliases = new[]
+        {
+            "ceuta_melilla"
+        },
+        PersianKeywords = new[]
         {
             "ceuta_melilla"
         },
@@ -22533,6 +29361,10 @@ public static partial class Emojis
         {
             "ecuador"
         },
+        PersianKeywords = new[]
+        {
+            "ecuador"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22543,6 +29375,10 @@ public static partial class Emojis
         Description = "flag: Estonia",
         Category = "Flags",
         Aliases = new[]
+        {
+            "estonia"
+        },
+        PersianKeywords = new[]
         {
             "estonia"
         },
@@ -22559,6 +29395,10 @@ public static partial class Emojis
         {
             "egypt"
         },
+        PersianKeywords = new[]
+        {
+            "egypt"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22572,6 +29412,10 @@ public static partial class Emojis
         {
             "western_sahara"
         },
+        PersianKeywords = new[]
+        {
+            "western_sahara"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.0"
     };
@@ -22582,6 +29426,10 @@ public static partial class Emojis
         Description = "flag: Eritrea",
         Category = "Flags",
         Aliases = new[]
+        {
+            "eritrea"
+        },
+        PersianKeywords = new[]
         {
             "eritrea"
         },
@@ -22602,6 +29450,11 @@ public static partial class Emojis
         {
             "spain"
         },
+        PersianKeywords = new[]
+        {
+            "es",
+            "spain"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -22612,6 +29465,10 @@ public static partial class Emojis
         Description = "flag: Ethiopia",
         Category = "Flags",
         Aliases = new[]
+        {
+            "ethiopia"
+        },
+        PersianKeywords = new[]
         {
             "ethiopia"
         },
@@ -22629,6 +29486,11 @@ public static partial class Emojis
             "eu",
             "european_union"
         },
+        PersianKeywords = new[]
+        {
+            "eu",
+            "european_union"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.0"
     };
@@ -22639,6 +29501,10 @@ public static partial class Emojis
         Description = "flag: Finland",
         Category = "Flags",
         Aliases = new[]
+        {
+            "finland"
+        },
+        PersianKeywords = new[]
         {
             "finland"
         },
@@ -22655,6 +29521,10 @@ public static partial class Emojis
         {
             "fiji"
         },
+        PersianKeywords = new[]
+        {
+            "fiji"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22665,6 +29535,10 @@ public static partial class Emojis
         Description = "flag: Falkland Islands",
         Category = "Flags",
         Aliases = new[]
+        {
+            "falkland_islands"
+        },
+        PersianKeywords = new[]
         {
             "falkland_islands"
         },
@@ -22681,6 +29555,10 @@ public static partial class Emojis
         {
             "micronesia"
         },
+        PersianKeywords = new[]
+        {
+            "micronesia"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.0"
     };
@@ -22691,6 +29569,10 @@ public static partial class Emojis
         Description = "flag: Faroe Islands",
         Category = "Flags",
         Aliases = new[]
+        {
+            "faroe_islands"
+        },
+        PersianKeywords = new[]
         {
             "faroe_islands"
         },
@@ -22712,6 +29594,12 @@ public static partial class Emojis
             "france",
             "french"
         },
+        PersianKeywords = new[]
+        {
+            "fr",
+            "france",
+            "french"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -22722,6 +29610,10 @@ public static partial class Emojis
         Description = "flag: Gabon",
         Category = "Flags",
         Aliases = new[]
+        {
+            "gabon"
+        },
+        PersianKeywords = new[]
         {
             "gabon"
         },
@@ -22744,6 +29636,13 @@ public static partial class Emojis
             "flag",
             "british"
         },
+        PersianKeywords = new[]
+        {
+            "gb",
+            "uk",
+            "flag",
+            "british"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -22754,6 +29653,10 @@ public static partial class Emojis
         Description = "flag: Grenada",
         Category = "Flags",
         Aliases = new[]
+        {
+            "grenada"
+        },
+        PersianKeywords = new[]
         {
             "grenada"
         },
@@ -22770,6 +29673,10 @@ public static partial class Emojis
         {
             "georgia"
         },
+        PersianKeywords = new[]
+        {
+            "georgia"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22780,6 +29687,10 @@ public static partial class Emojis
         Description = "flag: French Guiana",
         Category = "Flags",
         Aliases = new[]
+        {
+            "french_guiana"
+        },
+        PersianKeywords = new[]
         {
             "french_guiana"
         },
@@ -22796,6 +29707,10 @@ public static partial class Emojis
         {
             "guernsey"
         },
+        PersianKeywords = new[]
+        {
+            "guernsey"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.0"
     };
@@ -22806,6 +29721,10 @@ public static partial class Emojis
         Description = "flag: Ghana",
         Category = "Flags",
         Aliases = new[]
+        {
+            "ghana"
+        },
+        PersianKeywords = new[]
         {
             "ghana"
         },
@@ -22822,6 +29741,10 @@ public static partial class Emojis
         {
             "gibraltar"
         },
+        PersianKeywords = new[]
+        {
+            "gibraltar"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22832,6 +29755,10 @@ public static partial class Emojis
         Description = "flag: Greenland",
         Category = "Flags",
         Aliases = new[]
+        {
+            "greenland"
+        },
+        PersianKeywords = new[]
         {
             "greenland"
         },
@@ -22848,6 +29775,10 @@ public static partial class Emojis
         {
             "gambia"
         },
+        PersianKeywords = new[]
+        {
+            "gambia"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22858,6 +29789,10 @@ public static partial class Emojis
         Description = "flag: Guinea",
         Category = "Flags",
         Aliases = new[]
+        {
+            "guinea"
+        },
+        PersianKeywords = new[]
         {
             "guinea"
         },
@@ -22874,6 +29809,10 @@ public static partial class Emojis
         {
             "guadeloupe"
         },
+        PersianKeywords = new[]
+        {
+            "guadeloupe"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.0"
     };
@@ -22884,6 +29823,10 @@ public static partial class Emojis
         Description = "flag: Equatorial Guinea",
         Category = "Flags",
         Aliases = new[]
+        {
+            "equatorial_guinea"
+        },
+        PersianKeywords = new[]
         {
             "equatorial_guinea"
         },
@@ -22900,6 +29843,10 @@ public static partial class Emojis
         {
             "greece"
         },
+        PersianKeywords = new[]
+        {
+            "greece"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22910,6 +29857,10 @@ public static partial class Emojis
         Description = "flag: South Georgia & South Sandwich Islands",
         Category = "Flags",
         Aliases = new[]
+        {
+            "south_georgia_south_sandwich_islands"
+        },
+        PersianKeywords = new[]
         {
             "south_georgia_south_sandwich_islands"
         },
@@ -22926,6 +29877,10 @@ public static partial class Emojis
         {
             "guatemala"
         },
+        PersianKeywords = new[]
+        {
+            "guatemala"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22936,6 +29891,10 @@ public static partial class Emojis
         Description = "flag: Guam",
         Category = "Flags",
         Aliases = new[]
+        {
+            "guam"
+        },
+        PersianKeywords = new[]
         {
             "guam"
         },
@@ -22952,6 +29911,10 @@ public static partial class Emojis
         {
             "guinea_bissau"
         },
+        PersianKeywords = new[]
+        {
+            "guinea_bissau"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22962,6 +29925,10 @@ public static partial class Emojis
         Description = "flag: Guyana",
         Category = "Flags",
         Aliases = new[]
+        {
+            "guyana"
+        },
+        PersianKeywords = new[]
         {
             "guyana"
         },
@@ -22978,6 +29945,10 @@ public static partial class Emojis
         {
             "hong_kong"
         },
+        PersianKeywords = new[]
+        {
+            "hong_kong"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -22988,6 +29959,10 @@ public static partial class Emojis
         Description = "flag: Heard & McDonald Islands",
         Category = "Flags",
         Aliases = new[]
+        {
+            "heard_mcdonald_islands"
+        },
+        PersianKeywords = new[]
         {
             "heard_mcdonald_islands"
         },
@@ -23004,6 +29979,10 @@ public static partial class Emojis
         {
             "honduras"
         },
+        PersianKeywords = new[]
+        {
+            "honduras"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23014,6 +29993,10 @@ public static partial class Emojis
         Description = "flag: Croatia",
         Category = "Flags",
         Aliases = new[]
+        {
+            "croatia"
+        },
+        PersianKeywords = new[]
         {
             "croatia"
         },
@@ -23030,6 +30013,10 @@ public static partial class Emojis
         {
             "haiti"
         },
+        PersianKeywords = new[]
+        {
+            "haiti"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23040,6 +30027,10 @@ public static partial class Emojis
         Description = "flag: Hungary",
         Category = "Flags",
         Aliases = new[]
+        {
+            "hungary"
+        },
+        PersianKeywords = new[]
         {
             "hungary"
         },
@@ -23056,6 +30047,10 @@ public static partial class Emojis
         {
             "canary_islands"
         },
+        PersianKeywords = new[]
+        {
+            "canary_islands"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.0"
     };
@@ -23066,6 +30061,10 @@ public static partial class Emojis
         Description = "flag: Indonesia",
         Category = "Flags",
         Aliases = new[]
+        {
+            "indonesia"
+        },
+        PersianKeywords = new[]
         {
             "indonesia"
         },
@@ -23082,6 +30081,10 @@ public static partial class Emojis
         {
             "ireland"
         },
+        PersianKeywords = new[]
+        {
+            "ireland"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23092,6 +30095,10 @@ public static partial class Emojis
         Description = "flag: Israel",
         Category = "Flags",
         Aliases = new[]
+        {
+            "israel"
+        },
+        PersianKeywords = new[]
         {
             "israel"
         },
@@ -23108,6 +30115,10 @@ public static partial class Emojis
         {
             "isle_of_man"
         },
+        PersianKeywords = new[]
+        {
+            "isle_of_man"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.0"
     };
@@ -23118,6 +30129,10 @@ public static partial class Emojis
         Description = "flag: India",
         Category = "Flags",
         Aliases = new[]
+        {
+            "india"
+        },
+        PersianKeywords = new[]
         {
             "india"
         },
@@ -23134,6 +30149,10 @@ public static partial class Emojis
         {
             "british_indian_ocean_territory"
         },
+        PersianKeywords = new[]
+        {
+            "british_indian_ocean_territory"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.0"
     };
@@ -23144,6 +30163,10 @@ public static partial class Emojis
         Description = "flag: Iraq",
         Category = "Flags",
         Aliases = new[]
+        {
+            "iraq"
+        },
+        PersianKeywords = new[]
         {
             "iraq"
         },
@@ -23160,6 +30183,10 @@ public static partial class Emojis
         {
             "iran"
         },
+        PersianKeywords = new[]
+        {
+            "iran"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23170,6 +30197,10 @@ public static partial class Emojis
         Description = "flag: Iceland",
         Category = "Flags",
         Aliases = new[]
+        {
+            "iceland"
+        },
+        PersianKeywords = new[]
         {
             "iceland"
         },
@@ -23190,6 +30221,11 @@ public static partial class Emojis
         {
             "italy"
         },
+        PersianKeywords = new[]
+        {
+            "it",
+            "italy"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -23200,6 +30236,10 @@ public static partial class Emojis
         Description = "flag: Jersey",
         Category = "Flags",
         Aliases = new[]
+        {
+            "jersey"
+        },
+        PersianKeywords = new[]
         {
             "jersey"
         },
@@ -23216,6 +30256,10 @@ public static partial class Emojis
         {
             "jamaica"
         },
+        PersianKeywords = new[]
+        {
+            "jamaica"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23226,6 +30270,10 @@ public static partial class Emojis
         Description = "flag: Jordan",
         Category = "Flags",
         Aliases = new[]
+        {
+            "jordan"
+        },
+        PersianKeywords = new[]
         {
             "jordan"
         },
@@ -23246,6 +30294,11 @@ public static partial class Emojis
         {
             "japan"
         },
+        PersianKeywords = new[]
+        {
+            "jp",
+            "japan"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -23256,6 +30309,10 @@ public static partial class Emojis
         Description = "flag: Kenya",
         Category = "Flags",
         Aliases = new[]
+        {
+            "kenya"
+        },
+        PersianKeywords = new[]
         {
             "kenya"
         },
@@ -23272,6 +30329,10 @@ public static partial class Emojis
         {
             "kyrgyzstan"
         },
+        PersianKeywords = new[]
+        {
+            "kyrgyzstan"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23282,6 +30343,10 @@ public static partial class Emojis
         Description = "flag: Cambodia",
         Category = "Flags",
         Aliases = new[]
+        {
+            "cambodia"
+        },
+        PersianKeywords = new[]
         {
             "cambodia"
         },
@@ -23298,6 +30363,10 @@ public static partial class Emojis
         {
             "kiribati"
         },
+        PersianKeywords = new[]
+        {
+            "kiribati"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23308,6 +30377,10 @@ public static partial class Emojis
         Description = "flag: Comoros",
         Category = "Flags",
         Aliases = new[]
+        {
+            "comoros"
+        },
+        PersianKeywords = new[]
         {
             "comoros"
         },
@@ -23324,6 +30397,10 @@ public static partial class Emojis
         {
             "st_kitts_nevis"
         },
+        PersianKeywords = new[]
+        {
+            "st_kitts_nevis"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23334,6 +30411,10 @@ public static partial class Emojis
         Description = "flag: North Korea",
         Category = "Flags",
         Aliases = new[]
+        {
+            "north_korea"
+        },
+        PersianKeywords = new[]
         {
             "north_korea"
         },
@@ -23354,6 +30435,11 @@ public static partial class Emojis
         {
             "korea"
         },
+        PersianKeywords = new[]
+        {
+            "kr",
+            "korea"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -23364,6 +30450,10 @@ public static partial class Emojis
         Description = "flag: Kuwait",
         Category = "Flags",
         Aliases = new[]
+        {
+            "kuwait"
+        },
+        PersianKeywords = new[]
         {
             "kuwait"
         },
@@ -23380,6 +30470,10 @@ public static partial class Emojis
         {
             "cayman_islands"
         },
+        PersianKeywords = new[]
+        {
+            "cayman_islands"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23390,6 +30484,10 @@ public static partial class Emojis
         Description = "flag: Kazakhstan",
         Category = "Flags",
         Aliases = new[]
+        {
+            "kazakhstan"
+        },
+        PersianKeywords = new[]
         {
             "kazakhstan"
         },
@@ -23406,6 +30504,10 @@ public static partial class Emojis
         {
             "laos"
         },
+        PersianKeywords = new[]
+        {
+            "laos"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23416,6 +30518,10 @@ public static partial class Emojis
         Description = "flag: Lebanon",
         Category = "Flags",
         Aliases = new[]
+        {
+            "lebanon"
+        },
+        PersianKeywords = new[]
         {
             "lebanon"
         },
@@ -23432,6 +30538,10 @@ public static partial class Emojis
         {
             "st_lucia"
         },
+        PersianKeywords = new[]
+        {
+            "st_lucia"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23442,6 +30552,10 @@ public static partial class Emojis
         Description = "flag: Liechtenstein",
         Category = "Flags",
         Aliases = new[]
+        {
+            "liechtenstein"
+        },
+        PersianKeywords = new[]
         {
             "liechtenstein"
         },
@@ -23458,6 +30572,10 @@ public static partial class Emojis
         {
             "sri_lanka"
         },
+        PersianKeywords = new[]
+        {
+            "sri_lanka"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23468,6 +30586,10 @@ public static partial class Emojis
         Description = "flag: Liberia",
         Category = "Flags",
         Aliases = new[]
+        {
+            "liberia"
+        },
+        PersianKeywords = new[]
         {
             "liberia"
         },
@@ -23484,6 +30606,10 @@ public static partial class Emojis
         {
             "lesotho"
         },
+        PersianKeywords = new[]
+        {
+            "lesotho"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23494,6 +30620,10 @@ public static partial class Emojis
         Description = "flag: Lithuania",
         Category = "Flags",
         Aliases = new[]
+        {
+            "lithuania"
+        },
+        PersianKeywords = new[]
         {
             "lithuania"
         },
@@ -23510,6 +30640,10 @@ public static partial class Emojis
         {
             "luxembourg"
         },
+        PersianKeywords = new[]
+        {
+            "luxembourg"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23520,6 +30654,10 @@ public static partial class Emojis
         Description = "flag: Latvia",
         Category = "Flags",
         Aliases = new[]
+        {
+            "latvia"
+        },
+        PersianKeywords = new[]
         {
             "latvia"
         },
@@ -23536,6 +30674,10 @@ public static partial class Emojis
         {
             "libya"
         },
+        PersianKeywords = new[]
+        {
+            "libya"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23546,6 +30688,10 @@ public static partial class Emojis
         Description = "flag: Morocco",
         Category = "Flags",
         Aliases = new[]
+        {
+            "morocco"
+        },
+        PersianKeywords = new[]
         {
             "morocco"
         },
@@ -23562,6 +30708,10 @@ public static partial class Emojis
         {
             "monaco"
         },
+        PersianKeywords = new[]
+        {
+            "monaco"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.0"
     };
@@ -23572,6 +30722,10 @@ public static partial class Emojis
         Description = "flag: Moldova",
         Category = "Flags",
         Aliases = new[]
+        {
+            "moldova"
+        },
+        PersianKeywords = new[]
         {
             "moldova"
         },
@@ -23588,6 +30742,10 @@ public static partial class Emojis
         {
             "montenegro"
         },
+        PersianKeywords = new[]
+        {
+            "montenegro"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23598,6 +30756,10 @@ public static partial class Emojis
         Description = "flag: St. Martin",
         Category = "Flags",
         Aliases = new[]
+        {
+            "st_martin"
+        },
+        PersianKeywords = new[]
         {
             "st_martin"
         },
@@ -23614,6 +30776,10 @@ public static partial class Emojis
         {
             "madagascar"
         },
+        PersianKeywords = new[]
+        {
+            "madagascar"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23624,6 +30790,10 @@ public static partial class Emojis
         Description = "flag: Marshall Islands",
         Category = "Flags",
         Aliases = new[]
+        {
+            "marshall_islands"
+        },
+        PersianKeywords = new[]
         {
             "marshall_islands"
         },
@@ -23640,6 +30810,10 @@ public static partial class Emojis
         {
             "macedonia"
         },
+        PersianKeywords = new[]
+        {
+            "macedonia"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23650,6 +30824,10 @@ public static partial class Emojis
         Description = "flag: Mali",
         Category = "Flags",
         Aliases = new[]
+        {
+            "mali"
+        },
+        PersianKeywords = new[]
         {
             "mali"
         },
@@ -23670,6 +30848,11 @@ public static partial class Emojis
         {
             "burma"
         },
+        PersianKeywords = new[]
+        {
+            "myanmar",
+            "burma"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23680,6 +30863,10 @@ public static partial class Emojis
         Description = "flag: Mongolia",
         Category = "Flags",
         Aliases = new[]
+        {
+            "mongolia"
+        },
+        PersianKeywords = new[]
         {
             "mongolia"
         },
@@ -23696,6 +30883,10 @@ public static partial class Emojis
         {
             "macau"
         },
+        PersianKeywords = new[]
+        {
+            "macau"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23706,6 +30897,10 @@ public static partial class Emojis
         Description = "flag: Northern Mariana Islands",
         Category = "Flags",
         Aliases = new[]
+        {
+            "northern_mariana_islands"
+        },
+        PersianKeywords = new[]
         {
             "northern_mariana_islands"
         },
@@ -23722,6 +30917,10 @@ public static partial class Emojis
         {
             "martinique"
         },
+        PersianKeywords = new[]
+        {
+            "martinique"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.0"
     };
@@ -23732,6 +30931,10 @@ public static partial class Emojis
         Description = "flag: Mauritania",
         Category = "Flags",
         Aliases = new[]
+        {
+            "mauritania"
+        },
+        PersianKeywords = new[]
         {
             "mauritania"
         },
@@ -23748,6 +30951,10 @@ public static partial class Emojis
         {
             "montserrat"
         },
+        PersianKeywords = new[]
+        {
+            "montserrat"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23758,6 +30965,10 @@ public static partial class Emojis
         Description = "flag: Malta",
         Category = "Flags",
         Aliases = new[]
+        {
+            "malta"
+        },
+        PersianKeywords = new[]
         {
             "malta"
         },
@@ -23774,6 +30985,10 @@ public static partial class Emojis
         {
             "mauritius"
         },
+        PersianKeywords = new[]
+        {
+            "mauritius"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.0"
     };
@@ -23784,6 +30999,10 @@ public static partial class Emojis
         Description = "flag: Maldives",
         Category = "Flags",
         Aliases = new[]
+        {
+            "maldives"
+        },
+        PersianKeywords = new[]
         {
             "maldives"
         },
@@ -23800,6 +31019,10 @@ public static partial class Emojis
         {
             "malawi"
         },
+        PersianKeywords = new[]
+        {
+            "malawi"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23810,6 +31033,10 @@ public static partial class Emojis
         Description = "flag: Mexico",
         Category = "Flags",
         Aliases = new[]
+        {
+            "mexico"
+        },
+        PersianKeywords = new[]
         {
             "mexico"
         },
@@ -23826,6 +31053,10 @@ public static partial class Emojis
         {
             "malaysia"
         },
+        PersianKeywords = new[]
+        {
+            "malaysia"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23836,6 +31067,10 @@ public static partial class Emojis
         Description = "flag: Mozambique",
         Category = "Flags",
         Aliases = new[]
+        {
+            "mozambique"
+        },
+        PersianKeywords = new[]
         {
             "mozambique"
         },
@@ -23852,6 +31087,10 @@ public static partial class Emojis
         {
             "namibia"
         },
+        PersianKeywords = new[]
+        {
+            "namibia"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23862,6 +31101,10 @@ public static partial class Emojis
         Description = "flag: New Caledonia",
         Category = "Flags",
         Aliases = new[]
+        {
+            "new_caledonia"
+        },
+        PersianKeywords = new[]
         {
             "new_caledonia"
         },
@@ -23878,6 +31121,10 @@ public static partial class Emojis
         {
             "niger"
         },
+        PersianKeywords = new[]
+        {
+            "niger"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23888,6 +31135,10 @@ public static partial class Emojis
         Description = "flag: Norfolk Island",
         Category = "Flags",
         Aliases = new[]
+        {
+            "norfolk_island"
+        },
+        PersianKeywords = new[]
         {
             "norfolk_island"
         },
@@ -23904,6 +31155,10 @@ public static partial class Emojis
         {
             "nigeria"
         },
+        PersianKeywords = new[]
+        {
+            "nigeria"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23914,6 +31169,10 @@ public static partial class Emojis
         Description = "flag: Nicaragua",
         Category = "Flags",
         Aliases = new[]
+        {
+            "nicaragua"
+        },
+        PersianKeywords = new[]
         {
             "nicaragua"
         },
@@ -23930,6 +31189,10 @@ public static partial class Emojis
         {
             "netherlands"
         },
+        PersianKeywords = new[]
+        {
+            "netherlands"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23940,6 +31203,10 @@ public static partial class Emojis
         Description = "flag: Norway",
         Category = "Flags",
         Aliases = new[]
+        {
+            "norway"
+        },
+        PersianKeywords = new[]
         {
             "norway"
         },
@@ -23956,6 +31223,10 @@ public static partial class Emojis
         {
             "nepal"
         },
+        PersianKeywords = new[]
+        {
+            "nepal"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23966,6 +31237,10 @@ public static partial class Emojis
         Description = "flag: Nauru",
         Category = "Flags",
         Aliases = new[]
+        {
+            "nauru"
+        },
+        PersianKeywords = new[]
         {
             "nauru"
         },
@@ -23982,6 +31257,10 @@ public static partial class Emojis
         {
             "niue"
         },
+        PersianKeywords = new[]
+        {
+            "niue"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -23992,6 +31271,10 @@ public static partial class Emojis
         Description = "flag: New Zealand",
         Category = "Flags",
         Aliases = new[]
+        {
+            "new_zealand"
+        },
+        PersianKeywords = new[]
         {
             "new_zealand"
         },
@@ -24008,6 +31291,10 @@ public static partial class Emojis
         {
             "oman"
         },
+        PersianKeywords = new[]
+        {
+            "oman"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24018,6 +31305,10 @@ public static partial class Emojis
         Description = "flag: Panama",
         Category = "Flags",
         Aliases = new[]
+        {
+            "panama"
+        },
+        PersianKeywords = new[]
         {
             "panama"
         },
@@ -24034,6 +31325,10 @@ public static partial class Emojis
         {
             "peru"
         },
+        PersianKeywords = new[]
+        {
+            "peru"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24044,6 +31339,10 @@ public static partial class Emojis
         Description = "flag: French Polynesia",
         Category = "Flags",
         Aliases = new[]
+        {
+            "french_polynesia"
+        },
+        PersianKeywords = new[]
         {
             "french_polynesia"
         },
@@ -24060,6 +31359,10 @@ public static partial class Emojis
         {
             "papua_new_guinea"
         },
+        PersianKeywords = new[]
+        {
+            "papua_new_guinea"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24070,6 +31373,10 @@ public static partial class Emojis
         Description = "flag: Philippines",
         Category = "Flags",
         Aliases = new[]
+        {
+            "philippines"
+        },
+        PersianKeywords = new[]
         {
             "philippines"
         },
@@ -24086,6 +31393,10 @@ public static partial class Emojis
         {
             "pakistan"
         },
+        PersianKeywords = new[]
+        {
+            "pakistan"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24096,6 +31407,10 @@ public static partial class Emojis
         Description = "flag: Poland",
         Category = "Flags",
         Aliases = new[]
+        {
+            "poland"
+        },
+        PersianKeywords = new[]
         {
             "poland"
         },
@@ -24112,6 +31427,10 @@ public static partial class Emojis
         {
             "st_pierre_miquelon"
         },
+        PersianKeywords = new[]
+        {
+            "st_pierre_miquelon"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.0"
     };
@@ -24122,6 +31441,10 @@ public static partial class Emojis
         Description = "flag: Pitcairn Islands",
         Category = "Flags",
         Aliases = new[]
+        {
+            "pitcairn_islands"
+        },
+        PersianKeywords = new[]
         {
             "pitcairn_islands"
         },
@@ -24138,6 +31461,10 @@ public static partial class Emojis
         {
             "puerto_rico"
         },
+        PersianKeywords = new[]
+        {
+            "puerto_rico"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24148,6 +31475,10 @@ public static partial class Emojis
         Description = "flag: Palestinian Territories",
         Category = "Flags",
         Aliases = new[]
+        {
+            "palestinian_territories"
+        },
+        PersianKeywords = new[]
         {
             "palestinian_territories"
         },
@@ -24164,6 +31495,10 @@ public static partial class Emojis
         {
             "portugal"
         },
+        PersianKeywords = new[]
+        {
+            "portugal"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24174,6 +31509,10 @@ public static partial class Emojis
         Description = "flag: Palau",
         Category = "Flags",
         Aliases = new[]
+        {
+            "palau"
+        },
+        PersianKeywords = new[]
         {
             "palau"
         },
@@ -24190,6 +31529,10 @@ public static partial class Emojis
         {
             "paraguay"
         },
+        PersianKeywords = new[]
+        {
+            "paraguay"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24200,6 +31543,10 @@ public static partial class Emojis
         Description = "flag: Qatar",
         Category = "Flags",
         Aliases = new[]
+        {
+            "qatar"
+        },
+        PersianKeywords = new[]
         {
             "qatar"
         },
@@ -24216,6 +31563,10 @@ public static partial class Emojis
         {
             "reunion"
         },
+        PersianKeywords = new[]
+        {
+            "reunion"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.0"
     };
@@ -24229,6 +31580,10 @@ public static partial class Emojis
         {
             "romania"
         },
+        PersianKeywords = new[]
+        {
+            "romania"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24239,6 +31594,10 @@ public static partial class Emojis
         Description = "flag: Serbia",
         Category = "Flags",
         Aliases = new[]
+        {
+            "serbia"
+        },
+        PersianKeywords = new[]
         {
             "serbia"
         },
@@ -24259,6 +31618,11 @@ public static partial class Emojis
         {
             "russia"
         },
+        PersianKeywords = new[]
+        {
+            "ru",
+            "russia"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -24269,6 +31633,10 @@ public static partial class Emojis
         Description = "flag: Rwanda",
         Category = "Flags",
         Aliases = new[]
+        {
+            "rwanda"
+        },
+        PersianKeywords = new[]
         {
             "rwanda"
         },
@@ -24285,6 +31653,10 @@ public static partial class Emojis
         {
             "saudi_arabia"
         },
+        PersianKeywords = new[]
+        {
+            "saudi_arabia"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24295,6 +31667,10 @@ public static partial class Emojis
         Description = "flag: Solomon Islands",
         Category = "Flags",
         Aliases = new[]
+        {
+            "solomon_islands"
+        },
+        PersianKeywords = new[]
         {
             "solomon_islands"
         },
@@ -24311,6 +31687,10 @@ public static partial class Emojis
         {
             "seychelles"
         },
+        PersianKeywords = new[]
+        {
+            "seychelles"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24321,6 +31701,10 @@ public static partial class Emojis
         Description = "flag: Sudan",
         Category = "Flags",
         Aliases = new[]
+        {
+            "sudan"
+        },
+        PersianKeywords = new[]
         {
             "sudan"
         },
@@ -24337,6 +31721,10 @@ public static partial class Emojis
         {
             "sweden"
         },
+        PersianKeywords = new[]
+        {
+            "sweden"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24347,6 +31735,10 @@ public static partial class Emojis
         Description = "flag: Singapore",
         Category = "Flags",
         Aliases = new[]
+        {
+            "singapore"
+        },
+        PersianKeywords = new[]
         {
             "singapore"
         },
@@ -24363,6 +31755,10 @@ public static partial class Emojis
         {
             "st_helena"
         },
+        PersianKeywords = new[]
+        {
+            "st_helena"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.0"
     };
@@ -24373,6 +31769,10 @@ public static partial class Emojis
         Description = "flag: Slovenia",
         Category = "Flags",
         Aliases = new[]
+        {
+            "slovenia"
+        },
+        PersianKeywords = new[]
         {
             "slovenia"
         },
@@ -24389,6 +31789,10 @@ public static partial class Emojis
         {
             "svalbard_jan_mayen"
         },
+        PersianKeywords = new[]
+        {
+            "svalbard_jan_mayen"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -24399,6 +31803,10 @@ public static partial class Emojis
         Description = "flag: Slovakia",
         Category = "Flags",
         Aliases = new[]
+        {
+            "slovakia"
+        },
+        PersianKeywords = new[]
         {
             "slovakia"
         },
@@ -24415,6 +31823,10 @@ public static partial class Emojis
         {
             "sierra_leone"
         },
+        PersianKeywords = new[]
+        {
+            "sierra_leone"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24425,6 +31837,10 @@ public static partial class Emojis
         Description = "flag: San Marino",
         Category = "Flags",
         Aliases = new[]
+        {
+            "san_marino"
+        },
+        PersianKeywords = new[]
         {
             "san_marino"
         },
@@ -24441,6 +31857,10 @@ public static partial class Emojis
         {
             "senegal"
         },
+        PersianKeywords = new[]
+        {
+            "senegal"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24451,6 +31871,10 @@ public static partial class Emojis
         Description = "flag: Somalia",
         Category = "Flags",
         Aliases = new[]
+        {
+            "somalia"
+        },
+        PersianKeywords = new[]
         {
             "somalia"
         },
@@ -24467,6 +31891,10 @@ public static partial class Emojis
         {
             "suriname"
         },
+        PersianKeywords = new[]
+        {
+            "suriname"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24477,6 +31905,10 @@ public static partial class Emojis
         Description = "flag: South Sudan",
         Category = "Flags",
         Aliases = new[]
+        {
+            "south_sudan"
+        },
+        PersianKeywords = new[]
         {
             "south_sudan"
         },
@@ -24493,6 +31925,10 @@ public static partial class Emojis
         {
             "sao_tome_principe"
         },
+        PersianKeywords = new[]
+        {
+            "sao_tome_principe"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24503,6 +31939,10 @@ public static partial class Emojis
         Description = "flag: El Salvador",
         Category = "Flags",
         Aliases = new[]
+        {
+            "el_salvador"
+        },
+        PersianKeywords = new[]
         {
             "el_salvador"
         },
@@ -24519,6 +31959,10 @@ public static partial class Emojis
         {
             "sint_maarten"
         },
+        PersianKeywords = new[]
+        {
+            "sint_maarten"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24529,6 +31973,10 @@ public static partial class Emojis
         Description = "flag: Syria",
         Category = "Flags",
         Aliases = new[]
+        {
+            "syria"
+        },
+        PersianKeywords = new[]
         {
             "syria"
         },
@@ -24545,6 +31993,10 @@ public static partial class Emojis
         {
             "swaziland"
         },
+        PersianKeywords = new[]
+        {
+            "swaziland"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24555,6 +32007,10 @@ public static partial class Emojis
         Description = "flag: Tristan da Cunha",
         Category = "Flags",
         Aliases = new[]
+        {
+            "tristan_da_cunha"
+        },
+        PersianKeywords = new[]
         {
             "tristan_da_cunha"
         },
@@ -24571,6 +32027,10 @@ public static partial class Emojis
         {
             "turks_caicos_islands"
         },
+        PersianKeywords = new[]
+        {
+            "turks_caicos_islands"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24581,6 +32041,10 @@ public static partial class Emojis
         Description = "flag: Chad",
         Category = "Flags",
         Aliases = new[]
+        {
+            "chad"
+        },
+        PersianKeywords = new[]
         {
             "chad"
         },
@@ -24597,6 +32061,10 @@ public static partial class Emojis
         {
             "french_southern_territories"
         },
+        PersianKeywords = new[]
+        {
+            "french_southern_territories"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24607,6 +32075,10 @@ public static partial class Emojis
         Description = "flag: Togo",
         Category = "Flags",
         Aliases = new[]
+        {
+            "togo"
+        },
+        PersianKeywords = new[]
         {
             "togo"
         },
@@ -24623,6 +32095,10 @@ public static partial class Emojis
         {
             "thailand"
         },
+        PersianKeywords = new[]
+        {
+            "thailand"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24633,6 +32109,10 @@ public static partial class Emojis
         Description = "flag: Tajikistan",
         Category = "Flags",
         Aliases = new[]
+        {
+            "tajikistan"
+        },
+        PersianKeywords = new[]
         {
             "tajikistan"
         },
@@ -24649,6 +32129,10 @@ public static partial class Emojis
         {
             "tokelau"
         },
+        PersianKeywords = new[]
+        {
+            "tokelau"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.0"
     };
@@ -24659,6 +32143,10 @@ public static partial class Emojis
         Description = "flag: Timor-Leste",
         Category = "Flags",
         Aliases = new[]
+        {
+            "timor_leste"
+        },
+        PersianKeywords = new[]
         {
             "timor_leste"
         },
@@ -24675,6 +32163,10 @@ public static partial class Emojis
         {
             "turkmenistan"
         },
+        PersianKeywords = new[]
+        {
+            "turkmenistan"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24688,6 +32180,10 @@ public static partial class Emojis
         {
             "tunisia"
         },
+        PersianKeywords = new[]
+        {
+            "tunisia"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24698,6 +32194,10 @@ public static partial class Emojis
         Description = "flag: Tonga",
         Category = "Flags",
         Aliases = new[]
+        {
+            "tonga"
+        },
+        PersianKeywords = new[]
         {
             "tonga"
         },
@@ -24718,6 +32218,11 @@ public static partial class Emojis
         {
             "turkey"
         },
+        PersianKeywords = new[]
+        {
+            "tr",
+            "turkey"
+        },
         UnicodeVersion = "8.0",
         IosVersion = "9.1"
     };
@@ -24728,6 +32233,10 @@ public static partial class Emojis
         Description = "flag: Trinidad & Tobago",
         Category = "Flags",
         Aliases = new[]
+        {
+            "trinidad_tobago"
+        },
+        PersianKeywords = new[]
         {
             "trinidad_tobago"
         },
@@ -24744,6 +32253,10 @@ public static partial class Emojis
         {
             "tuvalu"
         },
+        PersianKeywords = new[]
+        {
+            "tuvalu"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24754,6 +32267,10 @@ public static partial class Emojis
         Description = "flag: Taiwan",
         Category = "Flags",
         Aliases = new[]
+        {
+            "taiwan"
+        },
+        PersianKeywords = new[]
         {
             "taiwan"
         },
@@ -24770,6 +32287,10 @@ public static partial class Emojis
         {
             "tanzania"
         },
+        PersianKeywords = new[]
+        {
+            "tanzania"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24780,6 +32301,10 @@ public static partial class Emojis
         Description = "flag: Ukraine",
         Category = "Flags",
         Aliases = new[]
+        {
+            "ukraine"
+        },
+        PersianKeywords = new[]
         {
             "ukraine"
         },
@@ -24796,6 +32321,10 @@ public static partial class Emojis
         {
             "uganda"
         },
+        PersianKeywords = new[]
+        {
+            "uganda"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24809,6 +32338,10 @@ public static partial class Emojis
         {
             "us_outlying_islands"
         },
+        PersianKeywords = new[]
+        {
+            "us_outlying_islands"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -24819,6 +32352,10 @@ public static partial class Emojis
         Description = "flag: United Nations",
         Category = "Flags",
         Aliases = new[]
+        {
+            "united_nations"
+        },
+        PersianKeywords = new[]
         {
             "united_nations"
         },
@@ -24841,6 +32378,13 @@ public static partial class Emojis
             "united",
             "america"
         },
+        PersianKeywords = new[]
+        {
+            "us",
+            "flag",
+            "united",
+            "america"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "6.0"
     };
@@ -24851,6 +32395,10 @@ public static partial class Emojis
         Description = "flag: Uruguay",
         Category = "Flags",
         Aliases = new[]
+        {
+            "uruguay"
+        },
+        PersianKeywords = new[]
         {
             "uruguay"
         },
@@ -24867,6 +32415,10 @@ public static partial class Emojis
         {
             "uzbekistan"
         },
+        PersianKeywords = new[]
+        {
+            "uzbekistan"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24877,6 +32429,10 @@ public static partial class Emojis
         Description = "flag: Vatican City",
         Category = "Flags",
         Aliases = new[]
+        {
+            "vatican_city"
+        },
+        PersianKeywords = new[]
         {
             "vatican_city"
         },
@@ -24893,6 +32449,10 @@ public static partial class Emojis
         {
             "st_vincent_grenadines"
         },
+        PersianKeywords = new[]
+        {
+            "st_vincent_grenadines"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24903,6 +32463,10 @@ public static partial class Emojis
         Description = "flag: Venezuela",
         Category = "Flags",
         Aliases = new[]
+        {
+            "venezuela"
+        },
+        PersianKeywords = new[]
         {
             "venezuela"
         },
@@ -24919,6 +32483,10 @@ public static partial class Emojis
         {
             "british_virgin_islands"
         },
+        PersianKeywords = new[]
+        {
+            "british_virgin_islands"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24929,6 +32497,10 @@ public static partial class Emojis
         Description = "flag: U.S. Virgin Islands",
         Category = "Flags",
         Aliases = new[]
+        {
+            "us_virgin_islands"
+        },
+        PersianKeywords = new[]
         {
             "us_virgin_islands"
         },
@@ -24945,6 +32517,10 @@ public static partial class Emojis
         {
             "vietnam"
         },
+        PersianKeywords = new[]
+        {
+            "vietnam"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -24955,6 +32531,10 @@ public static partial class Emojis
         Description = "flag: Vanuatu",
         Category = "Flags",
         Aliases = new[]
+        {
+            "vanuatu"
+        },
+        PersianKeywords = new[]
         {
             "vanuatu"
         },
@@ -24971,6 +32551,10 @@ public static partial class Emojis
         {
             "wallis_futuna"
         },
+        PersianKeywords = new[]
+        {
+            "wallis_futuna"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.0"
     };
@@ -24981,6 +32565,10 @@ public static partial class Emojis
         Description = "flag: Samoa",
         Category = "Flags",
         Aliases = new[]
+        {
+            "samoa"
+        },
+        PersianKeywords = new[]
         {
             "samoa"
         },
@@ -24997,6 +32585,10 @@ public static partial class Emojis
         {
             "kosovo"
         },
+        PersianKeywords = new[]
+        {
+            "kosovo"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -25007,6 +32599,10 @@ public static partial class Emojis
         Description = "flag: Yemen",
         Category = "Flags",
         Aliases = new[]
+        {
+            "yemen"
+        },
+        PersianKeywords = new[]
         {
             "yemen"
         },
@@ -25023,6 +32619,10 @@ public static partial class Emojis
         {
             "mayotte"
         },
+        PersianKeywords = new[]
+        {
+            "mayotte"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "9.0"
     };
@@ -25033,6 +32633,10 @@ public static partial class Emojis
         Description = "flag: South Africa",
         Category = "Flags",
         Aliases = new[]
+        {
+            "south_africa"
+        },
+        PersianKeywords = new[]
         {
             "south_africa"
         },
@@ -25049,6 +32653,10 @@ public static partial class Emojis
         {
             "zambia"
         },
+        PersianKeywords = new[]
+        {
+            "zambia"
+        },
         UnicodeVersion = "6.0",
         IosVersion = "8.3"
     };
@@ -25059,6 +32667,10 @@ public static partial class Emojis
         Description = "flag: Zimbabwe",
         Category = "Flags",
         Aliases = new[]
+        {
+            "zimbabwe"
+        },
+        PersianKeywords = new[]
         {
             "zimbabwe"
         },
@@ -25075,6 +32687,10 @@ public static partial class Emojis
         {
             "england"
         },
+        PersianKeywords = new[]
+        {
+            "england"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -25088,6 +32704,10 @@ public static partial class Emojis
         {
             "scotland"
         },
+        PersianKeywords = new[]
+        {
+            "scotland"
+        },
         UnicodeVersion = "11.0",
         IosVersion = "12.1"
     };
@@ -25098,6 +32718,10 @@ public static partial class Emojis
         Description = "flag: Wales",
         Category = "Flags",
         Aliases = new[]
+        {
+            "wales"
+        },
+        PersianKeywords = new[]
         {
             "wales"
         },
