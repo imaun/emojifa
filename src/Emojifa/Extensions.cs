@@ -5,6 +5,7 @@ using System.Text;
 
 namespace Emojifa
 {
+    
     public static partial class Emoji
     {
 
@@ -24,7 +25,6 @@ namespace Emojifa
         //     return Emoji.All.Where(_ => _.Title.ToUpper().Contains(title.ToUpper()))
         //                             .Select(_=> _.Raw).ToArray();
         // }
-
 
         public static string ConvertHexCodesToEmoji(string text) {
             return string.Empty;
