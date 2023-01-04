@@ -12,4 +12,10 @@ public class EmojiData
     public string[]? PersianKeywords { get; set; }
     public string? UnicodeVersion { get; set; }
     public string? IosVersion { get; set; }
+
+
+    public override string ToString()
+    {
+        return Emoji;
+    }
 }
