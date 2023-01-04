@@ -4,6 +4,10 @@ using Emojifa.Cli;
 // See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
+Console.WriteLine($"{Emojis.Abacus.Emoji}");
+
+return;
+
 Console.WriteLine("Building EmojiArray.cs...");
 await EmojifaBuilder.BuildArrayAsync();
 Console.WriteLine("Build success.");

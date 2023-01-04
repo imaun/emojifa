@@ -12,8 +12,4 @@
     <ProjectReference Include="..\Emojifa\Emojifa.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <PackageReference Include="GoogleTranslateFreeApi" Version="1.1.1" />
-  </ItemGroup>
-
 </Project>

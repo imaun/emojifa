@@ -1,15 +1,10 @@
 using System.Text;
 using System.Globalization;
-using GoogleTranslateFreeApi;
 
 namespace Emojifa.Cli;
 
 public static class EmojifaBuilder
 {
-
-    private static GoogleTranslator _translator = new GoogleTranslator();
-    private static Language from = Language.English;
-    private static Language to = Language.Persian;
     
     public static async Task BuildArrayAsync()
     {
