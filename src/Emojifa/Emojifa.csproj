@@ -8,13 +8,16 @@
     <RootNamespace>Empjifa</RootNamespace>
     <PackageId>Emojifa</PackageId>
     <Title>Standard Emojis in a class library</Title>
-    <Description>Emojifa contains all the standard unicode emojis in one assembly.</Description>
+    <Description>
+      Emojifa contains all the standard unicode emojis in one assembly.
+    </Description>
     <Copyright>(c) 2022 Iman Nemati</Copyright>
     <PackageProjectUrl>https://github.com/imaun/emojifa</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/imaun/emojifa/blob/master/LICENSE</PackageLicenseUrl>
     <RepositoryUrl>https://github.com/imaun/emojifa</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>Emoji, Persian</PackageTags>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
